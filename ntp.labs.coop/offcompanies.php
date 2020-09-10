@@ -2008,15 +2008,6 @@
     'companyrbntype' => '',
     'key' => '771bc71b16c80f8067e7591b0c53df6b',
   ),
-  'florida-gulf-coast-university' => 
-  array (
-    'companyname' => 'Florida Gulf Coast University',
-    'companyemail' => 'webmaster at fgcu dot edu',
-    'companyurl' => 'http://www.fgcu.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'cffe48dd46852cbb9bcd0355a679300b',
-  ),
   'suncom' => 
   array (
     'companyname' => 'SunCom',
@@ -2701,15 +2692,6 @@
     'companyrbntype' => '',
     'key' => '2d38bcbd139e8d01734ef424283ca8d6',
   ),
-  'oakwood-university' => 
-  array (
-    'companyname' => 'Oakwood University',
-    'companyemail' => 'webmaster at oakwood dot edu',
-    'companyurl' => 'http://www.oakwood.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8817485367b11fc7b6464c669df50f9e',
-  ),
   'china-three-gorges-university' => 
   array (
     'companyname' => 'China Three Gorges University',
@@ -2889,15 +2871,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c7b14d464befe4e9861a52b4084d009a',
-  ),
-  'kyungsung-university' => 
-  array (
-    'companyname' => 'Kyungsung University',
-    'companyemail' => 'webmaster at kyungsung dot ac dot kr',
-    'companyurl' => 'http://www.kyungsung.ac.kr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '308e1c31ccde7ecd5a5ab5ba3f8b7fb7',
   ),
   'arba-minch-university' => 
   array (
@@ -4663,6 +4636,15 @@
     'companyrbntype' => '',
     'key' => '7a23b060d468e660dc921d651fcd8ff7',
   ),
+  'technische-fachhochschule-berlin' => 
+  array (
+    'companyname' => 'Technische Fachhochschule Berlin',
+    'companyemail' => 'webmaster at tfh-berlin dot de',
+    'companyurl' => 'http://www.tfh-berlin.de/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '755dbc74af2fb12df5d17851f62b9e16',
+  ),
   'universidad-aut-noma-de-sinaloa' => 
   array (
     'companyname' => 'Universidad Autónoma de Sinaloa',
@@ -5814,15 +5796,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2581ee4be7f44b8d819420d66825bacf',
-  ),
-  'union-college' => 
-  array (
-    'companyname' => 'Union College',
-    'companyemail' => 'webmaster at union dot edu',
-    'companyurl' => 'http://www.union.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6494042c201201e4343fe7b2226654ed',
   ),
   'gomel-state-medical-university' => 
   array (
@@ -12880,6 +12853,15 @@
     'companyrbntype' => '',
     'key' => '543b1bac9fb87a2c4fd4d679d7a0477b',
   ),
+  'instituto-tecnol-gico-de-buenos-aires' => 
+  array (
+    'companyname' => 'Instituto Tecnológico de Buenos Aires',
+    'companyemail' => 'webmaster at itba dot edu dot ar',
+    'companyurl' => 'http://www.itba.edu.ar/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'fee2d6513b81cfdc874a056069b24c6b',
+  ),
   'assam-agricultural-university' => 
   array (
     'companyname' => 'Assam Agricultural University',
@@ -13950,15 +13932,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5b3e0cd11e9007954f1426b2853a90e6',
-  ),
-  'university-of-architecture-civil-engineering-and-geodesy' => 
-  array (
-    'companyname' => 'University of Architecture, Civil Engineering and Geodesy',
-    'companyemail' => 'webmaster at uacg dot bg',
-    'companyurl' => 'http://www.uacg.bg/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3b0c7e52a9f90fb2441da463a859fa00',
   ),
   'xinjiang-normal-university' => 
   array (
@@ -16020,6 +15993,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c7542616f6c59c078d2d6c90666b4469',
+  ),
+  'wuhan-automobile-polytechnical-university' => 
+  array (
+    'companyname' => 'Wuhan Automobile Polytechnical University',
+    'companyemail' => 'webmaster at whapu dot edu dot cn',
+    'companyurl' => 'http://www.whapu.edu.cn/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '28749ff83137419680c2c95109466d78',
   ),
   'universidad-cientifica-del-sur' => 
   array (
@@ -18748,15 +18730,6 @@
     'companyrbntype' => '',
     'key' => '5b88805691be15f4d5a121aed3209446',
   ),
-  'voronezh-state-technical-university' => 
-  array (
-    'companyname' => 'Voronezh State Technical University',
-    'companyemail' => 'webmaster at vorstu dot ac dot ru',
-    'companyurl' => 'http://www.vorstu.ac.ru/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '523e64de13c9ff08aa78deb8ae6cfcda',
-  ),
   'universidad-agroforestal-fernando-a-meri-o' => 
   array (
     'companyname' => 'Universidad Agroforestal Fernando A.Meriño',
@@ -19143,15 +19116,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'a9752421aef00647ce2522a52ffdd90e',
-  ),
-  'universidad-cat-lica-tecnol-gica-del-cibao' => 
-  array (
-    'companyname' => 'Universidad Católica Tecnológica del Cibao',
-    'companyemail' => 'webmaster at ucateci dot edu dot do',
-    'companyurl' => 'http://www.ucateci.edu.do/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'cfee2a7e911d9d90cc530e45e8f41497',
   ),
   'east-delta-university' => 
   array (
@@ -20277,6 +20241,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'a4ce9f3d3fa653178288eddc7256c2e2',
+  ),
+  'institucion-universitaria-de-envigado' => 
+  array (
+    'companyname' => 'Institucion Universitaria de Envigado',
+    'companyemail' => 'webmaster at iue dot edu dot co',
+    'companyurl' => 'http://www.iue.edu.co/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd53e1a2d2b51b2f52d0e3d0cdb97d8f5',
   ),
   'universitas-ahmad-dahlan' => 
   array (
@@ -22312,6 +22285,15 @@
     'companyrbntype' => '',
     'key' => 'f60a6b5ab5c9d1a046502eb0779700ec',
   ),
+  'jadara-university' => 
+  array (
+    'companyname' => 'Jadara University',
+    'companyemail' => 'webmaster at jadara dot edu dot jo',
+    'companyurl' => 'http://www.jadara.edu.jo/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '901adf666b56dd0c394c6c3ade6b5bde',
+  ),
   'universidad-de-cartagena' => 
   array (
     'companyname' => 'Universidad de Cartagena',
@@ -22653,6 +22635,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '39231da6a18760d542b2a0bc544fa5c6',
+  ),
+  'university-of-the-sunshine-coast' => 
+  array (
+    'companyname' => 'University of the Sunshine Coast',
+    'companyemail' => 'webmaster at usc dot edu dot au',
+    'companyurl' => 'http://www.usc.edu.au/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3050dd8cd9aa4cf792048501b59d0f63',
   ),
   'vytautas-magnus-university' => 
   array (
@@ -24642,6 +24633,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'dbbc8421b9321fd185b6aa4a9cce36da',
+  ),
+  'epa-gov' => 
+  array (
+    'companyname' => 'epa.gov',
+    'companyemail' => 'webmaster at epa dot gov',
+    'companyurl' => 'http://epa.gov',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '626e13c3c8ab293d70787e5c6c56678c',
   ),
   'evangelische-hochschule-f-r-soziale-arbeit-dresden-fh' => 
   array (
@@ -29485,15 +29485,6 @@
     'companyrbntype' => '',
     'key' => '9c0163006a02adcdf32e45401b554fe8',
   ),
-  'dezyre-com' => 
-  array (
-    'companyname' => 'dezyre.com',
-    'companyemail' => 'webmaster at dezyre dot com',
-    'companyurl' => 'https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '46f36e4ebeef90a636494fd5a326d7fd',
-  ),
   'plaync-com' => 
   array (
     'companyname' => 'plaync.com',
@@ -30015,6 +30006,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '262964bf85cc31f194a42e3ce6a78519',
+  ),
+  'university-of-reading' => 
+  array (
+    'companyname' => 'University of Reading',
+    'companyemail' => 'webmaster at rdg dot ac dot uk',
+    'companyurl' => 'http://www.rdg.ac.uk/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9593e757d6973d3a7e7dff2a2e078086',
   ),
   'pleer-com' => 
   array (
@@ -31896,15 +31896,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'bd2c023a9895f0715e0fb97a32f7c9b1',
-  ),
-  'mktninetwotwo-com' => 
-  array (
-    'companyname' => 'mkt922.com',
-    'companyemail' => 'webmaster at mkt922 dot com',
-    'companyurl' => 'http://mkt922.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'fa562691746b987d042ce2e45028b212',
   ),
   'prezly-com' => 
   array (
@@ -35524,6 +35515,15 @@
     'companyrbntype' => '',
     'key' => '39464a87e3221a70c927ad870c1b6375',
   ),
+  'national-technical-university-kiev-politechnical-institute' => 
+  array (
+    'companyname' => 'National Technical University (Kiev Politechnical Institute)',
+    'companyemail' => 'webmaster at kpi dot ua',
+    'companyurl' => 'http://www.kpi.ua/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '156bd5980a9352029182b06eb3c8616a',
+  ),
   'collegevine-com' => 
   array (
     'companyname' => 'collegevine.com',
@@ -37260,6 +37260,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c0e555fea4295bb609b04487e2ef4828',
+  ),
+  'sozcu-com-tr' => 
+  array (
+    'companyname' => 'sozcu.com.tr',
+    'companyemail' => 'webmaster at sozcu dot com dot tr',
+    'companyurl' => 'http://sozcu.com.tr',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd4748675e421e2630525729a540b359d',
   ),
   'usafis-org' => 
   array (
@@ -42040,6 +42049,15 @@
     'companyrbntype' => '',
     'key' => '6ef1082822dbed5157daec9e479ec9e1',
   ),
+  'thinkful-com' => 
+  array (
+    'companyname' => 'thinkful.com',
+    'companyemail' => 'webmaster at thinkful dot com',
+    'companyurl' => 'https://www.thinkful.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9e8250b0d86ef73269b1f6663fd3e3b5',
+  ),
   'trt-net-tr' => 
   array (
     'companyname' => 'trt.net.tr',
@@ -46009,6 +46027,15 @@
     'companyrbntype' => '',
     'key' => '9df2c35e2b89bcefc3dbbced823d2675',
   ),
+  'noproblemppc-com' => 
+  array (
+    'companyname' => 'noproblemppc.com',
+    'companyemail' => 'webmaster at noproblemppc dot com',
+    'companyurl' => 'http://noproblemppc.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd480dd79cdfca482a553b51dbf84ab7c',
+  ),
   'moshi-university-college-of-cooperative-and-business-studies' => 
   array (
     'companyname' => 'Moshi University College of Cooperative and Business Studies',
@@ -49644,15 +49671,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e76450920667d651f291df998297a412',
-  ),
-  'careerride-com' => 
-  array (
-    'companyname' => 'careerride.com',
-    'companyemail' => 'webmaster at careerride dot com',
-    'companyurl' => 'http://www.careerride.com/MySQL-Interview-Questions.aspx',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '50dd25beda4a086d5f7c32fa00c10b0b',
   ),
   'polldaddy-com' => 
   array (
