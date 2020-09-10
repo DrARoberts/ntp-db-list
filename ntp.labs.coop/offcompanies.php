@@ -8200,15 +8200,6 @@
     'companyrbntype' => '',
     'key' => 'dd2ce65be4ce02e2df1dced0fea7d7a4',
   ),
-  'illinois-central-college' => 
-  array (
-    'companyname' => 'Illinois Central College',
-    'companyemail' => 'webmaster at icc dot edu',
-    'companyurl' => 'http://www.icc.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6937e0f55f8b5a2b4fb42bd240269d06',
-  ),
   'south-asian-institute-of-technology-and-medicine-saitm' => 
   array (
     'companyname' => 'South Asian Institute of Technology And Medicine (SAITM)',
@@ -10854,15 +10845,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '33a259496dc5be6fe3e7821fb998cb44',
-  ),
-  'hamilton-college' => 
-  array (
-    'companyname' => 'Hamilton College',
-    'companyemail' => 'webmaster at hamilton dot edu',
-    'companyurl' => 'http://www.hamilton.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2cfd07cb614ffe0b341a33eef6d0ed69',
   ),
   'technical-university-of-iasi' => 
   array (
@@ -13869,15 +13851,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd38bb9886e0e42e58be6b136a1d091dd',
-  ),
-  'institut-national-polytechnique-de-toulouse' => 
-  array (
-    'companyname' => 'Institut National Polytechnique de Toulouse',
-    'companyemail' => 'webmaster at inp-fc dot fr',
-    'companyurl' => 'http://www.inp-fc.fr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3bc4d8b400b0ff4f4a2a67719ffd4e2c',
   ),
   'universidad-cat-lica-de-valencia' => 
   array (
@@ -48213,15 +48186,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f2f2ab41a5631b6c707f6c152bd46929',
-  ),
-  'mnetads-net' => 
-  array (
-    'companyname' => 'mnetads.net',
-    'companyemail' => 'webmaster at mnetads dot net',
-    'companyurl' => 'http://mnetads.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '63a3629b724638050a4a89c50a479889',
   ),
   'webutation-net' => 
   array (

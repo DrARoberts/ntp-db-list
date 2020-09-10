@@ -13852,15 +13852,6 @@
     'companyrbntype' => '',
     'key' => 'd7e75678f4bc0ea2ab167719182b5f6f',
   ),
-  'institut-national-polytechnique-de-toulouse' => 
-  array (
-    'companyname' => 'Institut National Polytechnique de Toulouse',
-    'companyemail' => 'webmaster at inp-fc dot fr',
-    'companyurl' => 'http://www.inp-fc.fr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7fa393f32eaeb2e222efd1c9d012425b',
-  ),
   'universidad-cat-lica-de-valencia' => 
   array (
     'companyname' => 'Universidad Católica de Valencia',
