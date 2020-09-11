@@ -64,6 +64,15 @@
     'companyrbntype' => '',
     'key' => 'bf6e5c64d8b401d1f33f1036882f21c9',
   ),
+  'academy-of-humanities-and-economics-in-lodz' => 
+  array (
+    'companyname' => 'Academy of Humanities and Economics in Lodz',
+    'companyemail' => 'webmaster at ahe dot edu dot pl',
+    'companyurl' => 'http://www.ahe.edu.pl/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ff999436d8cb54e907fa7a52f49b69e9',
+  ),
   'taraju-indonesia' => 
   array (
     'companyname' => 'Taraju, Indonesia',
@@ -72,15 +81,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9546e36ec9c7c921b3b6d7c37aa9a7cd',
-  ),
-  'chimi-equatorial-guinea' => 
-  array (
-    'companyname' => 'Chimi, Equatorial Guinea',
-    'companyemail' => 'webmaster at chimi dot com',
-    'companyurl' => 'http://chimi.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'c0cfcbb3ffad3076fbef69dbbee57baf',
   ),
   'ino-united-states' => 
   array (
@@ -235,15 +235,6 @@
     'companyrbntype' => '',
     'key' => '6b4a5a6e2bbbc0614b536c661b3c0d9b',
   ),
-  'academy-of-humanities-and-economics-in-lodz' => 
-  array (
-    'companyname' => 'Academy of Humanities and Economics in Lodz',
-    'companyemail' => 'webmaster at ahe dot edu dot pl',
-    'companyurl' => 'http://www.ahe.edu.pl/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ff999436d8cb54e907fa7a52f49b69e9',
-  ),
   'ona-united-states' => 
   array (
     'companyname' => 'Ona, United States',
@@ -288,6 +279,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '38a4507a4c49f56cd864e9d057b28508',
+  ),
+  'chimi-equatorial-guinea' => 
+  array (
+    'companyname' => 'Chimi, Equatorial Guinea',
+    'companyemail' => 'webmaster at chimi dot com',
+    'companyurl' => 'http://chimi.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c0cfcbb3ffad3076fbef69dbbee57baf',
   ),
   'kamal-gabon' => 
   array (
@@ -352,15 +352,6 @@
     'companyrbntype' => '',
     'key' => '75c0a7b406e8c826254582036c5112c8',
   ),
-  'al-wathbah-united-arab-emirates' => 
-  array (
-    'companyname' => 'Al Wathbah, United Arab Emirates',
-    'companyemail' => 'webmaster at alwathbah dot com',
-    'companyurl' => 'http://alwathbah.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6bfec9a9e4e6fccb04430e7b51769bf7',
-  ),
   'zonke-zimbabwe' => 
   array (
     'companyname' => 'Zonke, Zimbabwe',
@@ -378,6 +369,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '312b9a87802166e5a2dc6711d45e80e8',
+  ),
+  'al-wathbah-united-arab-emirates' => 
+  array (
+    'companyname' => 'Al Wathbah, United Arab Emirates',
+    'companyemail' => 'webmaster at alwathbah dot com',
+    'companyurl' => 'http://alwathbah.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6bfec9a9e4e6fccb04430e7b51769bf7',
   ),
   'tchar-togo' => 
   array (
@@ -712,15 +712,6 @@
     'companyrbntype' => '',
     'key' => '28a1c4ed767ad86c9776b052ce33283b',
   ),
-  'rif-bahrain' => 
-  array (
-    'companyname' => 'Rif, Bahrain',
-    'companyemail' => 'webmaster at rif dot net',
-    'companyurl' => 'http://rif.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '97e1bd09b9e6f144dd9cbdf3017d6c6f',
-  ),
   'awa-iti-new-zealand' => 
   array (
     'companyname' => 'Awa-iti, New Zealand',
@@ -810,6 +801,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b5231bfe74756aedd5e28ab4f131413c',
+  ),
+  'rif-bahrain' => 
+  array (
+    'companyname' => 'Rif, Bahrain',
+    'companyemail' => 'webmaster at rif dot net',
+    'companyurl' => 'http://rif.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '97e1bd09b9e6f144dd9cbdf3017d6c6f',
   ),
   'birkeland-norway' => 
   array (
@@ -1432,15 +1432,6 @@
     'companyrbntype' => '',
     'key' => 'be3c7c8e2b7662f3edec0ccef49a4cfe',
   ),
-  'dai-sudan' => 
-  array (
-    'companyname' => 'Dai, Sudan',
-    'companyemail' => 'webmaster at dai dot sd',
-    'companyurl' => 'http://dai.sd',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8dcb9b4a8f0a92631ecc771b28cb833e',
-  ),
   'vanil-noir-switzerland' => 
   array (
     'companyname' => 'Vanil Noir, Switzerland',
@@ -1449,6 +1440,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b2cca7e9815b6538ca094174fd333401',
+  ),
+  'dai-sudan' => 
+  array (
+    'companyname' => 'Dai, Sudan',
+    'companyemail' => 'webmaster at dai dot sd',
+    'companyurl' => 'http://dai.sd',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '8dcb9b4a8f0a92631ecc771b28cb833e',
   ),
   'mehlab-eritrea' => 
   array (
