@@ -32185,15 +32185,6 @@
     'companyrbntype' => '',
     'key' => '58adf34317fd5432a95fc28258911958',
   ),
-  'launchpad-net' => 
-  array (
-    'companyname' => 'launchpad.net',
-    'companyemail' => 'webmaster at launchpad dot net',
-    'companyurl' => 'http://launchpad.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1655d2bc5c4fda433d0ab35b214088d6',
-  ),
   'digitalrivercontent-net' => 
   array (
     'companyname' => 'digitalrivercontent.net',
@@ -41364,6 +41355,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '52cb9526108501a8101e46610f6acf19',
+  ),
+  'hswstatic-com' => 
+  array (
+    'companyname' => 'hswstatic.com',
+    'companyemail' => 'webmaster at hswstatic dot com',
+    'companyurl' => 'http://hswstatic.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ee9a9445028c6f7afef05c2703ab76ba',
   ),
   'skhms-com' => 
   array (
