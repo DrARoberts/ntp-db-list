@@ -16768,15 +16768,6 @@
     'companyrbntype' => '',
     'key' => '73ad8e7d75e0ad13fff7961b532702bc',
   ),
-  'american-university-of-sharjah' => 
-  array (
-    'companyname' => 'American University of Sharjah',
-    'companyemail' => 'webmaster at aus dot edu',
-    'companyurl' => 'http://www.aus.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '04d88a2ad627a24d7143c0f727e820e2',
-  ),
   'fachhochschule-schw-bisch-gm-nd-hochschule-f-r-gestaltung' => 
   array (
     'companyname' => 'Fachhochschule Schwäbisch Gmünd, Hochschule für Gestaltung',
@@ -42661,15 +42652,6 @@
     'companyrbntype' => '',
     'key' => '224722473d58ce19ec071ea932636776',
   ),
-  'voegol-com-br' => 
-  array (
-    'companyname' => 'voegol.com.br',
-    'companyemail' => 'webmaster at voegol dot com dot br',
-    'companyurl' => 'http://voegol.com.br',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9514836a014d10c2be43a31b31b60134',
-  ),
   'emodio-com' => 
   array (
     'companyname' => 'emodio.com',
@@ -46377,15 +46359,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1805ab77133df86a0b219eed6a1b201d',
-  ),
-  'alphasheets-com' => 
-  array (
-    'companyname' => 'alphasheets.com',
-    'companyemail' => 'webmaster at alphasheets dot com',
-    'companyurl' => 'http://www.alphasheets.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '852acd12adb8008d77860d7073f4e72f',
   ),
   'mudah-my' => 
   array (
