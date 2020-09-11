@@ -16615,15 +16615,6 @@
     'companyrbntype' => '',
     'key' => '768c5303335ff4bd7c22f76745bc97fb',
   ),
-  'agri-ibrahim-cecen-university' => 
-  array (
-    'companyname' => 'Agri Ibrahim Cecen University',
-    'companyemail' => 'webmaster at agri dot edu dot tr',
-    'companyurl' => 'http://www.agri.edu.tr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd8292eef2bd69cbd5de983891647827e',
-  ),
   'central-oregon-community-college' => 
   array (
     'companyname' => 'Central Oregon Community College',
@@ -22662,15 +22653,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '7910a415206f3fdf504219cc01d35391',
-  ),
-  'university-of-health-and-science' => 
-  array (
-    'companyname' => 'University of Health and Science',
-    'companyemail' => 'webmaster at univ-sante dot edu dot kh',
-    'companyurl' => 'http://www.univ-sante.edu.kh/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'e78f6c4bb9f4b63101e1c266ebe5e7be',
   ),
   'university-of-winnipeg' => 
   array (
