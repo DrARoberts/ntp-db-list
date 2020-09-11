@@ -82,6 +82,15 @@
     'companyrbntype' => '',
     'key' => 'c5da40a4baa9804dc7409955a36f6a88',
   ),
+  'institute-for-command-engineers-of-the-ministry-for-emergency-situations' => 
+  array (
+    'companyname' => 'Institute for Command Engineers of The Ministry for Emergency Situations',
+    'companyemail' => 'webmaster at kii dot gov dot by',
+    'companyurl' => 'http://www.kii.gov.by/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '234678940f49aae8f473aa90c25e34f4',
+  ),
   'ino-united-states' => 
   array (
     'companyname' => 'Ino, United States',
@@ -208,6 +217,15 @@
     'companyrbntype' => '',
     'key' => 'dc25fc5b6e725ea7ae08fe5d60184c14',
   ),
+  'chimi-equatorial-guinea' => 
+  array (
+    'companyname' => 'Chimi, Equatorial Guinea',
+    'companyemail' => 'webmaster at chimi dot com',
+    'companyurl' => 'http://chimi.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7203c0a1d8561a7100cf37434d3a3b83',
+  ),
   'imba-eritrea' => 
   array (
     'companyname' => 'Imba, Eritrea',
@@ -244,15 +262,6 @@
     'companyrbntype' => '',
     'key' => 'c0244f07d8f16490715ab240b086e247',
   ),
-  'virginia-city-united-states' => 
-  array (
-    'companyname' => 'Virginia city, United States',
-    'companyemail' => 'webmaster at virginiacity dot com',
-    'companyurl' => 'http://virginiacity.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9c5e2bcf012e2c6d70417b953dff5b6c',
-  ),
   'united-states-merchant-marine-academy' => 
   array (
     'companyname' => 'United States Merchant Marine Academy',
@@ -270,24 +279,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c790ddf4234f38c3d0eb78306a93a824',
-  ),
-  'institute-for-command-engineers-of-the-ministry-for-emergency-situations' => 
-  array (
-    'companyname' => 'Institute for Command Engineers of The Ministry for Emergency Situations',
-    'companyemail' => 'webmaster at kii dot gov dot by',
-    'companyurl' => 'http://www.kii.gov.by/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '234678940f49aae8f473aa90c25e34f4',
-  ),
-  'chimi-equatorial-guinea' => 
-  array (
-    'companyname' => 'Chimi, Equatorial Guinea',
-    'companyemail' => 'webmaster at chimi dot com',
-    'companyurl' => 'http://chimi.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7203c0a1d8561a7100cf37434d3a3b83',
   ),
   'kamal-gabon' => 
   array (
@@ -442,6 +433,15 @@
     'companyrbntype' => '',
     'key' => '055bf8cfcfc127c0264872767830a932',
   ),
+  'virginia-city-united-states' => 
+  array (
+    'companyname' => 'Virginia city, United States',
+    'companyemail' => 'webmaster at virginiacity dot com',
+    'companyurl' => 'http://virginiacity.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9c5e2bcf012e2c6d70417b953dff5b6c',
+  ),
   'boloka-djibouti' => 
   array (
     'companyname' => 'Boloka, Djibouti',
@@ -550,15 +550,6 @@
     'companyrbntype' => '',
     'key' => '377637ac798b8fd56a6ac694c2af8f5f',
   ),
-  'qoon-united-states' => 
-  array (
-    'companyname' => 'Qoon, United States',
-    'companyemail' => 'webmaster at qoon dot info',
-    'companyurl' => 'http://qoon.info',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '01c35fd12215d2864c1754b37f79ed0f',
-  ),
   'aa-net' => 
   array (
     'companyname' => 'aa.net',
@@ -595,15 +586,6 @@
     'companyrbntype' => '',
     'key' => '877e0e2d9dc3388d30a062919869161b',
   ),
-  'kreuzberg-germany' => 
-  array (
-    'companyname' => 'Kreuzberg, Germany',
-    'companyemail' => 'webmaster at kreuzberg dot com',
-    'companyurl' => 'http://kreuzberg.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'da50edbd5f7b001a5190038b38463d71',
-  ),
   'rothaargebirge-germany' => 
   array (
     'companyname' => 'Rothaargebirge, Germany',
@@ -621,6 +603,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0d4f746e6f233761132276e3695a8e54',
+  ),
+  'kreuzberg-germany' => 
+  array (
+    'companyname' => 'Kreuzberg, Germany',
+    'companyemail' => 'webmaster at kreuzberg dot com',
+    'companyurl' => 'http://kreuzberg.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'da50edbd5f7b001a5190038b38463d71',
   ),
   'rvzrjs-info' => 
   array (
@@ -648,6 +639,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b4c7cfb407fb527bfdadaa56deba415b',
+  ),
+  'qoon-united-states' => 
+  array (
+    'companyname' => 'Qoon, United States',
+    'companyemail' => 'webmaster at qoon dot info',
+    'companyurl' => 'http://qoon.info',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '01c35fd12215d2864c1754b37f79ed0f',
   ),
   'ns-gabon' => 
   array (
@@ -811,6 +811,15 @@
     'companyrbntype' => '',
     'key' => 'fb4cf528b18baf6df5ba4b5578f187ea',
   ),
+  'aulago-spain' => 
+  array (
+    'companyname' => 'Aulago, Spain',
+    'companyemail' => 'webmaster at aulago dot es',
+    'companyurl' => 'http://aulago.es',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6170e1c16e1129da296cd300f6c89d7f',
+  ),
   'birkeland-norway' => 
   array (
     'companyname' => 'Birkeland, Norway',
@@ -829,6 +838,24 @@
     'companyrbntype' => '',
     'key' => '3631d9e4599194e4bce1fec5baff2d03',
   ),
+  'saman-guinea' => 
+  array (
+    'companyname' => 'Saman, Guinea',
+    'companyemail' => 'webmaster at saman dot org',
+    'companyurl' => 'http://saman.org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'a1d69be44f8b3d12b99fca28f89c8bdd',
+  ),
+  'z-mauritania' => 
+  array (
+    'companyname' => 'Z, Mauritania',
+    'companyemail' => 'webmaster at z dot mr',
+    'companyurl' => 'http://z.mr',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '1b2d08644be4dd00809823a5f10bd70a',
+  ),
   'midway-united-states' => 
   array (
     'companyname' => 'Midway, United States',
@@ -846,24 +873,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'fe5f867bb726883f163351d281adf9b3',
-  ),
-  'z-mauritania' => 
-  array (
-    'companyname' => 'Z, Mauritania',
-    'companyemail' => 'webmaster at z dot mr',
-    'companyurl' => 'http://z.mr',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1b2d08644be4dd00809823a5f10bd70a',
-  ),
-  'saman-guinea' => 
-  array (
-    'companyname' => 'Saman, Guinea',
-    'companyemail' => 'webmaster at saman dot org',
-    'companyurl' => 'http://saman.org',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a1d69be44f8b3d12b99fca28f89c8bdd',
   ),
   'home-republic-of-the-congo' => 
   array (
