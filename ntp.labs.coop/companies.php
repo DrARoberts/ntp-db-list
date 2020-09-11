@@ -235,15 +235,6 @@
     'companyrbntype' => '',
     'key' => 'fefbc3eb20a604b70d754c08c6a04953',
   ),
-  'clegg-united-states' => 
-  array (
-    'companyname' => 'Clegg, United States',
-    'companyemail' => 'webmaster at clegg dot com',
-    'companyurl' => 'http://clegg.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6b4a5a6e2bbbc0614b536c661b3c0d9b',
-  ),
   'ona-united-states' => 
   array (
     'companyname' => 'Ona, United States',
@@ -270,6 +261,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0c48158dc4b35fd7b58f71880327dfaf',
+  ),
+  'clegg-united-states' => 
+  array (
+    'companyname' => 'Clegg, United States',
+    'companyemail' => 'webmaster at clegg dot com',
+    'companyurl' => 'http://clegg.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6b4a5a6e2bbbc0614b536c661b3c0d9b',
   ),
   'kamal-gabon' => 
   array (

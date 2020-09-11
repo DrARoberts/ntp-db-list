@@ -7795,15 +7795,6 @@
     'companyrbntype' => '',
     'key' => '1ef8c47cdf6f343d195521cb74643d6e',
   ),
-  'niigata-university-of-international-and-information-studies' => 
-  array (
-    'companyname' => 'Niigata University of International and Information Studies',
-    'companyemail' => 'webmaster at nuis dot ac dot jp',
-    'companyurl' => 'http://www.nuis.ac.jp/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'cefeb6e2fea3128a4e70f6ce569671cc',
-  ),
   'mount-saint-mary-college' => 
   array (
     'companyname' => 'Mount Saint Mary College',
@@ -18252,15 +18243,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b4bc02ee6b4ac1887c2d7600672edb79',
-  ),
-  'mid-sweden-university' => 
-  array (
-    'companyname' => 'Mid-Sweden University',
-    'companyemail' => 'webmaster at miun dot se',
-    'companyurl' => 'http://www.miun.se/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '027eab037716b0ff80309872af04a0e6',
   ),
   'university-of-fribourg' => 
   array (
@@ -38170,15 +38152,6 @@
     'companyrbntype' => '',
     'key' => 'a57084683aa4e7a1883b6be82cae7f7b',
   ),
-  'cpmaffiliation-com' => 
-  array (
-    'companyname' => 'cpmaffiliation.com',
-    'companyemail' => 'webmaster at cpmaffiliation dot com',
-    'companyurl' => 'http://cpmaffiliation.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '42e801a5c65e73801a55de1bf6bc3e20',
-  ),
   'thirdiron-com' => 
   array (
     'companyname' => 'thirdiron.com',
@@ -44946,6 +44919,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0ec79880bf39f6dbf174c956994346c7',
+  ),
+  'xbnfrg-cn' => 
+  array (
+    'companyname' => 'xbnfrg.cn',
+    'companyemail' => 'webmaster at xbnfrg dot cn',
+    'companyurl' => 'http://xbnfrg.cn',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e3f4c5838b5f814fd9dc92bba30e8ba5',
   ),
   'snxd-com' => 
   array (
