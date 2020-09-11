@@ -16156,6 +16156,15 @@
     'companyrbntype' => '',
     'key' => 'd1d76e0696abfa71a72d8af688bb4719',
   ),
+  'showa-university' => 
+  array (
+    'companyname' => 'Showa University',
+    'companyemail' => 'webmaster at showa-u dot ac dot jp',
+    'companyurl' => 'http://www.showa-u.ac.jp/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6debcbb46e4aa5fa572fd34be6562bf8',
+  ),
   'university-of-san-carlos' => 
   array (
     'companyname' => 'University of San Carlos',
@@ -40419,15 +40428,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '05cd68f3d2c15cd265fc897118aa88ab',
-  ),
-  'iperceptions-com' => 
-  array (
-    'companyname' => 'iperceptions.com',
-    'companyemail' => 'webmaster at iperceptions dot com',
-    'companyurl' => 'http://iperceptions.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '43331b9cf5a211ca3949c00af64cd856',
   ),
   'qsstats-com' => 
   array (
