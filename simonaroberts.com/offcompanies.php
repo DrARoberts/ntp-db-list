@@ -31348,15 +31348,6 @@
     'companyrbntype' => '',
     'key' => '6069e0b2d44922ac360b9fa567c2d74e',
   ),
-  'espncareers-com' => 
-  array (
-    'companyname' => 'espncareers.com',
-    'companyemail' => 'webmaster at espncareers dot com',
-    'companyurl' => 'http://espncareers.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '255283b51f91df0e69f39fe445d25d15',
-  ),
   'instyle-com' => 
   array (
     'companyname' => 'instyle.com',
@@ -40267,15 +40258,6 @@
     'companyrbntype' => '',
     'key' => '0dec314fc66f6b191998fd0001373372',
   ),
-  'lamag-net' => 
-  array (
-    'companyname' => 'lamag.net',
-    'companyemail' => 'support at lamag dot net',
-    'companyurl' => 'http://lamag.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'cd6bea9137532f8920518441d95edde3',
-  ),
   'linkedinlabs-com' => 
   array (
     'companyname' => 'linkedinlabs.com',
@@ -40959,6 +40941,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '3578a820e1e65e200b13130e3fbac253',
+  ),
+  'lamag-net' => 
+  array (
+    'companyname' => 'lamag.net',
+    'companyemail' => 'webmaster at lamag dot net',
+    'companyurl' => 'http://lamag.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'cd6bea9137532f8920518441d95edde3',
   ),
   'imageshack-us' => 
   array (
