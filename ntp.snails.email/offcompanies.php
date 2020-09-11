@@ -244,6 +244,15 @@
     'companyrbntype' => '',
     'key' => '1937311220f7e93c25e636346ca2af33',
   ),
+  'ecole-nationale-sup-rieure-de-l-a-ronautique-et-de-l-espace' => 
+  array (
+    'companyname' => 'Ecole Nationale Supérieure de l\'Aéronautique et de l\'Espace',
+    'companyemail' => 'webmaster at supaero dot fr',
+    'companyurl' => 'http://www.supaero.fr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd31cb9db795901a395274a5b69941a00',
+  ),
   'university-of-central-oklahoma' => 
   array (
     'companyname' => 'University of Central Oklahoma',
@@ -550,6 +559,15 @@
     'companyrbntype' => '',
     'key' => '2f07e869b87ea763ce37bd1399dd172e',
   ),
+  'university-of-california-irvine' => 
+  array (
+    'companyname' => 'University of California, Irvine',
+    'companyemail' => 'webmaster at uci dot edu',
+    'companyurl' => 'https://uci.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'cc0b0dd94864de613ff48661acf8a6a7',
+  ),
   'antioch-university' => 
   array (
     'companyname' => 'Antioch University',
@@ -613,15 +631,6 @@
     'companyrbntype' => '',
     'key' => '9242dcb700cbb79699e0cf9fc80cb9b4',
   ),
-  'university-campus-suffolk' => 
-  array (
-    'companyname' => 'University Campus Suffolk',
-    'companyemail' => 'webmaster at ucs dot ac dot uk',
-    'companyurl' => 'http://www.ucs.ac.uk/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2a38856efbf31a8abc7d77c6f20ac95e',
-  ),
   'china-medical-university-shenyang' => 
   array (
     'companyname' => 'China Medical University Shenyang',
@@ -648,15 +657,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f39de0bf8c452c03ab23a69d9672443a',
-  ),
-  'fhs-st-gallen' => 
-  array (
-    'companyname' => 'FHS St.Gallen',
-    'companyemail' => 'webmaster at fhsg dot ch',
-    'companyurl' => 'http://www.fhsg.ch/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7c46c00a030b87b50f7e3d213fba82f0',
   ),
   'jerm-co-za' => 
   array (
@@ -874,6 +874,15 @@
     'companyrbntype' => '',
     'key' => 'ff326afb6ab79f8016a82880a47f1ed0',
   ),
+  'beijing-normal-university' => 
+  array (
+    'companyname' => 'Beijing Normal University',
+    'companyemail' => 'webmaster at bnu dot edu dot cn',
+    'companyurl' => 'http://www.bnu.edu.cn/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd22980ff39610e1d48628b6491a72751',
+  ),
   'universit-du-qu-bec-trois-rivi-res' => 
   array (
     'companyname' => 'Université du Québec à Trois-Rivières',
@@ -991,15 +1000,6 @@
     'companyrbntype' => '',
     'key' => '37e3a01d7a94837c12882302ff645bde',
   ),
-  'university-of-southern-queensland' => 
-  array (
-    'companyname' => 'University of Southern Queensland',
-    'companyemail' => 'webmaster at usq dot edu dot au',
-    'companyurl' => 'http://www.usq.edu.au/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a91cd3e8c6c28c5c44aab9bf281ae604',
-  ),
   'universidade-cat-lica-de-pernambuco' => 
   array (
     'companyname' => 'Universidade Católica de Pernambuco',
@@ -1035,6 +1035,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9fd12dce1ea937000ab157f786bbbd2a',
+  ),
+  'universit-d-alger' => 
+  array (
+    'companyname' => 'Université d\'Alger',
+    'companyemail' => 'webmaster at univ-alger dot dz',
+    'companyurl' => 'http://www.univ-alger.dz/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '77bd6020001aaf8561cb62e58b65d66a',
   ),
   'continental-theological-seminary' => 
   array (
@@ -1125,15 +1134,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b58ad34e1be69d20cef1fcc625f5a97d',
-  ),
-  'balikesir-university' => 
-  array (
-    'companyname' => 'Balikesir University',
-    'companyemail' => 'webmaster at balikesir dot edu dot tr',
-    'companyurl' => 'http://www.balikesir.edu.tr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a2338368021544371f5b8cd41b4a3440',
   ),
   'universit-de-b-jaia' => 
   array (
@@ -1261,15 +1261,6 @@
     'companyrbntype' => '',
     'key' => 'abaeae4f520fb5e2e78144bb5c0854a5',
   ),
-  'university-of-the-faroe-islands' => 
-  array (
-    'companyname' => 'University of the Faroe Islands',
-    'companyemail' => 'webmaster at setur dot fo',
-    'companyurl' => 'http://www.setur.fo/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd0c895e9799b4c9042ea810f62224f61',
-  ),
   'kogi-state-university' => 
   array (
     'companyname' => 'Kogi State University',
@@ -1278,6 +1269,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e09fc89de47afdaf1630f3eabb857868',
+  ),
+  'microsoft-pty-ltd' => 
+  array (
+    'companyname' => 'MICROSOFT PTY LTD',
+    'companyemail' => 'webmaster at microsoft dot com',
+    'companyurl' => 'http://microsoft.com',
+    'companyrbn' => '29002589460',
+    'companyrbntype' => 'ABN',
+    'key' => '43e1ee0dffa4b60e1ddb21d60facad70',
   ),
   'university-of-mississippi' => 
   array (
@@ -1351,6 +1351,15 @@
     'companyrbntype' => '',
     'key' => '5e663d746a7a9209bf7b3cf9359134ec',
   ),
+  'universidad-argentina-john-f-kennedy' => 
+  array (
+    'companyname' => 'Universidad Argentina "John F. Kennedy"',
+    'companyemail' => 'webmaster at kennedy dot edu dot ar',
+    'companyurl' => 'http://www.kennedy.edu.ar/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ae34a0b02b89d5a65fc7f8e440d25d4f',
+  ),
   'guilan-university' => 
   array (
     'companyname' => 'Guilan University',
@@ -1404,15 +1413,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '4d4eda32c22e103f983c72f8fc8594b0',
-  ),
-  'university-of-health-sciences-antigua' => 
-  array (
-    'companyname' => 'University of Health Sciences Antigua',
-    'companyemail' => 'webmaster at uhsa dot ag',
-    'companyurl' => 'http://www.uhsa.ag/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '22843431e7c2ca34b0da1a7244a5de7f',
   ),
   'antioch-new-england' => 
   array (
@@ -1549,15 +1549,6 @@
     'companyrbntype' => '',
     'key' => '2ba438f3882509ff058a3338c9cdde89',
   ),
-  'konyang-university' => 
-  array (
-    'companyname' => 'Konyang University',
-    'companyemail' => 'webmaster at konyang dot ac dot kr',
-    'companyurl' => 'http://www.konyang.ac.kr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd19d1e19524e58ea2d62d8a7259b1624',
-  ),
   'universidad-aut-noma-del-beni-jos-ballivi-n' => 
   array (
     'companyname' => 'Universidad Autónoma del Beni "José Ballivián"',
@@ -1567,14 +1558,14 @@
     'companyrbntype' => '',
     'key' => '3c6d2233ad4119f9dd97d28f9b5bc3b6',
   ),
-  'north-east-university-bangladesh' => 
+  'national-institute-of-technology-patna' => 
   array (
-    'companyname' => 'North East University Bangladesh',
-    'companyemail' => 'webmaster at neub dot edu dot bd',
-    'companyurl' => 'http://www.neub.edu.bd/',
+    'companyname' => 'National Institute of Technology Patna',
+    'companyemail' => 'webmaster at nitp dot ac dot in',
+    'companyurl' => 'http://www.nitp.ac.in',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '429e5c826650795d86469de49962227a',
+    'key' => 'b57d6f58e09252857d002648b6d529cc',
   ),
   'mci' => 
   array (
@@ -1593,6 +1584,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ab83c1a42ff58ff9a8bf0d178c1123be',
+  ),
+  'university-of-switzerland' => 
+  array (
+    'companyname' => 'University of Switzerland',
+    'companyemail' => 'webmaster at swissu dot org',
+    'companyurl' => 'http://www.swissu.org/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c1e1e9140f0fa233870252bbc58ea5f1',
   ),
   'gogebic-community-college' => 
   array (
@@ -1747,6 +1747,15 @@
     'companyrbntype' => '',
     'key' => 'f01f9e702cb7b2a47fb30b91a0b94104',
   ),
+  'shanghai-university-of-finance-and-economics' => 
+  array (
+    'companyname' => 'Shanghai University of Finance and Economics',
+    'companyemail' => 'webmaster at shufe dot edu dot cn',
+    'companyurl' => 'http://www.shufe.edu.cn/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9d5495cc5c0ac904eef6be1213525af1',
+  ),
   'baghdad-college-of-economic-sciences-university' => 
   array (
     'companyname' => 'Baghdad College of Economic Sciences University',
@@ -1773,6 +1782,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '844d04ca3060f5123374c620840bf727',
+  ),
+  'maasai-mara-university' => 
+  array (
+    'companyname' => 'Maasai Mara University',
+    'companyemail' => 'webmaster at mmarau dot ac dot ke',
+    'companyurl' => 'http://www.mmarau.ac.ke/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6dd4785020f03f4dd0f080ba0ee9f43e',
   ),
   'universidad-cat-lica-andres-bello' => 
   array (
@@ -1855,15 +1873,6 @@
     'companyrbntype' => '',
     'key' => '57faa131df61d08790aff7098eb0fe09',
   ),
-  'university-of-bacau' => 
-  array (
-    'companyname' => 'University of Bacau',
-    'companyemail' => 'webmaster at ub dot ro',
-    'companyurl' => 'http://www.ub.ro/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b7383b6d51312ac2c584260d2a847eb0',
-  ),
   'universit-de-gab-s' => 
   array (
     'companyname' => 'Université de Gabès',
@@ -1944,15 +1953,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '8e5fe63924440b7cbf3654da659fd179',
-  ),
-  'universidad-de-cuautitlan-izcalli' => 
-  array (
-    'companyname' => 'Universidad de Cuautitlan Izcalli',
-    'companyemail' => 'webmaster at udeci dot edu dot mx',
-    'companyurl' => 'http://www.udeci.edu.mx/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'dcd7b35892cece7eb1bd764b4af13bea',
   ),
   'yosu-national-university' => 
   array (
@@ -2152,6 +2152,15 @@
     'companyrbntype' => '',
     'key' => '1d67daa62679578761dfc57446c9541b',
   ),
+  'kobe-design-university' => 
+  array (
+    'companyname' => 'Kobe Design University',
+    'companyemail' => 'webmaster at kobe-du dot ac dot jp',
+    'companyurl' => 'http://www.kobe-du.ac.jp/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7e748908c66af58b3d4d1a1cb699f2bd',
+  ),
   'ecole-des-hautes-etudes-industrielles-de-lille' => 
   array (
     'companyname' => 'Ecole des Hautes Etudes Industrielles de Lille',
@@ -2233,6 +2242,15 @@
     'companyrbntype' => '',
     'key' => 'adf9147f66b6a37e50af6e1eca244b44',
   ),
+  'university-of-south-australia' => 
+  array (
+    'companyname' => 'University of South Australia',
+    'companyemail' => 'webmaster at unisa dot edu dot au',
+    'companyurl' => 'http://www.unisa.edu.au/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '371f1a9b393704706e52cc1b26223fc6',
+  ),
   'kabarak-university' => 
   array (
     'companyname' => 'Kabarak University',
@@ -2313,15 +2331,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1a43a8bfae31c6b4792c52189d5fc453',
-  ),
-  'sanjay-gandhi-postgraduate-lnstitute-of-medical-sciences' => 
-  array (
-    'companyname' => 'Sanjay Gandhi Postgraduate lnstitute of Medical Sciences',
-    'companyemail' => 'webmaster at sgpgi dot ac dot in',
-    'companyurl' => 'http://www.sgpgi.ac.in/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd195325cbdb92265b804c1fc5f1d0754',
   ),
   'george-mason-university' => 
   array (
@@ -2674,15 +2683,6 @@
     'companyrbntype' => '',
     'key' => '6fcfa3ebf695f9f183396319fd6247a6',
   ),
-  'nist-internet-time-servers' => 
-  array (
-    'companyname' => 'NIST Internet Time Servers',
-    'companyemail' => 'webmaster at nist dot gov',
-    'companyurl' => 'https://tf.nist.gov/tf-cgi/servers.cgi',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '01c91c145cbd11886071942dd18b7ea3',
-  ),
   'carlow-college' => 
   array (
     'companyname' => 'Carlow College',
@@ -2727,6 +2727,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c600f679fd92066cdf01d21a0c7458ac',
+  ),
+  'textile-institute-of-pakistan' => 
+  array (
+    'companyname' => 'Textile Institute of Pakistan',
+    'companyemail' => 'webmaster at tip dot edu dot pk',
+    'companyurl' => 'http://www.tip.edu.pk/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '06ae46c9770c8fb3665e75c0d405f008',
   ),
   'laurus-college' => 
   array (
@@ -2790,15 +2799,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f26f407c8ec338e2901b20ccb3640512',
-  ),
-  'hollins-college' => 
-  array (
-    'companyname' => 'Hollins College',
-    'companyemail' => 'webmaster at hollins dot edu',
-    'companyurl' => 'http://www.hollins.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '701eb69bfe1f16e9ad883ebed545e36a',
   ),
   'institute-of-management-sciences-peshawar' => 
   array (
@@ -2890,15 +2890,6 @@
     'companyrbntype' => '',
     'key' => 'f91aaf97c79aec16b7b07c213359df0b',
   ),
-  'european-school-of-management-tbilisi' => 
-  array (
-    'companyname' => 'European School of Management - Tbilisi',
-    'companyemail' => 'webmaster at esm-tbilisi dot ge',
-    'companyurl' => 'http://www.esm-tbilisi.ge/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'aff35984270d4d526daad2d19a6973df',
-  ),
   'salem-community-college' => 
   array (
     'companyname' => 'Salem Community College',
@@ -2953,15 +2944,6 @@
     'companyrbntype' => '',
     'key' => '29e81c8f58ec6e77bd21cd058c677503',
   ),
-  'internationales-hochschulinstitut-zittau' => 
-  array (
-    'companyname' => 'Internationales Hochschulinstitut Zittau',
-    'companyemail' => 'webmaster at ihi-zittau dot de',
-    'companyurl' => 'http://www.ihi-zittau.de/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5d56fe8c50637747753710729d99019e',
-  ),
   'liaoning-normal-university' => 
   array (
     'companyname' => 'Liaoning Normal University',
@@ -2970,33 +2952,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'a26135b944f662796e8c307fa1618c9f',
-  ),
-  'karachi-medical-and-dental-college' => 
-  array (
-    'companyname' => 'Karachi Medical and Dental College',
-    'companyemail' => 'webmaster at kmdc dot edu dot pk',
-    'companyurl' => 'http://www.kmdc.edu.pk/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'f5d68d83b49d2f943ce3cbf08d1a9b2e',
-  ),
-  'universidad-bernardo-o-higgins' => 
-  array (
-    'companyname' => 'Universidad Bernardo O\'Higgins',
-    'companyemail' => 'webmaster at ubohiggins dot cl',
-    'companyurl' => 'http://www.ubohiggins.cl/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3fb9cb2952db1f91750a4c4030b392f7',
-  ),
-  'universidade-federal-de-campina-grande' => 
-  array (
-    'companyname' => 'Universidade Federal de Campina Grande',
-    'companyemail' => 'webmaster at ufcg dot edu dot br',
-    'companyurl' => 'http://www.ufcg.edu.br/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd0f55056c8e15d53501ade679130284e',
   ),
   'patrick-henry-community-college' => 
   array (
@@ -3010,8 +2965,8 @@
   'universidad-americana' => 
   array (
     'companyname' => 'Universidad Americana',
-    'companyemail' => 'webmaster at uamericana dot edu dot py',
-    'companyurl' => 'http://www.uamericana.edu.py/',
+    'companyemail' => 'webmaster at uam dot edu dot ni',
+    'companyurl' => 'http://www.uam.edu.ni/',
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '7a87bbd255efd582c57ea486eacca780',
@@ -3042,15 +2997,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '4243eb32cc552cf6dc13a49c6b163832',
-  ),
-  'nanjing-normal-university' => 
-  array (
-    'companyname' => 'Nanjing Normal University',
-    'companyemail' => 'webmaster at njnu dot edu dot cn',
-    'companyurl' => 'http://www.njnu.edu.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '70c3751b039459c3ee9de0e7c25c22fc',
   ),
   'college-of-technology-at-jeddah' => 
   array (
@@ -3114,15 +3060,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b5fe08b33451b55e8b322f307fedea43',
-  ),
-  'medical-academy-in-lublin' => 
-  array (
-    'companyname' => 'Medical Academy in Lublin',
-    'companyemail' => 'webmaster at am dot lublin dot pl',
-    'companyurl' => 'http://www.am.lublin.pl/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'aa8bf93e41369dd109929a1839a197de',
   ),
   'ama-international-university' => 
   array (
@@ -3285,6 +3222,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9b22f9d7ab381949ab5942df0dece4ca',
+  ),
+  'nist-internet-time-servers' => 
+  array (
+    'companyname' => 'NIST Internet Time Servers',
+    'companyemail' => 'webmaster at nist dot gov',
+    'companyurl' => 'https://tf.nist.gov/tf-cgi/servers.cgi',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '01c91c145cbd11886071942dd18b7ea3',
   ),
   'university-of-north-georgia' => 
   array (
@@ -3466,15 +3412,6 @@
     'companyrbntype' => '',
     'key' => '89e55fb045560ec20a4afbace0c21746',
   ),
-  'shikoku-christian-college' => 
-  array (
-    'companyname' => 'Shikoku Christian College',
-    'companyemail' => 'webmaster at sg-u dot ac dot jp',
-    'companyurl' => 'http://www.sg-u.ac.jp/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '93e160487b0efad4d712bea1ccf15a67',
-  ),
   'the-indiana-paging-co' => 
   array (
     'companyname' => 'The Indiana Paging Co',
@@ -3628,6 +3565,15 @@
     'companyrbntype' => '',
     'key' => 'b41c58d4b830bbd495594c0eaf36c14c',
   ),
+  'riverland-community-college' => 
+  array (
+    'companyname' => 'Riverland Community College',
+    'companyemail' => 'webmaster at riverland dot edu',
+    'companyurl' => 'http://www.riverland.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '97b71cc423679bf65b1e396775fa419e',
+  ),
   'shaikh-zayed-university' => 
   array (
     'companyname' => 'Shaikh Zayed University',
@@ -3763,14 +3709,14 @@
     'companyrbntype' => '',
     'key' => 'fa2ad3852e0c1ca3c0e63655413232fe',
   ),
-  'instituto-polit-cnico-nacional' => 
+  'tuva-state-university' => 
   array (
-    'companyname' => 'Instituto Politécnico Nacional',
-    'companyemail' => 'webmaster at ipn dot edu dot mx',
-    'companyurl' => 'http://www.ipn.edu.mx/',
+    'companyname' => 'Tuva State University',
+    'companyemail' => 'webmaster at tuvsu dot ru',
+    'companyurl' => 'http://tuvsu.ru/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'cc1f3418bc46b8c0b98647e01f915deb',
+    'key' => '4d2cdd019f5ada1709452fbb0adf49ef',
   ),
   'universidad-nacional-experimental-romulo-gallegos' => 
   array (
@@ -3789,15 +3735,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2d6d5e85c324b8cd5dd1a13897053fd9',
-  ),
-  'prince-mohammad-bin-fahd-university' => 
-  array (
-    'companyname' => 'Prince Mohammad Bin Fahd University',
-    'companyemail' => 'webmaster at pmu dot edu dot sa',
-    'companyurl' => 'http://www.pmu.edu.sa/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '408d66698fce9027e730cde8b82a4f09',
   ),
   'ypc-itweb-college' => 
   array (
@@ -3943,6 +3880,15 @@
     'companyrbntype' => '',
     'key' => '35d0d8ce22c554d55980cc607f0b4ff8',
   ),
+  'kyushu-kyoritsu-university' => 
+  array (
+    'companyname' => 'Kyushu Kyoritsu University',
+    'companyemail' => 'webmaster at kyukyo-u dot ac dot jp',
+    'companyurl' => 'http://www.kyukyo-u.ac.jp/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e4bd7e7320621ce51aea27e4cedb78bd',
+  ),
   'ecole-nationale-sup-rieur-des-ing-nieur-des-etudes-et-techniques-d-armement' => 
   array (
     'companyname' => 'Ecole Nationale Supérieur des Ingénieur des Etudes et Techniques d\'Armement',
@@ -3988,15 +3934,6 @@
     'companyrbntype' => '',
     'key' => '9ab04ec078863585eb797fcc2c7b395b',
   ),
-  'national-yang-ming-medical-college' => 
-  array (
-    'companyname' => 'National Yang Ming Medical College',
-    'companyemail' => 'webmaster at ym dot edu dot tw',
-    'companyurl' => 'http://www.ym.edu.tw/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd72044ec97156edebebfeaf0543f69f6',
-  ),
   'brown-university' => 
   array (
     'companyname' => 'Brown University',
@@ -4024,15 +3961,6 @@
     'companyrbntype' => '',
     'key' => 'a47b2c12c009ebc60068749e6e2006e5',
   ),
-  'fachhochschulstudieng-nge-steyr' => 
-  array (
-    'companyname' => 'Fachhochschulstudiengänge Steyr',
-    'companyemail' => 'webmaster at fh-steyr dot at',
-    'companyurl' => 'http://www.fh-steyr.at/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2ab5cefca2b842754e66ef166b89379d',
-  ),
   'tenri-university' => 
   array (
     'companyname' => 'Tenri University',
@@ -4051,6 +3979,15 @@
     'companyrbntype' => '',
     'key' => '91afc8f1c50892766352e1ec8444ae00',
   ),
+  'university-of-alaska-southeast' => 
+  array (
+    'companyname' => 'University of Alaska - Southeast',
+    'companyemail' => 'webmaster at uas dot alaska dot edu',
+    'companyurl' => 'http://www.uas.alaska.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '52d448cd2e2bd89a80aba6d9ca300bbe',
+  ),
   'awadhesh-pratap-singh-university' => 
   array (
     'companyname' => 'Awadhesh Pratap Singh University',
@@ -4068,6 +4005,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b62f0e3dec609e3323053e1243e58d86',
+  ),
+  'lock-haven-university' => 
+  array (
+    'companyname' => 'Lock Haven University',
+    'companyemail' => 'webmaster at lockhaven dot edu',
+    'companyurl' => 'https://lockhaven.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '146472c996043728f7b87a49574a1706',
   ),
   'chattahoochee-valley-community-college' => 
   array (
@@ -4132,15 +4078,6 @@
     'companyrbntype' => '',
     'key' => '583091e383c276f494cd7b6a57506413',
   ),
-  'kirikkale-university' => 
-  array (
-    'companyname' => 'Kirikkale University',
-    'companyemail' => 'webmaster at kku dot edu dot tr',
-    'companyurl' => 'http://www.kku.edu.tr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '78a688a4fbdeb92fd0154d09a04e3609',
-  ),
   'universidade-do-grande-rio' => 
   array (
     'companyname' => 'Universidade do Grande Rio',
@@ -4167,15 +4104,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'aa88e240c1c4f68037675bb9ecb00aa9',
-  ),
-  'universidad-de-panam' => 
-  array (
-    'companyname' => 'Universidad de Panamá',
-    'companyemail' => 'webmaster at up dot ac dot pa',
-    'companyurl' => 'http://www.up.ac.pa/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8d786a5a9a327a41bdcaedfca5ec7128',
   ),
   'vessotel' => 
   array (
@@ -4393,15 +4321,6 @@
     'companyrbntype' => '',
     'key' => '0c179d88cd36191e6dbaa6ef8cdcf8aa',
   ),
-  'the-citadel' => 
-  array (
-    'companyname' => 'The Citadel',
-    'companyemail' => 'webmaster at citadel dot edu',
-    'companyurl' => 'http://www.citadel.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6951203cf0e03191ba0e60d33958d6e7',
-  ),
   'biola-university' => 
   array (
     'companyname' => 'Biola University',
@@ -4519,6 +4438,24 @@
     'companyrbntype' => '',
     'key' => 'f5b240960cabf7ae4e1651e829454d4c',
   ),
+  'josai-international-university' => 
+  array (
+    'companyname' => 'Josai International University',
+    'companyemail' => 'webmaster at jiu dot ac dot jp',
+    'companyurl' => 'http://www.jiu.ac.jp/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '015ca0c7da4fae069c3a92eec4e85944',
+  ),
+  'jubail-industrial-college' => 
+  array (
+    'companyname' => 'Jubail Industrial College',
+    'companyemail' => 'webmaster at jic dot edu dot sa',
+    'companyurl' => 'http://www.jic.edu.sa/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '8015e5b0ff5383353df88abb971e59c3',
+  ),
   'universidad-andina-del-cusco' => 
   array (
     'companyname' => 'Universidad Andina del Cusco',
@@ -4572,15 +4509,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'bfc89cd5e1f7f766fc64799a8af477b8',
-  ),
-  'texas-southern-university' => 
-  array (
-    'companyname' => 'Texas Southern University',
-    'companyemail' => 'webmaster at tsu dot edu',
-    'companyurl' => 'http://www.tsu.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '4f5e0d00812c4df4f239edf6bf949080',
   ),
   'universitas-widya-gama-malang' => 
   array (
@@ -4681,15 +4609,6 @@
     'companyrbntype' => '',
     'key' => '9d604b0e94939715a3fae6b0e7a3aa53',
   ),
-  'columbia-college-ca' => 
-  array (
-    'companyname' => 'Columbia College (CA)',
-    'companyemail' => 'webmaster at gocolumbia dot edu',
-    'companyurl' => 'http://www.gocolumbia.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '029cae920d940684fac65b781ee51f34',
-  ),
   'danviet-vn' => 
   array (
     'companyname' => 'danviet.vn',
@@ -4780,15 +4699,6 @@
     'companyrbntype' => '',
     'key' => '0ceed786365d23db5d143c7a961cd919',
   ),
-  'sprint' => 
-  array (
-    'companyname' => 'Sprint',
-    'companyemail' => 'webmaster at sprintpaging dot com',
-    'companyurl' => 'http://sprintpaging.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '4794da5c57f5df76155b5fd3c4b2a57a',
-  ),
   'technische-universit-t-carolo-wilhelmina-braunschweig' => 
   array (
     'companyname' => 'Technische Universität Carolo-Wilhelmina Braunschweig',
@@ -4825,15 +4735,6 @@
     'companyrbntype' => '',
     'key' => 'f21824f3bf4c88ffb865250aef153da1',
   ),
-  'state-engineering-university-of-armenia' => 
-  array (
-    'companyname' => 'State Engineering University of Armenia',
-    'companyemail' => 'webmaster at seua dot am',
-    'companyurl' => 'http://www.seua.am/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'dba2f9ef0aa554373f1ca1c68766f1b7',
-  ),
   'korean-national-police-university' => 
   array (
     'companyname' => 'Korean National Police University',
@@ -4851,6 +4752,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5350be4d6f6df5512b1a0e4a4a94d6b4',
+  ),
+  'university-of-kirkuk' => 
+  array (
+    'companyname' => 'University of Kirkuk',
+    'companyemail' => 'webmaster at uokirkuk dot edu dot iq',
+    'companyurl' => 'http://www.uokirkuk.edu.iq/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e1e6c6f4c4561769832c0de8a449e1bf',
   ),
   'universidad-aut-noma-del-carmen' => 
   array (
@@ -4878,15 +4788,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '8daafd8f4e3ce0312f4147bf6d7d55b7',
-  ),
-  'instituto-tecnol-gico-de-san-luis-potos' => 
-  array (
-    'companyname' => 'Instituto Tecnológico de San Luis Potosí',
-    'companyemail' => 'webmaster at itslp dot edu dot mx',
-    'companyurl' => 'http://www.itslp.edu.mx/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1404a21b17ae2066efee5f499dc562bd',
   ),
   'business-school-lausanne-bsl' => 
   array (
@@ -5076,15 +4977,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '3bd43ce815d2fff7fd3933d62b557108',
-  ),
-  'universidad-cat-lica-argentina-santa-maria-de-los-buenos-aires' => 
-  array (
-    'companyname' => 'Universidad Católica Argentina Santa Maria de los Buenos Aires',
-    'companyemail' => 'webmaster at uca dot edu dot ar',
-    'companyurl' => 'http://www.uca.edu.ar/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '182a96be09cb6794858900bb153c1709',
   ),
   'pacific-university' => 
   array (
@@ -5311,6 +5203,15 @@
     'companyrbntype' => '',
     'key' => '97b380dfe911c95c1d1e4f0d1c4dd691',
   ),
+  'ecole-sup-rieure-de-commerce-de-sophia-antipolis' => 
+  array (
+    'companyname' => 'Ecole Supérieure de Commerce de Sophia Antipolis',
+    'companyemail' => 'webmaster at ceram dot edu',
+    'companyurl' => 'http://www.ceram.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '1ca3718daecb7b535bbcf19eaaca24ee',
+  ),
   'franklin-pierce-law-center' => 
   array (
     'companyname' => 'Franklin Pierce Law Center',
@@ -5355,15 +5256,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '749de865484fe6ee08b02305fb5e62db',
-  ),
-  'vaganova-academy-of-russian-ballet' => 
-  array (
-    'companyname' => 'Vaganova Academy of Russian Ballet',
-    'companyemail' => 'webmaster at kirovballet dot com',
-    'companyurl' => 'http://www.kirovballet.com/vaganova.html',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7779b8a981a31ba154330ed948210f18',
   ),
   'damanhour-university' => 
   array (
@@ -5464,15 +5356,6 @@
     'companyrbntype' => '',
     'key' => '89f0916e7f0144293f454d23f7da5c0e',
   ),
-  'sichuan-fine-art-institute' => 
-  array (
-    'companyname' => 'Sichuan Fine Art Institute',
-    'companyemail' => 'webmaster at zsb dot scfai dot edu dot cn',
-    'companyurl' => 'http://zsb.scfai.edu.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ea57859f623d1fbd79b2e7909f3fd3ee',
-  ),
   'kerbala-university' => 
   array (
     'companyname' => 'Kerbala University',
@@ -5508,15 +5391,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c9f0fdc4d28059fab40a9f5d1caf3e6e',
-  ),
-  'university-of-texas-at-austin' => 
-  array (
-    'companyname' => 'University of Texas at Austin',
-    'companyemail' => 'webmaster at utexas dot edu',
-    'companyurl' => 'https://utexas.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'bb1c0924b4b4b15b2f2a87a9dda52c03',
   ),
   'universidad-iberoamericana' => 
   array (
@@ -5833,14 +5707,23 @@
     'companyrbntype' => '',
     'key' => 'c1ad038afd626fe5124f5a901175fc20',
   ),
-  'universitas-islam-nusantara' => 
+  'changchun-university-of-science-and-technology' => 
   array (
-    'companyname' => 'Universitas Islam Nusantara',
-    'companyemail' => 'webmaster at uninus dot ac dot id',
-    'companyurl' => 'http://www.uninus.ac.id/',
+    'companyname' => 'Changchun University of Science and Technology',
+    'companyemail' => 'webmaster at cust dot edu dot cn',
+    'companyurl' => 'http://www.cust.edu.cn',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '0bd01c82e4291e9ce19c56330bfe3943',
+    'key' => '33b073cc166d1f80b1430fdbfe0f62c1',
+  ),
+  'aarhus-school-of-business' => 
+  array (
+    'companyname' => 'Aarhus School of Business',
+    'companyemail' => 'webmaster at hha dot dk',
+    'companyurl' => 'http://www.hha.dk/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '571b410d224321c38e4336eb071e8275',
   ),
   'daneshestan-institute-of-higher-education' => 
   array (
@@ -5868,15 +5751,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '215ea1bc7812023b41ab90e779d9c4dd',
-  ),
-  'united-states-air-force-academy' => 
-  array (
-    'companyname' => 'United States Air Force Academy',
-    'companyemail' => 'webmaster at usafa dot edu',
-    'companyurl' => 'http://www.usafa.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9ae6597306cf6ba3329fa0a261f93a02',
   ),
   'universidade-federal-do-amap' => 
   array (
@@ -5995,15 +5869,6 @@
     'companyrbntype' => '',
     'key' => '4b71bd84a84195bdc66da44d533b4341',
   ),
-  'oakland-university' => 
-  array (
-    'companyname' => 'Oakland University',
-    'companyemail' => 'webmaster at oakland dot edu',
-    'companyurl' => 'http://www.oakland.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '340e5d05dccd207f2ac4e6ac1e7a2d60',
-  ),
   'hogeschool-antwerpen' => 
   array (
     'companyname' => 'Hogeschool Antwerpen',
@@ -6012,6 +5877,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '499778cf92e82f0692c9fa92df7c2892',
+  ),
+  'kitasato-university' => 
+  array (
+    'companyname' => 'Kitasato University',
+    'companyemail' => 'webmaster at kitasato-u dot ac dot jp',
+    'companyurl' => 'http://www.kitasato-u.ac.jp/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ba87a23a35d0b3b045c574a57fe51768',
   ),
   'stratford-university' => 
   array (
@@ -6184,6 +6058,15 @@
     'companyrbntype' => '',
     'key' => '04fe27860f7c56ee8402357f3e1e1da3',
   ),
+  'facult-s-universitaires-saint-louis' => 
+  array (
+    'companyname' => 'Facultés Universitaires Saint-Louis',
+    'companyemail' => 'webmaster at fusl dot ac dot be',
+    'companyurl' => 'http://www.fusl.ac.be/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '62641397724c2fe054a1f8228582eb66',
+  ),
   'universidad-de-lambayeque' => 
   array (
     'companyname' => 'Universidad de Lambayeque',
@@ -6237,15 +6120,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '6e2b4c0c3a239a658763a39ca437eff7',
-  ),
-  'grinnell-college' => 
-  array (
-    'companyname' => 'Grinnell College',
-    'companyemail' => 'webmaster at grinnell dot edu',
-    'companyurl' => 'http://www.grinnell.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '880287f59d65847d1ef8348beb1fe37b',
   ),
   'mozyr-state-pedagogical-institute' => 
   array (
@@ -6400,15 +6274,6 @@
     'companyrbntype' => '',
     'key' => '100802a30d6f0b3636d6328f8e01bf3d',
   ),
-  'shanghai-customs-college' => 
-  array (
-    'companyname' => 'Shanghai Customs College',
-    'companyemail' => false,
-    'companyurl' => 'http://shanghai_edu.customs.gov.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '0f6b0d7b394fce9e8b596e524944235e',
-  ),
   'northeastern-technical-college' => 
   array (
     'companyname' => 'Northeastern Technical College',
@@ -6499,6 +6364,15 @@
     'companyrbntype' => '',
     'key' => 'b3b5dfb77ec362fa082e130d2fe0261f',
   ),
+  'ecole-superieur-d-ingenieurs-leonard-de-vinci' => 
+  array (
+    'companyname' => 'Ecole Superieur d\'Ingenieurs Leonard de Vinci',
+    'companyemail' => 'webmaster at devinci dot fr',
+    'companyurl' => 'http://www.devinci.fr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c5ca7d60b3dcd9c77cbd02871b70cd59',
+  ),
   'royal-danish-academy-of-fine-arts-school-of-visual-art' => 
   array (
     'companyname' => 'Royal Danish Academy of Fine Arts, School of Visual Art',
@@ -6588,15 +6462,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '82129f7b04c2d08c14a5bb95b233840b',
-  ),
-  'inha-university' => 
-  array (
-    'companyname' => 'Inha University',
-    'companyemail' => 'webmaster at inha dot ac dot kr',
-    'companyurl' => 'http://www.inha.ac.kr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '224c04f27658281aea826bd008c7933c',
   ),
   'daemen-college' => 
   array (
@@ -6769,6 +6634,15 @@
     'companyrbntype' => '',
     'key' => '79b5d6db5242d7bc37e93b2d57614658',
   ),
+  'universidad-aut-noma-gabriel-ren-moreno' => 
+  array (
+    'companyname' => 'Universidad Autónoma Gabriel René Moreno',
+    'companyemail' => 'webmaster at uagrm dot edu dot bo',
+    'companyurl' => 'http://www.uagrm.edu.bo/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9e7efbfc5ca16a75a35b98dba4285bfe',
+  ),
   'university-of-florida' => 
   array (
     'companyname' => 'University of Florida',
@@ -6894,6 +6768,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2774b8ce925f1bee334a26503b36dcff',
+  ),
+  'park-university' => 
+  array (
+    'companyname' => 'Park University',
+    'companyemail' => 'webmaster at park dot edu',
+    'companyurl' => 'https://park.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6bba37e5f5c0a38e49275a8f5f37ba3f',
   ),
   'centre-de-formation-et-de-perfectionnement-des-journalistes' => 
   array (
@@ -7057,6 +6940,15 @@
     'companyrbntype' => '',
     'key' => 'c773a7842cff1f1e65d3eff966665e93',
   ),
+  'selangor-islamic-university-college' => 
+  array (
+    'companyname' => 'Selangor Islamic University College',
+    'companyemail' => 'webmaster at kuis dot edu dot my',
+    'companyurl' => 'http://www.kuis.edu.my/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b6a1215cc7261ef7220a6c82c4a27a46',
+  ),
   'universitat-de-barcelona' => 
   array (
     'companyname' => 'Universitat de Barcelona',
@@ -7147,15 +7039,6 @@
     'companyrbntype' => '',
     'key' => '6af026c83182c7f7eb8a2b3e5b7a01f1',
   ),
-  'knox-college' => 
-  array (
-    'companyname' => 'Knox College',
-    'companyemail' => 'webmaster at knox dot edu',
-    'companyurl' => 'http://www.knox.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'f0d7fa5956758a346814e85513ce0933',
-  ),
   'birla-institute-of-technology-and-science' => 
   array (
     'companyname' => 'Birla Institute of Technology and Science',
@@ -7183,6 +7066,15 @@
     'companyrbntype' => '',
     'key' => '3f98b9311a1896b6d1781a35aed06a7c',
   ),
+  'mahidol-university' => 
+  array (
+    'companyname' => 'Mahidol University',
+    'companyemail' => 'webmaster at mahidol dot ac dot th',
+    'companyurl' => 'http://www.mahidol.ac.th/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f1982cee4af0ccd294d7cb4c63f14e98',
+  ),
   'christian-albrechts-universit-t-kiel' => 
   array (
     'companyname' => 'Christian-Albrechts-Universität Kiel',
@@ -7209,6 +7101,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '38f9e8875b4be017d5a1a7c92602ad7d',
+  ),
+  'hochschule-harz-hochschule-f-r-angewandte-wissenschaften-fh' => 
+  array (
+    'companyname' => 'Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)',
+    'companyemail' => 'webmaster at hs-harz dot de',
+    'companyurl' => 'http://www.hs-harz.de/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'faf8027be527421add86836579b2a006',
   ),
   'johnson-bible-college' => 
   array (
@@ -7282,6 +7183,15 @@
     'companyrbntype' => '',
     'key' => '7a8853260227c341047f143eec622445',
   ),
+  'assia-info' => 
+  array (
+    'companyname' => 'assia.info',
+    'companyemail' => 'support at assia dot info',
+    'companyurl' => 'http://assia.info',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '75a8ba301409dc3322ea15466fb4848d',
+  ),
   'ashkelon-academic-college' => 
   array (
     'companyname' => 'Ashkelon Academic College',
@@ -7326,6 +7236,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '148ec41a2879a6010e1e872fa04855b3',
+  ),
+  'westminster-college' => 
+  array (
+    'companyname' => 'Westminster College',
+    'companyemail' => 'webmaster at westminster dot edu',
+    'companyurl' => 'http://www.westminster.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd61fb3cde09b6f142dd9773320e6b879',
   ),
   'campbell-university' => 
   array (
@@ -7435,6 +7354,15 @@
     'companyrbntype' => '',
     'key' => 'e6885ba4e0ca2a430bec12db02023c00',
   ),
+  'galaxy-corporation' => 
+  array (
+    'companyname' => 'Galaxy Corporation',
+    'companyemail' => 'webmaster at sendabeep dot net',
+    'companyurl' => 'http://sendabeep.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '79c32f6132144b59b0ca83ccba300491',
+  ),
   'nazareth-college' => 
   array (
     'companyname' => 'Nazareth College',
@@ -7542,15 +7470,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5bc09455b8ad8b27d235c2da2ea210b3',
-  ),
-  'lewis-clark-state-college' => 
-  array (
-    'companyname' => 'Lewis-Clark State College',
-    'companyemail' => 'webmaster at lcsc dot edu',
-    'companyurl' => 'http://www.lcsc.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '82102ee9ef5396d0417e9402ee470f32',
   ),
   'information-and-communications-university' => 
   array (
@@ -7732,15 +7651,6 @@
     'companyrbntype' => '',
     'key' => '1f78703fb0095a9e77a26588c5cd4240',
   ),
-  'universidad-de-le-n' => 
-  array (
-    'companyname' => 'Universidad de León',
-    'companyemail' => 'webmaster at universidaddeleon dot edu dot mx',
-    'companyurl' => 'http://www.universidaddeleon.edu.mx/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'f49561bea685a29db8599a037aea903f',
-  ),
   'fachhochschule-hildesheim-holzminden-g-ttingen-hochschule-f-r-angewandte-wissenschaft-und-kunst' => 
   array (
     'companyname' => 'Fachhochschule Hildesheim/Holzminden/Göttingen, Hochschule für angewandte Wissenschaft und Kunst',
@@ -7894,6 +7804,15 @@
     'companyrbntype' => '',
     'key' => 'fa0373d3dc5a63cd9da315f81b423f28',
   ),
+  'banaras-hindu-university' => 
+  array (
+    'companyname' => 'Banaras Hindu University',
+    'companyemail' => 'webmaster at bhu dot ac dot in',
+    'companyurl' => 'http://www.bhu.ac.in/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0fd7c4f2bdf3f1633815fd2461104c02',
+  ),
   'university-of-teesside' => 
   array (
     'companyname' => 'University of Teesside',
@@ -7902,6 +7821,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f067170b26c5f412c77cbbfc85b24ad1',
+  ),
+  'universit-abdou-moumouni-de-niamey' => 
+  array (
+    'companyname' => 'Université Abdou Moumouni de Niamey',
+    'companyemail' => 'webmaster at uam dot refer dot ne',
+    'companyurl' => 'http://uam.refer.ne/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '8bbe993e8068df836b13d634937ff02f',
   ),
   'beepwear' => 
   array (
@@ -7929,15 +7857,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ddbf51f13ff13f97d62acfdd278c3726',
-  ),
-  'norwegian-school-of-management-bi' => 
-  array (
-    'companyname' => 'Norwegian School of Management BI',
-    'companyemail' => 'webmaster at bi dot no',
-    'companyurl' => 'http://www.bi.no/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '750b76b2bb8ab15eac3849959bcec926',
   ),
   'institute-of-commerce-and-business' => 
   array (
@@ -8011,6 +7930,15 @@
     'companyrbntype' => '',
     'key' => '25bf9aa2ff2d8e90406adfbda8b2f7c8',
   ),
+  'universitas-muhammadiyah-jember' => 
+  array (
+    'companyname' => 'Universitas Muhammadiyah Jember',
+    'companyemail' => 'webmaster at unmuhjember dot ac dot id',
+    'companyurl' => 'http://www.unmuhjember.ac.id/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5240478ddde247513674a55f5bd39dd4',
+  ),
   'hyupsung-university' => 
   array (
     'companyname' => 'Hyupsung University',
@@ -8028,6 +7956,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '77bebb580fbe730eadf6676ea902bfd6',
+  ),
+  'graylink-porta-phone' => 
+  array (
+    'companyname' => 'GrayLink / Porta-Phone',
+    'companyemail' => 'webmaster at porta-phone dot com',
+    'companyurl' => 'http://porta-phone.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f9ddf9ed82f91c5e4c563f1256a07a1d',
   ),
   'iscte-instituto-universit-rio-de-lisboa' => 
   array (
@@ -8128,15 +8065,6 @@
     'companyrbntype' => '',
     'key' => 'b1dabc0fb66811a15d7b5bcba3d14c09',
   ),
-  'richland-community-college' => 
-  array (
-    'companyname' => 'Richland Community College',
-    'companyemail' => 'webmaster at richland dot edu',
-    'companyurl' => 'http://www.richland.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5e8be4eed3e64582e80c23c85dbe2a23',
-  ),
   'shiraz-university-of-medical-sciences' => 
   array (
     'companyname' => 'Shiraz University of Medical Sciences',
@@ -8145,15 +8073,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '73c74c17b762019840e25f415f398e3d',
-  ),
-  'international-business-university-of-beijing' => 
-  array (
-    'companyname' => 'International Business University of Beijing',
-    'companyemail' => 'webmaster at ibub dot edu dot cn',
-    'companyurl' => 'http://www.ibub.edu.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'bfc33a9917bd17a44ea4110538f9ff5a',
   ),
   'universidad-nacional-de-lomas-de-zamora' => 
   array (
@@ -8199,6 +8118,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '6bc7275ae16f969e820cd73e57fb84fb',
+  ),
+  'dav-university' => 
+  array (
+    'companyname' => 'Dav University',
+    'companyemail' => 'webmaster at davuniversity dot org',
+    'companyurl' => 'http://www.davuniversity.org/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'af9b4be9e796bbc7cfb3b075db2f3e62',
   ),
   'south-asian-institute-of-technology-and-medicine-saitm' => 
   array (
@@ -8506,15 +8434,6 @@
     'companyrbntype' => '',
     'key' => 'bde8e4064d72bcedc575f69da57e3446',
   ),
-  'assia-info' => 
-  array (
-    'companyname' => 'assia.info',
-    'companyemail' => 'support at assia dot info',
-    'companyurl' => 'http://assia.info',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '75a8ba301409dc3322ea15466fb4848d',
-  ),
   'universidade-de-caxias-do-sul' => 
   array (
     'companyname' => 'Universidade de Caxias do Sul',
@@ -8605,15 +8524,6 @@
     'companyrbntype' => '',
     'key' => '22ac50069283374400f14ce808346e9b',
   ),
-  'kerman-graduate-university-of-technology' => 
-  array (
-    'companyname' => 'Kerman Graduate University of Technology',
-    'companyemail' => 'webmaster at kgut dot ac dot ir',
-    'companyurl' => 'http://www.kgut.ac.ir/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '45330599f9f11a31fce2a4e44805e98b',
-  ),
   'umaru-musa-yar-adua-university' => 
   array (
     'companyname' => 'Umaru Musa Yar\'Adua University',
@@ -8677,6 +8587,15 @@
     'companyrbntype' => '',
     'key' => '3598ed85c18b50b6cebc37eeffea4f4e',
   ),
+  'shiraz-university' => 
+  array (
+    'companyname' => 'Shiraz University',
+    'companyemail' => 'webmaster at shirazu dot ac dot ir',
+    'companyurl' => 'http://www.shirazu.ac.ir/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b7a04a1bea7830151785cc7497d792db',
+  ),
   'university-of-social-welfare-and-rehabilitation-scinences' => 
   array (
     'companyname' => 'University of Social Welfare and Rehabilitation Scinences',
@@ -8713,14 +8632,32 @@
     'companyrbntype' => '',
     'key' => '76ad23d5708610d2e893f7086e75c089',
   ),
-  'university-of-guyana' => 
+  'universit-mentouri-constantine' => 
   array (
-    'companyname' => 'University of Guyana',
-    'companyemail' => 'webmaster at uog dot edu dot gy',
-    'companyurl' => 'http://www.uog.edu.gy/',
+    'companyname' => 'Université Mentouri Constantine',
+    'companyemail' => 'webmaster at umc dot edu dot dz',
+    'companyurl' => 'http://www.umc.edu.dz/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'cc4547838c7aba4cdafd5f189349b6a7',
+    'key' => '887416dc10ed2251bfa1c27fd1487696',
+  ),
+  'chu-hai-college' => 
+  array (
+    'companyname' => 'Chu Hai College',
+    'companyemail' => 'webmaster at chuhai dot edu dot hk',
+    'companyurl' => 'http://www.chuhai.edu.hk/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd9b5f2d1c049b67dd885a76bf767bbc6',
+  ),
+  'universidad-de-puerto-rico-ciencias-medicas' => 
+  array (
+    'companyname' => 'Universidad de Puerto Rico, Ciencias Medicas',
+    'companyemail' => 'webmaster at rcm dot upr dot edu',
+    'companyurl' => 'http://www.rcm.upr.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '134d584b5658ce7ba9d29f3708ddafe3',
   ),
   'universidad-cat-lica-de-c-rdoba' => 
   array (
@@ -8775,15 +8712,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd8e73e6b55438969c438ef96c61739ac',
-  ),
-  'changchun-university-of-science-and-technology' => 
-  array (
-    'companyname' => 'Changchun University of Science and Technology',
-    'companyemail' => 'webmaster at ieec dot cust dot edu dot cn',
-    'companyurl' => 'http://ieec.cust.edu.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '33b073cc166d1f80b1430fdbfe0f62c1',
   ),
   'sheridan-college' => 
   array (
@@ -8865,15 +8793,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'db404f0d7fe16943eca402a34d677ca7',
-  ),
-  'lakshmibai-national-institute-of-physical-education' => 
-  array (
-    'companyname' => 'Lakshmibai National Institute of Physical Education',
-    'companyemail' => 'webmaster at lnipe dot edu',
-    'companyurl' => 'http://www.lnipe.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'fa1a6476e59b2384f531c78a19d1eff8',
   ),
   'presbyterian-university-college' => 
   array (
@@ -9018,6 +8937,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '57eb2720bef96f87671acdcb609f05e4',
+  ),
+  'tottori-university-of-environmental-studies' => 
+  array (
+    'companyname' => 'Tottori University of Environmental Studies',
+    'companyemail' => 'webmaster at kankyo-u dot ac dot jp',
+    'companyurl' => 'http://www.kankyo-u.ac.jp/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c97f970af641c1888598fccd46d5f183',
   ),
   'hebron-university' => 
   array (
@@ -9244,6 +9172,15 @@
     'companyrbntype' => '',
     'key' => 'e3d88590143ae46446177a4285d537b1',
   ),
+  'university-of-alberta' => 
+  array (
+    'companyname' => 'University of Alberta',
+    'companyemail' => 'webmaster at ualberta dot ca',
+    'companyurl' => 'http://www.ualberta.ca/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5ed9ad945b282256c6d21dadeafc7032',
+  ),
   'suzhou-university' => 
   array (
     'companyname' => 'Suzhou University',
@@ -9270,15 +9207,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'cad6e22e985e176388e3200551069a93',
-  ),
-  'universidad-central' => 
-  array (
-    'companyname' => 'Universidad Central',
-    'companyemail' => 'webmaster at ucentral dot edu dot co',
-    'companyurl' => 'http://www.ucentral.edu.co/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '0f6c11a3d5b1dbe9210ebe26dbf827bb',
   ),
   'seijo-university' => 
   array (
@@ -9343,15 +9271,6 @@
     'companyrbntype' => '',
     'key' => '7a1ffa008975b7bd171e0e5c9b671d95',
   ),
-  'qiongzhou-university' => 
-  array (
-    'companyname' => 'Qiongzhou University',
-    'companyemail' => 'webmaster at qzu dot edu dot cn',
-    'companyurl' => 'http://www.qzu.edu.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a9646b158a3d9d534ed5f14431cb2671',
-  ),
   'napa-valley-college' => 
   array (
     'companyname' => 'Napa Valley College',
@@ -9369,6 +9288,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e7d8057f67ced9fe830ecedbc0eb670f',
+  ),
+  'brno-university-of-technology' => 
+  array (
+    'companyname' => 'Brno University of Technology',
+    'companyemail' => 'webmaster at vutbr dot cz',
+    'companyurl' => 'http://www.vutbr.cz/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '34d35992f01e792cf1f94b80275c2756',
   ),
   'umea-university' => 
   array (
@@ -9487,6 +9415,15 @@
     'companyrbntype' => '',
     'key' => 'fbb483993fc15678a9ffe0028655ded5',
   ),
+  'novosibirsk-state-technical-university' => 
+  array (
+    'companyname' => 'Novosibirsk State Technical University',
+    'companyemail' => 'webmaster at nstu dot ru',
+    'companyurl' => 'http://www.nstu.ru/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '47095e675b365f30a6326379883ce4e2',
+  ),
   'university-of-munawwar-ul-islam' => 
   array (
     'companyname' => 'University of Munawwar-ul-Islam',
@@ -9522,6 +9459,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f49804719d94887c88acad33341b3bb1',
+  ),
+  'highland-community-college' => 
+  array (
+    'companyname' => 'Highland Community College',
+    'companyemail' => 'webmaster at highlandcc dot edu',
+    'companyurl' => 'http://www.highlandcc.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '90ab17fe47541627c7606779fc91437d',
   ),
   'universitas-sanata-dharma' => 
   array (
@@ -9730,6 +9676,15 @@
     'companyrbntype' => '',
     'key' => 'c8b223dbf9312d95534efaad39542b4f',
   ),
+  'universidade-federal-do-par' => 
+  array (
+    'companyname' => 'Universidade Federal do Pará',
+    'companyemail' => 'webmaster at ufpa dot br',
+    'companyurl' => 'http://www.ufpa.br/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7628b53de11b84a11c979cae14071428',
+  ),
   'loyola-college' => 
   array (
     'companyname' => 'Loyola College',
@@ -9784,6 +9739,15 @@
     'companyrbntype' => '',
     'key' => '4b2883cf003293c44438b9a301566f7d',
   ),
+  'prasetiya-mulya-business-school' => 
+  array (
+    'companyname' => 'Prasetiya Mulya Business School',
+    'companyemail' => 'webmaster at pmbs dot ac dot id',
+    'companyurl' => 'http://www.pmbs.ac.id/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f5dee5561873f6fa088cfac0df1580ba',
+  ),
   'charisma-university' => 
   array (
     'companyname' => 'Charisma University',
@@ -9828,6 +9792,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '22f8b848ee44f00f8026ea22c26b68f6',
+  ),
+  'osaka-sangyo-university' => 
+  array (
+    'companyname' => 'Osaka Sangyo University',
+    'companyemail' => 'webmaster at osaka-sandai dot ac dot jp',
+    'companyurl' => 'http://www.osaka-sandai.ac.jp/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '98b5879dbb41ffe440e62b6ec284d118',
   ),
   'university-of-the-district-of-columbia' => 
   array (
@@ -9955,15 +9928,6 @@
     'companyrbntype' => '',
     'key' => '6def48dff0ff4a8da7aaf73b1fea6972',
   ),
-  'fahad-bin-sultan-university' => 
-  array (
-    'companyname' => 'Fahad Bin Sultan University',
-    'companyemail' => 'webmaster at fbsc dot edu dot sa',
-    'companyurl' => 'http://www.fbsc.edu.sa/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ef888bf4447bee439ce9063fedf71a31',
-  ),
   'humboldt-state-university' => 
   array (
     'companyname' => 'Humboldt State University',
@@ -9991,15 +9955,6 @@
     'companyrbntype' => '',
     'key' => '95038c97e8869862be0ab7854966b1d7',
   ),
-  'kalinga-university' => 
-  array (
-    'companyname' => 'Kalinga University',
-    'companyemail' => 'webmaster at kalingauniversity dot com',
-    'companyurl' => 'http://www.kalingauniversity.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '20c1f56fd00f5579d0bb7d73980e9dd2',
-  ),
   'guru-jambeshwar-university' => 
   array (
     'companyname' => 'Guru Jambeshwar University',
@@ -10017,6 +9972,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '3b3efad58cd6b32c9053a93f3f0dc938',
+  ),
+  'universidade-de-cruz-alta' => 
+  array (
+    'companyname' => 'Universidade de Cruz Alta',
+    'companyemail' => 'webmaster at unicruz dot tche dot br',
+    'companyurl' => 'http://www.unicruz.tche.br/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0d1577110fc23c48b5f39c47b79968ca',
   ),
   'vietnamese-german-university' => 
   array (
@@ -10081,6 +10045,15 @@
     'companyrbntype' => '',
     'key' => 'a45511d5f3c0a89bfc30950ab52960b3',
   ),
+  'utah-valley-uniersity' => 
+  array (
+    'companyname' => 'Utah Valley Uniersity',
+    'companyemail' => 'webmaster at uvu dot edu',
+    'companyurl' => 'https://uvu.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f88200b1552f6f21570ee1d295768440',
+  ),
   'marion-military-institute' => 
   array (
     'companyname' => 'Marion Military Institute',
@@ -10125,6 +10098,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5e3a748f873ca4e4da3429906987ab95',
+  ),
+  'regis-university' => 
+  array (
+    'companyname' => 'Regis University',
+    'companyemail' => 'webmaster at regis dot edu',
+    'companyurl' => 'http://www.regis.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '143334bb4bcb621fd13e42da0cefd54a',
   ),
   'universidad-tecnol-gica-del-peru' => 
   array (
@@ -10206,15 +10188,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'cc616f932d50bad11121088ff7d70e9c',
-  ),
-  'universit-centrale' => 
-  array (
-    'companyname' => 'Université Centrale',
-    'companyemail' => 'webmaster at ucaat dot com',
-    'companyurl' => 'http://www.ucaat.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'e8a0a0df44563ada5852779409979b6f',
   ),
   'sambalpur-university' => 
   array (
@@ -10323,15 +10296,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9f0e3645a533cc97fe7ad1be8df78f3c',
-  ),
-  'universidad-centro-occidental-lisandro-alvarado' => 
-  array (
-    'companyname' => 'Universidad Centro Occidental Lisandro Alvarado',
-    'companyemail' => 'webmaster at ucla dot edu dot ve',
-    'companyurl' => 'http://www.ucla.edu.ve/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '71fe3b99e1297199bddf943304941949',
   ),
   'shaheed-zulifkar-ali-bhutto-institute-of-science-and-technology' => 
   array (
@@ -10540,6 +10504,24 @@
     'companyrbntype' => '',
     'key' => '1f90d6d53ceefa2f7f2dc88707afbd38',
   ),
+  'missouri-state-university' => 
+  array (
+    'companyname' => 'Missouri State University',
+    'companyemail' => 'webmaster at missouristate dot edu',
+    'companyurl' => 'http://www.missouristate.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd949683e343ecd047e87b7c7476822f5',
+  ),
+  'san-juan-bautista-school-of-medicine' => 
+  array (
+    'companyname' => 'San Juan Bautista School of Medicine',
+    'companyemail' => 'webmaster at sanjuanbautista dot edu',
+    'companyurl' => 'http://www.sanjuanbautista.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '44ef0bd05411f99c2531e25b630d4878',
+  ),
   'suny-westchester-community-college' => 
   array (
     'companyname' => 'SUNY Westchester Community College',
@@ -10567,14 +10549,14 @@
     'companyrbntype' => '',
     'key' => '2ea1630afa2fad77a062cc89ce2d6a92',
   ),
-  'institut-national-polytechnique-de-grenoble' => 
+  'university-of-dammam' => 
   array (
-    'companyname' => 'Institut National Polytechnique de Grenoble',
-    'companyemail' => 'webmaster at inpg dot fr',
-    'companyurl' => 'http://www.inpg.fr/',
+    'companyname' => 'University of Dammam',
+    'companyemail' => 'webmaster at ud dot edu dot sa',
+    'companyurl' => 'http://www.ud.edu.sa/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'cab25138b4d14d9090ec74c5471ab7c1',
+    'key' => '142a1cfc80099136f4c37f4ba7a20221',
   ),
   'lithunian-academy-of-music-and-theatre' => 
   array (
@@ -10620,15 +10602,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ccf7dcfc179e01018173547521c69f99',
-  ),
-  'bowie-state-university' => 
-  array (
-    'companyname' => 'Bowie State University',
-    'companyemail' => 'webmaster at bowiestate dot edu',
-    'companyurl' => 'http://www.bowiestate.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd3dd9bbf85a60b429949782a3b8bcc51',
   ),
   'universidad-de-congreso' => 
   array (
@@ -11197,14 +11170,14 @@
     'companyrbntype' => '',
     'key' => 'd5bd88b5f5fdf8285fe989f71763916d',
   ),
-  'university-of-michigan-dearborn' => 
+  'huizhou-university' => 
   array (
-    'companyname' => 'University of Michigan - Dearborn',
-    'companyemail' => 'webmaster at umdearborn dot edu',
-    'companyurl' => 'http://www.umdearborn.edu/',
+    'companyname' => 'Huizhou University',
+    'companyemail' => 'webmaster at hzu dot edu dot cn',
+    'companyurl' => 'http://www.hzu.edu.cn/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '43684d6f5c5d071fdaf38ded6a894c8f',
+    'key' => 'ee68b3be912bcb3f697be33758f8ec0e',
   ),
   'indiana-university-bloomington' => 
   array (
@@ -11233,6 +11206,15 @@
     'companyrbntype' => '',
     'key' => '1478c9200f9617edea1cedc8279a468c',
   ),
+  'mohave-community-college' => 
+  array (
+    'companyname' => 'Mohave Community College',
+    'companyemail' => 'webmaster at mohave dot edu',
+    'companyurl' => 'http://www.mohave.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '15aa6de20053a6ff785b13ddbe079996',
+  ),
   'institut-national-polytechnique-de-lorraine' => 
   array (
     'companyname' => 'Institut National Polytechnique de Lorraine',
@@ -11251,15 +11233,6 @@
     'companyrbntype' => '',
     'key' => '67a4ff8419dce54a05dbace704b2b6f8',
   ),
-  'european-university-portugal' => 
-  array (
-    'companyname' => 'European University Portugal',
-    'companyemail' => 'webmaster at europeanuniversity dot pt',
-    'companyurl' => 'http://www.europeanuniversity.pt/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2eefbcb7ed471b249115f4386ed32fa2',
-  ),
   'birmingham-southern-college' => 
   array (
     'companyname' => 'Birmingham-Southern College',
@@ -11277,6 +11250,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c05682c90f9d3ec169c4a7f719307a6a',
+  ),
+  'university-of-akron-wayne-college' => 
+  array (
+    'companyname' => 'University of Akron Wayne College',
+    'companyemail' => 'webmaster at wayne dot uakron dot edu',
+    'companyurl' => 'http://www.wayne.uakron.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '597383abae6bd377551e56d2d333ab85',
   ),
   'pontif-cia-universidade-cat-lica-do-rio-grande-do-sul' => 
   array (
@@ -11350,6 +11332,15 @@
     'companyrbntype' => '',
     'key' => 'e3a263935fc7d393fed70e161f09e8c8',
   ),
+  'new-mexico-junior-college' => 
+  array (
+    'companyname' => 'New Mexico Junior College',
+    'companyemail' => 'webmaster at nmjc dot edu',
+    'companyurl' => 'http://www.nmjc.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7e31d1312b55f18c73da9787ca7fe00a',
+  ),
   'central-police-university' => 
   array (
     'companyname' => 'Central Police University',
@@ -11367,15 +11358,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'eec5053ade4b97fb08f459f2b3f81f33',
-  ),
-  'dawood-college-of-engineering-and-technology' => 
-  array (
-    'companyname' => 'Dawood College of Engineering and Technology',
-    'companyemail' => 'webmaster at dcet dot edu dot pk',
-    'companyurl' => 'http://www.dcet.edu.pk/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9cccc5096e8ebfd63e1ae8d396e7af31',
   ),
   'universidad-cat-lica-san-antonio' => 
   array (
@@ -11404,6 +11386,15 @@
     'companyrbntype' => '',
     'key' => '4a154a481683a511c8523ec5b7f4b1b9',
   ),
+  'bluegrass-cellular' => 
+  array (
+    'companyname' => 'Bluegrass Cellular',
+    'companyemail' => 'webmaster at bluecell dot com',
+    'companyurl' => 'http://bluecell.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ec8b9c9cceb17626139664b1773048a5',
+  ),
   'universit-t-k-ln' => 
   array (
     'companyname' => 'Universität Köln',
@@ -11421,6 +11412,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '6b4782844540ed0815842e8d4a398811',
+  ),
+  'halic-university' => 
+  array (
+    'companyname' => 'Halic University',
+    'companyemail' => 'webmaster at halic dot edu dot tr',
+    'companyurl' => 'http://www.halic.edu.tr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3f267ad4b58e6693d4270c99fc6a5abb',
   ),
   'weizmann-institute-of-science' => 
   array (
@@ -11467,15 +11467,6 @@
     'companyrbntype' => '',
     'key' => '5a95814fb127789e1ea8b5a03188c1a1',
   ),
-  'xi-an-international-studies-university' => 
-  array (
-    'companyname' => 'Xi\'an International Studies University',
-    'companyemail' => 'webmaster at xisu dot edu dot cn',
-    'companyurl' => 'http://www.xisu.edu.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '26877e9a4d20dc8c96cc647204c025e0',
-  ),
   'american-university-of-the-caribbean-school-of-medicine' => 
   array (
     'companyname' => 'American University of the Caribbean, School of Medicine',
@@ -11521,14 +11512,14 @@
     'companyrbntype' => '',
     'key' => '9648c589d52d7d44ebfbfdef2f85d6c9',
   ),
-  'saginaw-valley-state-university' => 
+  'dominican-college' => 
   array (
-    'companyname' => 'Saginaw Valley State University',
-    'companyemail' => 'webmaster at svsu dot edu',
-    'companyurl' => 'http://www.svsu.edu/',
+    'companyname' => 'Dominican College',
+    'companyemail' => 'webmaster at dominican dot edu',
+    'companyurl' => 'http://www.dominican.edu/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'c22b097958282116307bb68f9d59eb4f',
+    'key' => 'cc5595a3fb143c80f5caa0b3eaff289d',
   ),
   'universidad-nacional-de-la-pampa' => 
   array (
@@ -11538,6 +11529,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c94a25b4d988f9356bbf724b4de1238f',
+  ),
+  'azerbaijan-state-pedagogic-university' => 
+  array (
+    'companyname' => 'Azerbaijan State Pedagogic University',
+    'companyemail' => 'webmaster at adpu dot edu dot az',
+    'companyurl' => 'http://www.adpu.edu.az/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b8ea980221783b7a5e7b0cb83146bfed',
   ),
   'meru-university-of-science-and-technology' => 
   array (
@@ -11719,15 +11719,6 @@
     'companyrbntype' => '',
     'key' => '7470946bba9ec343bbdea3a89fd5e1a6',
   ),
-  'universitas-muhammadiyah-jakarta' => 
-  array (
-    'companyname' => 'Universitas Muhammadiyah Jakarta',
-    'companyemail' => 'webmaster at umj dot ac dot id',
-    'companyurl' => 'http://www.umj.ac.id/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'f8117c466045a18d28045be7251114c4',
-  ),
   'texas-tech-university-health-sciences-center' => 
   array (
     'companyname' => 'Texas Tech University-Health Sciences Center',
@@ -11754,6 +11745,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ff06000d5936697ab6ecb3ba89a167a9',
+  ),
+  'universidad-del-valle-de-toluca' => 
+  array (
+    'companyname' => 'Universidad del Valle de Toluca',
+    'companyemail' => 'webmaster at uvt dot edu dot mx',
+    'companyurl' => 'http://www.uvt.edu.mx/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b5a46e198d4cacdca6a56ba3f29a5cda',
   ),
   'evergreen-state-college' => 
   array (
@@ -11827,6 +11827,15 @@
     'companyrbntype' => '',
     'key' => 'ed767f178aece9c9be14a6d4eb66c709',
   ),
+  'king-music-com' => 
+  array (
+    'companyname' => 'king-music.com',
+    'companyemail' => 'webmaster at king-music dot com',
+    'companyurl' => 'http://king-music.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f4643786ea6f49972aebd054f6d389b9',
+  ),
   'collegium-civitas' => 
   array (
     'companyname' => 'Collegium Civitas',
@@ -11863,15 +11872,6 @@
     'companyrbntype' => '',
     'key' => '833aad83130d7d4973c224d29ff07907',
   ),
-  'dankook-university' => 
-  array (
-    'companyname' => 'Dankook University',
-    'companyemail' => 'webmaster at dankook dot ac dot kr',
-    'companyurl' => 'http://www.dankook.ac.kr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'c36d06a9137675ef1901d3cef33f4577',
-  ),
   'russian-armenian-slavonic-state-university' => 
   array (
     'companyname' => 'Russian-Armenian (Slavonic) State University',
@@ -11907,6 +11907,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'eec92270e711c8293a72097b1bcbb828',
+  ),
+  'universitas-muhammadiyah-jakarta' => 
+  array (
+    'companyname' => 'Universitas Muhammadiyah Jakarta',
+    'companyemail' => 'webmaster at umj dot ac dot id',
+    'companyurl' => 'http://www.umj.ac.id/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f8117c466045a18d28045be7251114c4',
   ),
   'north-arkansas-college' => 
   array (
@@ -12025,15 +12034,6 @@
     'companyrbntype' => '',
     'key' => 'd3afc588aa6a812f6ed01097dee15e9a',
   ),
-  'modern-university-for-the-humanities' => 
-  array (
-    'companyname' => 'Modern University for the Humanities',
-    'companyemail' => 'webmaster at muh dot ru',
-    'companyurl' => 'http://www.muh.ru/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '30041d7bf0f73159d45e5fe1acd0d388',
-  ),
   'kyushu-university-of-nursing-and-socialwelfare' => 
   array (
     'companyname' => 'Kyushu University of Nursing and SocialWelfare',
@@ -12106,6 +12106,15 @@
     'companyrbntype' => '',
     'key' => '3e228e74de4e41a521510f6613af1acb',
   ),
+  'swiss-business-school-zurich-sbs' => 
+  array (
+    'companyname' => 'Swiss Business School Zurich (SBS)',
+    'companyemail' => 'webmaster at sbs dot edu',
+    'companyurl' => 'http://www.sbs.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b912e717cb3ece2ce0d6ceac98b97169',
+  ),
   'takestan-islamic-azad-university' => 
   array (
     'companyname' => 'Takestan Islamic Azad University',
@@ -12119,7 +12128,7 @@
   array (
     'companyname' => 'Oberlin College',
     'companyemail' => 'webmaster at oberlin dot edu',
-    'companyurl' => 'http://www.oberlin.edu/',
+    'companyurl' => 'https://oberlin.edu',
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c26d844a004b1624fdf5971fd2c82f52',
@@ -12133,14 +12142,14 @@
     'companyrbntype' => '',
     'key' => 'ed3d818b247f138330d3c43fe1b47d6e',
   ),
-  'state-university-of-new-york-college-at-cortland' => 
+  'cambodia-university-of-specialties' => 
   array (
-    'companyname' => 'State University of New York College at Cortland',
-    'companyemail' => 'webmaster at cortland dot edu',
-    'companyurl' => 'http://www.cortland.edu/',
+    'companyname' => 'Cambodia University of Specialties',
+    'companyemail' => 'webmaster at cus dot edu dot kh',
+    'companyurl' => 'http://www.cus.edu.kh/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '7adab00440c8b5f5e0f062895b3b61de',
+    'key' => '656563311c75387de4a71d73f454a69c',
   ),
   'irish-university-business-school-cebu' => 
   array (
@@ -12168,6 +12177,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e8aaa1ea7b320a3d41afe0cad1537635',
+  ),
+  'institute-of-teachers-education-ilmu-khas' => 
+  array (
+    'companyname' => 'Institute of Teachers Education, Ilmu Khas',
+    'companyemail' => 'webmaster at ipik dot edu dot my',
+    'companyurl' => 'http://www.ipik.edu.my/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '53325948437b691ece87060f58f14b37',
   ),
   'lagrange-college' => 
   array (
@@ -12213,6 +12231,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '4127f0c943ff6ad1dd2eaf5ef9d4e098',
+  ),
+  'university-of-information-technology-sciences' => 
+  array (
+    'companyname' => 'University of Information Technology & Sciences',
+    'companyemail' => 'webmaster at uits dot edu dot bd',
+    'companyurl' => 'http://www.uits.edu.bd/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7a8f635112f8485756190da5b5272e35',
   ),
   'john-f-kennedy-university' => 
   array (
@@ -12322,15 +12349,6 @@
     'companyrbntype' => '',
     'key' => '5abb0a29030d9944c4480df3acca59da',
   ),
-  'fachhochschule-aachen' => 
-  array (
-    'companyname' => 'Fachhochschule Aachen',
-    'companyemail' => 'webmaster at fh-aachen dot de',
-    'companyurl' => 'http://www.fh-aachen.de/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'e14541c0c7d28b15dc60427247147b12',
-  ),
   'indiana-university-at-south-bend' => 
   array (
     'companyname' => 'Indiana University at South Bend',
@@ -12348,15 +12366,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'cc5bb35240dbe9366fb6524c563a88a7',
-  ),
-  'kingston-college' => 
-  array (
-    'companyname' => 'Kingston College',
-    'companyemail' => 'webmaster at kingston dot edu',
-    'companyurl' => 'http://www.kingston.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'dc36ff5be39d0c3abab54c87defb7cf1',
   ),
   'university-of-edinburgh' => 
   array (
@@ -12520,6 +12529,15 @@
     'companyrbntype' => '',
     'key' => '71f1b5e3a58f45120e763185b71b9380',
   ),
+  'universidad-central' => 
+  array (
+    'companyname' => 'Universidad Central',
+    'companyemail' => 'webmaster at ucentral dot edu dot co',
+    'companyurl' => 'http://www.ucentral.edu.co/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0f6c11a3d5b1dbe9210ebe26dbf827bb',
+  ),
   'niger-delta-university' => 
   array (
     'companyname' => 'Niger Delta University',
@@ -12583,6 +12601,15 @@
     'companyrbntype' => '',
     'key' => '14d218c875f4b0b398adcdac9ba4f04a',
   ),
+  'istanbul-gelisim-university' => 
+  array (
+    'companyname' => 'Istanbul Gelisim University',
+    'companyemail' => 'webmaster at gelisim dot edu dot tr',
+    'companyurl' => 'http://www.gelisim.edu.tr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'a552f0905dd731fa0daf9e4edd21d9e5',
+  ),
   'karel-de-grote-hogeschool' => 
   array (
     'companyname' => 'Karel De Grote Hogeschool',
@@ -12591,33 +12618,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '310d218045c4ef209757fe6b76bf59e8',
-  ),
-  'kabul-medical-university' => 
-  array (
-    'companyname' => 'Kabul Medical University',
-    'companyemail' => 'webmaster at kmu dot edu dot af',
-    'companyurl' => 'http://www.kmu.edu.af/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'efe86c337e52ffd4025b73573eaa38f8',
-  ),
-  'arcadia-college' => 
-  array (
-    'companyname' => 'Arcadia College',
-    'companyemail' => 'webmaster at arcadia dot edu',
-    'companyurl' => 'http://www.arcadia.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b3075d92d1de4aceb8b192f7320e0ed5',
-  ),
-  'bamiyan-university' => 
-  array (
-    'companyname' => 'Bamiyan University',
-    'companyemail' => 'webmaster at bu dot edu dot af',
-    'companyurl' => 'http://www.bu.edu.af/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1e6d4f0d1f8d3d72c3f47cbdb4c39b00',
   ),
   'central-america-health-sciences-university-belize-medical-college' => 
   array (
@@ -12663,15 +12663,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '182a1a69b3910bfd5db517a2ac7dcb2d',
-  ),
-  'angelina-college' => 
-  array (
-    'companyname' => 'Angelina College',
-    'companyemail' => 'webmaster at angelina dot edu',
-    'companyurl' => 'http://www.angelina.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '4c117bf14fb0e84a41990919404726d5',
   ),
   'lupane-state-university' => 
   array (
@@ -12736,15 +12727,6 @@
     'companyrbntype' => '',
     'key' => 'cdef62562054f5cfa572c0ccec9d6060',
   ),
-  'fachhochschule-pforzheim-hochschule-f-r-gestaltung-technik-und-wirtschaft' => 
-  array (
-    'companyname' => 'Fachhochschule Pforzheim, Hochschule für Gestaltung, Technik und Wirtschaft',
-    'companyemail' => 'webmaster at fh-pforzheim dot de',
-    'companyurl' => 'http://www.fh-pforzheim.de/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'bce1d81c35aa858c190963058a915d40',
-  ),
   'ecole-sup-rieure-d-agriculture-de-purpan' => 
   array (
     'companyname' => 'Ecole Supérieure d\'Agriculture de Purpan',
@@ -12753,15 +12735,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9f850fe0554e241111a6ff304a4c5595',
-  ),
-  'university-of-nizwa' => 
-  array (
-    'companyname' => 'University of Nizwa',
-    'companyemail' => 'webmaster at unizwa dot edu dot om',
-    'companyurl' => 'http://www.unizwa.edu.om/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '756b0ea4b855a74a3775b938b02f2d62',
   ),
   'renaissance-university' => 
   array (
@@ -12825,15 +12798,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '8866f6e332f9f225f1ade42b2f42386a',
-  ),
-  'universidad-nacional-autonoma-de-nicaragua' => 
-  array (
-    'companyname' => 'Universidad Nacional Autonoma de Nicaragua',
-    'companyemail' => 'webmaster at unan dot edu dot ni',
-    'companyurl' => 'http://www.unan.edu.ni/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'c271c4764f78b3bf13baace8b5de13f4',
   ),
   'instituto-tecnol-gico-de-buenos-aires' => 
   array (
@@ -12996,15 +12960,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0b3267bdde19d893155843c6a7c6144d',
-  ),
-  'beijing-institute-of-technology' => 
-  array (
-    'companyname' => 'Beijing Institute of Technology',
-    'companyemail' => 'webmaster at bit dot edu dot cn',
-    'companyurl' => 'http://www.bit.edu.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3cad816103472c494f677b268e68b479',
   ),
   'university-of-ioannina' => 
   array (
@@ -13303,15 +13258,6 @@
     'companyrbntype' => '',
     'key' => 'cf1456ea065921b952b32735b9481e0e',
   ),
-  'athens-school-of-fine-arts' => 
-  array (
-    'companyname' => 'Athens School of Fine Arts',
-    'companyemail' => 'webmaster at asfa dot gr',
-    'companyurl' => 'http://www.asfa.gr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5c9050f66b3688f0401ec0418727f475',
-  ),
   'visvesvaraya-technological-university' => 
   array (
     'companyname' => 'Visvesvaraya Technological University',
@@ -13320,6 +13266,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '53a2a7693a3b982e1e71196f5f96b2c1',
+  ),
+  'southwestern-indian-polytechnic-institute' => 
+  array (
+    'companyname' => 'Southwestern Indian Polytechnic Institute',
+    'companyemail' => 'webmaster at sipi dot edu',
+    'companyurl' => 'http://www.sipi.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3ea18bfda6bbcbb70534d36d4052cd7a',
   ),
   'tibet-university' => 
   array (
@@ -13411,6 +13366,15 @@
     'companyrbntype' => '',
     'key' => '396de91d8d19635c9494f055e6201c21',
   ),
+  'west-pomeranian-business-school-in-szczecin' => 
+  array (
+    'companyname' => 'West Pomeranian Business School in Szczecin',
+    'companyemail' => 'webmaster at zpsb dot szczecin dot pl',
+    'companyurl' => 'http://www.zpsb.szczecin.pl/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3731c44fb8cbf80e067460ba02f9e645',
+  ),
   'angelo-state-university' => 
   array (
     'companyname' => 'Angelo State University',
@@ -13419,15 +13383,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2abacae4c7457a69a36f40a5c457386b',
-  ),
-  'ravak-shop-ru' => 
-  array (
-    'companyname' => 'ravak-shop.ru',
-    'companyemail' => 'webmaster at ravak-shop dot ru',
-    'companyurl' => 'http://ravak-shop.ru',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '351c40b5629d8c039ebb69294c78c022',
   ),
   'university-of-lodz' => 
   array (
@@ -13527,15 +13482,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '30ae54fb2e9e61895eb9bedfec75d0d1',
-  ),
-  'oklahoma-christian-university' => 
-  array (
-    'companyname' => 'Oklahoma Christian University',
-    'companyemail' => 'webmaster at oc dot edu',
-    'companyurl' => 'http://www.oc.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '87f69a59edb502af2db7e6cb61207234',
   ),
   'universidade-pedag-gica' => 
   array (
@@ -13654,6 +13600,15 @@
     'companyrbntype' => '',
     'key' => '838c3e03bc2db67b8fc91442172a00f1',
   ),
+  'institute-of-management-and-economy' => 
+  array (
+    'companyname' => 'Institute of Management and Economy',
+    'companyemail' => 'webmaster at ime dot ru',
+    'companyurl' => 'http://www.ime.ru/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c338005af4e323857fcef22ea663f464',
+  ),
   'kagoshima-immaculate-heart-university' => 
   array (
     'companyname' => 'Kagoshima Immaculate Heart University',
@@ -13662,6 +13617,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9ae2240df16d0215f79af8ad5b79b957',
+  ),
+  'universidad-casa-grande' => 
+  array (
+    'companyname' => 'Universidad Casa Grande',
+    'companyemail' => 'webmaster at casagrande dot edu dot ec',
+    'companyurl' => 'http://www.casagrande.edu.ec/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b29d44109b159d344587c690c0337020',
   ),
   'mordovian-state-university' => 
   array (
@@ -13734,6 +13698,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '49a296bc072113012c346dc2f53b1265',
+  ),
+  'al-batterjee-medical-college' => 
+  array (
+    'companyname' => 'Al-Batterjee Medical College',
+    'companyemail' => 'webmaster at bmcmedcollege dot com',
+    'companyurl' => 'http://www.bmcmedcollege.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ab4c183c9eeff6fa1e7b26f74b8ec313',
   ),
   'rbc-ru' => 
   array (
@@ -13852,6 +13825,15 @@
     'companyrbntype' => '',
     'key' => '2a783b3126cb2bfe8da19d897768eb50',
   ),
+  'univesidade-agostinho-neto' => 
+  array (
+    'companyname' => 'Univesidade Agostinho Neto',
+    'companyemail' => 'webmaster at uan dot ao',
+    'companyurl' => 'http://www.uan.ao/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'fc91c0c7ae54c45df5646d1d6dd82b82',
+  ),
   'universidad-cat-lica-de-valencia' => 
   array (
     'companyname' => 'Universidad Católica de Valencia',
@@ -13933,6 +13915,15 @@
     'companyrbntype' => '',
     'key' => 'e626fddc97c901b7e62cf9df8a5e987f',
   ),
+  'universitas-brawijaya' => 
+  array (
+    'companyname' => 'Universitas Brawijaya',
+    'companyemail' => 'webmaster at ub dot ac dot id',
+    'companyurl' => 'http://www.ub.ac.id/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7aaad0cb858b25614ae01c3bbdcefe9d',
+  ),
   'center-for-entrepreneurship-and-small-business-management' => 
   array (
     'companyname' => 'Center for Entrepreneurship and Small Business Management',
@@ -13978,14 +13969,14 @@
     'companyrbntype' => '',
     'key' => '1496d23dbe881dd3b2d5eacaddc963d4',
   ),
-  'yanbu-university-college' => 
+  'universidade-do-estado-da-bahia' => 
   array (
-    'companyname' => 'Yanbu University College',
-    'companyemail' => 'webmaster at yuc dot edu dot sa',
-    'companyurl' => 'http://www.yuc.edu.sa/',
+    'companyname' => 'Universidade do Estado da Bahia',
+    'companyemail' => 'webmaster at uneb dot br',
+    'companyurl' => 'http://www.uneb.br/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'ab13638754a85afa93475d8040e4fa37',
+    'key' => '23f0a350cef7ab54ffaa12fb9ab6d296',
   ),
   'north-china-electric-power-university' => 
   array (
@@ -14031,6 +14022,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '79822c4387f5fa5d95c531ec70370ce9',
+  ),
+  'korea-national-university-of-arts' => 
+  array (
+    'companyname' => 'Korea National University of Arts',
+    'companyemail' => 'webmaster at knua dot ac dot kr',
+    'companyurl' => 'http://www.knua.ac.kr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'bc119326d02d82703617c829af217527',
   ),
   'hochschule-wismar-fachhochschule-f-r-technik-wirtschaft-und-gestaltung' => 
   array (
@@ -14086,6 +14086,15 @@
     'companyrbntype' => '',
     'key' => 'ff5331f3ff7d5400ecb42893b672cc5f',
   ),
+  'gandhi-institute-of-technology-and-managment' => 
+  array (
+    'companyname' => 'Gandhi Institute of Technology and Managment',
+    'companyemail' => 'webmaster at gitam dot edu',
+    'companyurl' => 'http://www.gitam.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '330981902a0d981707ee8d397bd95f40',
+  ),
   'institut-textile-et-chimique-de-lyon' => 
   array (
     'companyname' => 'Institut Textile et Chimique de Lyon',
@@ -14139,15 +14148,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'fd0e0ff1128c6c44ec8c6a1c2d4e5fd6',
-  ),
-  'breakbulk-ro' => 
-  array (
-    'companyname' => 'breakbulk.ro',
-    'companyemail' => 'webmaster at breakbulk dot ro',
-    'companyurl' => 'http://breakbulk.ro',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5542d32de2716a05d48523e8e155e9cc',
   ),
   'laurea-university-of-applied-sciences' => 
   array (
@@ -14248,15 +14248,6 @@
     'companyrbntype' => '',
     'key' => 'bb7f7972a1b83e042aee136e68c65038',
   ),
-  'xi-an-highway-university' => 
-  array (
-    'companyname' => 'Xi\'an Highway University',
-    'companyemail' => 'webmaster at xahu dot edu dot cn',
-    'companyurl' => 'http://www.xahu.edu.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '540be9718fa1c213a544d928effd3467',
-  ),
   'st-ambrose-university' => 
   array (
     'companyname' => 'St. Ambrose University',
@@ -14293,6 +14284,15 @@
     'companyrbntype' => '',
     'key' => '09c8055121849ae6267d2252aa6cf165',
   ),
+  'northern-border-university' => 
+  array (
+    'companyname' => 'Northern Border University',
+    'companyemail' => 'webmaster at nbu dot edu dot sa',
+    'companyurl' => 'http://www.nbu.edu.sa/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '20c38df073c4eb6e93b6568fe44e24f3',
+  ),
   'universidade-estadual-de-montes-claros' => 
   array (
     'companyname' => 'Universidade Estadual de Montes Claros',
@@ -14310,15 +14310,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '8e7eca74c0f6410ff1290287614d445a',
-  ),
-  'batchelor-institute-of-indigenous-tertiary-education' => 
-  array (
-    'companyname' => 'Batchelor Institute of Indigenous Tertiary Education',
-    'companyemail' => 'webmaster at nt dot gov dot au',
-    'companyurl' => 'http://www.nt.gov.au/batc/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '0d110db1497821b3b147b33906836eae',
   ),
   'universit-laval' => 
   array (
@@ -14347,15 +14338,6 @@
     'companyrbntype' => '',
     'key' => '1d11ac4ca529e24034e197c4a120b602',
   ),
-  'national-institute-of-technology-delhi' => 
-  array (
-    'companyname' => 'National Institute of Technology Delhi',
-    'companyemail' => 'webmaster at nitdelhi dot ac dot in',
-    'companyurl' => 'http://www.nitdelhi.ac.in/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'f0f2f77371f841383709eb9aa13176de',
-  ),
   'instituto-universitario-de-ciencias-de-la-salud-buenos-aires' => 
   array (
     'companyname' => 'Instituto Universitario de Ciencias de la Salud - Buenos Aires',
@@ -14373,15 +14355,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c64a5dd094d90e4a6ec1f3953d2c2195',
-  ),
-  'physical-education-academy-eugeniusz-piasecki-in-poznan' => 
-  array (
-    'companyname' => 'Physical Education Academy "Eugeniusz Piasecki" in Poznan',
-    'companyemail' => 'webmaster at awf dot poznan dot pl',
-    'companyurl' => 'http://www.awf.poznan.pl/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9b0864527da23b4ee675e47626c1a6ff',
   ),
   'northwestern-university-of-the-philippines' => 
   array (
@@ -14418,15 +14391,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0f54246378640267f557dee4ff3651a1',
-  ),
-  'tokyo-university-of-art-and-design' => 
-  array (
-    'companyname' => 'Tokyo University of Art and Design',
-    'companyemail' => 'webmaster at zokei dot ac dot jp',
-    'companyurl' => 'http://www.zokei.ac.jp/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '4f42d343af05a33309a606ace71af76c',
   ),
   'woodbury-university' => 
   array (
@@ -14626,15 +14590,6 @@
     'companyrbntype' => '',
     'key' => '0405075d5273b7e5a8e00e8215d5c06b',
   ),
-  'escuela-nacional-de-estudios-superiores-unidad-le-n' => 
-  array (
-    'companyname' => 'Escuela Nacional de Estudios Superiores Unidad León',
-    'companyemail' => 'webmaster at enes dot unam dot mx',
-    'companyurl' => 'http://www.enes.unam.mx/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '634222f8148240f93ce192be3d97b509',
-  ),
   'shimane-university' => 
   array (
     'companyname' => 'Shimane University',
@@ -14661,15 +14616,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd3802c2d7c06a350134995fb63da3db5',
-  ),
-  'wellesley-college' => 
-  array (
-    'companyname' => 'Wellesley College',
-    'companyemail' => 'webmaster at wellesley dot edu',
-    'companyurl' => 'https://wellesley.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'cdef4df8453f66e8b9bda422c715c970',
   ),
   'centre-universitaire-de-jijel' => 
   array (
@@ -14797,6 +14743,15 @@
     'companyrbntype' => '',
     'key' => '16e10c490cabbeb56614bf47eab0d715',
   ),
+  'cuny-kingsborough-community-college' => 
+  array (
+    'companyname' => 'CUNY Kingsborough Community College',
+    'companyemail' => 'webmaster at kbcc dot cuny dot edu',
+    'companyurl' => 'http://www.kbcc.cuny.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f334f6ecf44eabc0a06396c3008dd5fa',
+  ),
   'phongthuysim-vn' => 
   array (
     'companyname' => 'phongthuysim.vn',
@@ -14868,15 +14823,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'efdd2f261eb05043b0c30d6266d616b1',
-  ),
-  'east-tennessee-state-university' => 
-  array (
-    'companyname' => 'East Tennessee State University',
-    'companyemail' => 'webmaster at etsu dot edu',
-    'companyurl' => 'http://www.etsu.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '18a9596b76b07f29ee2033a3cbe722b0',
   ),
   'universidad-de-celaya' => 
   array (
@@ -15040,24 +14986,6 @@
     'companyrbntype' => '',
     'key' => 'db7d2d6becac573e8f57c51cfc40358c',
   ),
-  'university-medical-school-of-debrecen' => 
-  array (
-    'companyname' => 'University Medical School of Debrecen',
-    'companyemail' => 'webmaster at dote dot hu',
-    'companyurl' => 'http://www.dote.hu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'e53f3904e9f479249959a4a10fa49832',
-  ),
-  'saint-mary-college' => 
-  array (
-    'companyname' => 'Saint Mary College',
-    'companyemail' => 'webmaster at smcks dot edu',
-    'companyurl' => 'http://www.smcks.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3e57196e465fc8d160458fce02d41df3',
-  ),
   'international-university-college-of-technology-twintech-iuctt' => 
   array (
     'companyname' => 'International University College of Technology Twintech (IUCTT)',
@@ -15066,6 +14994,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '126ea0d1c8e1cd693bd10bb187d46400',
+  ),
+  'hep-vaud-haute-cole-p-dagogique-du-canton-de-vaud' => 
+  array (
+    'companyname' => 'HEP Vaud - Haute école pédagogique du canton de Vaud',
+    'companyemail' => 'webmaster at hepl dot ch',
+    'companyurl' => 'http://www.hepl.ch/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd24acdc260757f5730ea0e49153f4fa8',
   ),
   'southwestern-adventist-college' => 
   array (
@@ -15220,6 +15157,15 @@
     'companyrbntype' => '',
     'key' => '17625c119e4acb51d445f3992751a5bf',
   ),
+  'instituto-polit-cnico-de-coimbra' => 
+  array (
+    'companyname' => 'Instituto Politécnico de Coimbra',
+    'companyemail' => 'webmaster at ipc dot pt',
+    'companyurl' => 'http://www.ipc.pt/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0d2bc068700ddc1bc524c3141992c6a5',
+  ),
   'st-petersburg-state-university-of-civil-aviation' => 
   array (
     'companyname' => 'St. Petersburg State University of Civil Aviation',
@@ -15373,15 +15319,6 @@
     'companyrbntype' => '',
     'key' => 'f8ab70dc466b3cf197685cae61157002',
   ),
-  'arkansas-state-university' => 
-  array (
-    'companyname' => 'Arkansas State University',
-    'companyemail' => 'webmaster at astate dot edu',
-    'companyurl' => 'http://www.astate.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '17fdf64e2b166797f0a0d2140bf1c7f1',
-  ),
   'hogeschool-voor-wetenschap-en-kunst-vlekho-brussel' => 
   array (
     'companyname' => 'Hogeschool voor Wetenschap en Kunst (VLEKHO), Brussel',
@@ -15472,6 +15409,15 @@
     'companyrbntype' => '',
     'key' => 'c064d510b4df83df14a87f299e4badce',
   ),
+  'hamadan-university-of-medical-sciences' => 
+  array (
+    'companyname' => 'Hamadan University of Medical Sciences',
+    'companyemail' => 'webmaster at umsha dot ac dot ir',
+    'companyurl' => 'http://www.umsha.ac.ir/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6fe08897837b1b6f6c525903db1b9d1f',
+  ),
   'landmark-university' => 
   array (
     'companyname' => 'Landmark University',
@@ -15534,6 +15480,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'fff369aae53548bfd7cde5dbbdbf7d62',
+  ),
+  'arya-institute-of-engineering-technology' => 
+  array (
+    'companyname' => 'ARYA Institute of Engineering & Technology',
+    'companyemail' => 'webmaster at aryainstitutejpr dot com',
+    'companyurl' => 'http://www.aryainstitutejpr.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '206cb358ab560322bca49786321c504e',
   ),
   'institute-for-world-politics' => 
   array (
@@ -15651,15 +15606,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2b1d7777545df4ca27fc81583c6c1030',
-  ),
-  'national-kaohsiung-normal-university' => 
-  array (
-    'companyname' => 'National Kaohsiung Normal University',
-    'companyemail' => 'webmaster at nknu dot edu dot tw',
-    'companyurl' => 'http://www.nknu.edu.tw/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '888bad8ad371aab910bf0fe9c6725174',
   ),
   'masinde-muliro-university-of-science-and-technology' => 
   array (
@@ -15940,15 +15886,6 @@
     'companyrbntype' => '',
     'key' => '73b34c1ad04fc2490ad4fbfd0b7ec4f5',
   ),
-  'udmurt-state-university' => 
-  array (
-    'companyname' => 'Udmurt State University',
-    'companyemail' => 'webmaster at uni dot udm dot ru',
-    'companyurl' => 'http://www.uni.udm.ru/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '27512c3bc3866f7da03fe874432d7409',
-  ),
   'fachhochschule-westk-ste-hochschule-f-r-wirtschaft-und-technik' => 
   array (
     'companyname' => 'Fachhochschule Westküste, Hochschule für Wirtschaft und Technik',
@@ -16057,6 +15994,15 @@
     'companyrbntype' => '',
     'key' => '3827a8cae2fad2bee853d0e85388aa19',
   ),
+  'universit-de-toulouse' => 
+  array (
+    'companyname' => 'Université de Toulouse',
+    'companyemail' => 'webmaster at univ-toulouse dot fr',
+    'companyurl' => 'http://www.univ-toulouse.fr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '56a7709880345741f2ce849e5d7b3348',
+  ),
   'high-institute-for-banking-financial-studies' => 
   array (
     'companyname' => 'High Institute for Banking & Financial Studies',
@@ -16083,15 +16029,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '962efecd3d9d9ded379bef541c70b4e1',
-  ),
-  'thaksin-university' => 
-  array (
-    'companyname' => 'Thaksin University',
-    'companyemail' => 'webmaster at tsu dot ac dot th',
-    'companyurl' => 'http://www.tsu.ac.th/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '4825137ebfe118d0eba0eb3fd577f4e7',
   ),
   'university-of-strathclyde' => 
   array (
@@ -16525,15 +16462,6 @@
     'companyrbntype' => '',
     'key' => '701c4ab0a9569a091be7eb22123123fc',
   ),
-  'xinjiang-agriculture-university' => 
-  array (
-    'companyname' => 'Xinjiang Agriculture University',
-    'companyemail' => 'webmaster at xjau dot edu dot cn',
-    'companyurl' => 'http://www.xjau.edu.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'f51d26368cf79e49392ddac1474c73cb',
-  ),
   'school-of-management' => 
   array (
     'companyname' => 'School of Management',
@@ -16570,6 +16498,15 @@
     'companyrbntype' => '',
     'key' => '1acdc5667a538886bcc021ca5eafd42b',
   ),
+  'roehampton-university-of-surrey' => 
+  array (
+    'companyname' => 'Roehampton University of Surrey',
+    'companyemail' => 'webmaster at roehampton dot ac dot uk',
+    'companyurl' => 'http://www.roehampton.ac.uk/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f9d82bf382d45e62bb80cc4ecbc61c94',
+  ),
   'sakushin-gakuin-university' => 
   array (
     'companyname' => 'Sakushin Gakuin University',
@@ -16579,14 +16516,14 @@
     'companyrbntype' => '',
     'key' => '863a881c0c2b47442e6119d5cc10db8c',
   ),
-  'suny-broome-community-college' => 
+  'shinhan-university' => 
   array (
-    'companyname' => 'SUNY Broome Community College',
-    'companyemail' => 'webmaster at WWW dot SUNYBROOME dot EDU',
-    'companyurl' => 'http://WWW.SUNYBROOME.EDU',
+    'companyname' => 'Shinhan University',
+    'companyemail' => 'webmaster at shinhan dot ac dot kr',
+    'companyurl' => 'http://www.shinhan.ac.kr/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'd055ee7edff6e61dd5c7300ae970e3ac',
+    'key' => '8ee6014ac60a4aee743423a0b7cea707',
   ),
   'cyprus-college' => 
   array (
@@ -16650,15 +16587,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f578ee9b3d91b67b6cdb88604654aa75',
-  ),
-  'beppu-university' => 
-  array (
-    'companyname' => 'Beppu University',
-    'companyemail' => 'webmaster at beppu-u dot ac dot jp',
-    'companyurl' => 'http://www.beppu-u.ac.jp/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7da70aeefe1b7184808b1114b660b128',
   ),
   'colby-community-college' => 
   array (
@@ -16741,6 +16669,15 @@
     'companyrbntype' => '',
     'key' => '121ff17bfbc9b0037a168d26e5c0295e',
   ),
+  'tohoku-gakuin-university' => 
+  array (
+    'companyname' => 'Tohoku Gakuin University',
+    'companyemail' => 'webmaster at tohoku-gakuin dot ac dot jp',
+    'companyurl' => 'http://www.tohoku-gakuin.ac.jp/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'a048218fb025a9123e49bc7446f9b765',
+  ),
   'politeknik-negeri-sambas' => 
   array (
     'companyname' => 'Politeknik Negeri Sambas',
@@ -16786,6 +16723,15 @@
     'companyrbntype' => '',
     'key' => '650a1dd496f86f3574eb9b31a5aa9094',
   ),
+  'goa-bplmobil' => 
+  array (
+    'companyname' => 'Goa BPLMobil',
+    'companyemail' => 'webmaster at bplmobile dot com',
+    'companyurl' => 'http://bplmobile.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4002d11306bddac25489ee4bea5fe80a',
+  ),
   'hong-kong-institute-of-education' => 
   array (
     'companyname' => 'Hong Kong Institute of Education',
@@ -16803,15 +16749,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '6d04a8a5110a7740d88eefcb179a5b96',
-  ),
-  'university-college-of-technology-innovation-ucti' => 
-  array (
-    'companyname' => 'University College of Technology & Innovation (UCTI)',
-    'companyemail' => 'webmaster at ucti dot edu dot my',
-    'companyurl' => 'http://www.ucti.edu.my/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'fc26f0cb1af35a7b0728f59a556bf11e',
   ),
   'seward-county-community-college-and-area-technical-school' => 
   array (
@@ -16939,15 +16876,6 @@
     'companyrbntype' => '',
     'key' => '8f7565cb477956034a19cb92d0188e29',
   ),
-  'walters-state-community-college' => 
-  array (
-    'companyname' => 'Walters State Community College',
-    'companyemail' => 'webmaster at ws dot edu',
-    'companyurl' => 'http://www.ws.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd82125ffb3b9b89bea1247f892b38b39',
-  ),
   'southern-illinois-university-edwardsville' => 
   array (
     'companyname' => 'Southern Illinois University-Edwardsville',
@@ -16992,24 +16920,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '506105716580411340c1728f50152354',
-  ),
-  'new-south-wales-police' => 
-  array (
-    'companyname' => 'New South Wales Police',
-    'companyemail' => 'webmaster at police dot nsw dot edu dot au',
-    'companyurl' => 'https://police.nsw.edu.au',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ba42de3a7f58ed266d73e2da762c89e8',
-  ),
-  'university-of-northern-philippines' => 
-  array (
-    'companyname' => 'University of Northern Philippines',
-    'companyemail' => 'webmaster at unp dot edu dot ph',
-    'companyurl' => 'http://www.unp.edu.ph/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '4eacba2c7d8dcf572115bc3a18e92417',
   ),
   'mawlana-bhashani-science-and-technology-university' => 
   array (
@@ -17091,15 +17001,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '3fbe1c5a7ca3829a940936ce80621427',
-  ),
-  'pwani-university' => 
-  array (
-    'companyname' => 'Pwani University',
-    'companyemail' => 'webmaster at pu dot ac dot ke',
-    'companyurl' => 'http://www.pu.ac.ke/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6418f3d56c5346122394dfcae8ded1fb',
   ),
   'universidade-federal-de-minas-gerais' => 
   array (
@@ -17371,15 +17272,6 @@
     'companyrbntype' => '',
     'key' => '4beaf21bb0bb9c21c13506bd7e5f1f0b',
   ),
-  'waubonsee-community-college' => 
-  array (
-    'companyname' => 'Waubonsee Community College',
-    'companyemail' => 'webmaster at waubonsee dot edu',
-    'companyurl' => 'http://www.waubonsee.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9a0de2019fa985037ba4b1dbcf5e9095',
-  ),
   'fuzhou-university' => 
   array (
     'companyname' => 'Fuzhou University',
@@ -17416,15 +17308,6 @@
     'companyrbntype' => '',
     'key' => 'e41a176ad9e5c61056487bb6452dea7b',
   ),
-  'northeastern-state-university' => 
-  array (
-    'companyname' => 'Northeastern State University',
-    'companyemail' => 'webmaster at nsuok dot edu',
-    'companyurl' => 'http://www.nsuok.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5c23b8d0c81975598a6919cf99f9e2b8',
-  ),
   'madisonville-community-college' => 
   array (
     'companyname' => 'Madisonville Community College',
@@ -17460,15 +17343,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b5c6a889b75c0bc411bc254d77bb904b',
-  ),
-  'kyoto-gakuen-university' => 
-  array (
-    'companyname' => 'Kyoto Gakuen University',
-    'companyemail' => 'webmaster at kyotogakuen-u dot ac dot jp',
-    'companyurl' => 'http://www.kyotogakuen-u.ac.jp/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'be08c0859325f24c914562d8fd8f6276',
   ),
   'university-college-of-nabi-akram' => 
   array (
@@ -17794,6 +17668,15 @@
     'companyrbntype' => '',
     'key' => '600921d85097f7a72dd2c85b1c950cef',
   ),
+  'guangxi-university' => 
+  array (
+    'companyname' => 'Guangxi University',
+    'companyemail' => 'webmaster at gxu dot edu dot cn',
+    'companyurl' => 'http://www.gxu.edu.cn/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e7396c8fedbf3a120ab7a6a7bd565edf',
+  ),
   'armed-forces-academy-of-general-milan-rastislav-tef-nik' => 
   array (
     'companyname' => 'Armed Forces Academy of General Milan Rastislav Štefánik',
@@ -17902,14 +17785,14 @@
     'companyrbntype' => '',
     'key' => '678242a1f79223abb324585d55627f6e',
   ),
-  'riga-technical-university' => 
+  'whitman-college' => 
   array (
-    'companyname' => 'Riga Technical University',
-    'companyemail' => 'webmaster at rtu dot lv',
-    'companyurl' => 'http://www.rtu.lv/',
+    'companyname' => 'Whitman College',
+    'companyemail' => 'webmaster at whitman dot edu',
+    'companyurl' => 'http://www.whitman.edu/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'c31421702e50cfea0e65f90b082dd8fb',
+    'key' => '2c48319970217aea3cfb5929cfe2c636',
   ),
   'victoria-university' => 
   array (
@@ -17919,6 +17802,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b0cf19f62d281a21dfd7f560c2f665b9',
+  ),
+  'tokyo-university-of-information-sciences' => 
+  array (
+    'companyname' => 'Tokyo University of Information Sciences',
+    'companyemail' => 'webmaster at tuis dot ac dot jp',
+    'companyurl' => 'http://www.tuis.ac.jp/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3ab1e4d1a99f6e06a44892055ad17d6b',
   ),
   'college-of-the-rockies' => 
   array (
@@ -17956,14 +17848,23 @@
     'companyrbntype' => '',
     'key' => '47b0994a42c011935bb218ce828fd5cc',
   ),
-  'universidad-del-istmo' => 
+  'ecole-nationale-sup-rieure-de-physique-de-grenoble' => 
   array (
-    'companyname' => 'Universidad del Istmo',
-    'companyemail' => 'webmaster at udi dot edu',
-    'companyurl' => 'http://www.udi.edu/',
+    'companyname' => 'Ecole Nationale Supérieure de Physique de Grenoble',
+    'companyemail' => 'webmaster at www-enspg dot inpg dot fr',
+    'companyurl' => 'http://www-enspg.inpg.fr/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '6557c995de0de55e9bf11c893db1eb0f',
+    'key' => 'e017cb9d90650a2090326672d08e06f5',
+  ),
+  'tashkent-islam-university' => 
+  array (
+    'companyname' => 'Tashkent Islam University',
+    'companyemail' => 'webmaster at tiu dot uz',
+    'companyurl' => 'http://www.tiu.uz/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7a04c94b3dccaa8d6bd65a43dd976b51',
   ),
   'del-mar-college' => 
   array (
@@ -18027,6 +17928,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '57eeb7e60a6fadc2f9c06423b563500f',
+  ),
+  'claremont-graduate-school' => 
+  array (
+    'companyname' => 'Claremont Graduate School',
+    'companyemail' => 'webmaster at cgs dot edu',
+    'companyurl' => 'http://www.cgs.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6b1440deb99cf24794b75b5cbb139f92',
   ),
   'jewish-university-in-moscow' => 
   array (
@@ -18109,15 +18019,6 @@
     'companyrbntype' => '',
     'key' => '2017938cab892aded545ef87e470930f',
   ),
-  'hanzhong-university' => 
-  array (
-    'companyname' => 'Hanzhong University',
-    'companyemail' => 'webmaster at hanzhong dot ac dot kr',
-    'companyurl' => 'http://www.hanzhong.ac.kr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1bbd2c2ccc3a218e3695a7487d70fecb',
-  ),
   'siberian-state-university-of-telecommunications-and-informatics' => 
   array (
     'companyname' => 'Siberian State University of Telecommunications and Informatics',
@@ -18199,6 +18100,15 @@
     'companyrbntype' => '',
     'key' => '7d1691e99d5117e4f58a86dc605f5250',
   ),
+  'iliria-college' => 
+  array (
+    'companyname' => 'ILIRIA College',
+    'companyemail' => 'webmaster at uiliria dot org',
+    'companyurl' => 'http://www.uiliria.org/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0ba8952d2033e2372a05d78dbbbe67d6',
+  ),
   'universidad-nacional-del-littoral' => 
   array (
     'companyname' => 'Universidad Nacional del Littoral',
@@ -18279,6 +18189,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b963b2e946bdd0a6fa55a59ed5833998',
+  ),
+  'rani-durgavati-university' => 
+  array (
+    'companyname' => 'Rani Durgavati University',
+    'companyemail' => 'webmaster at rdunijbpin dot org',
+    'companyurl' => 'http://www.rdunijbpin.org/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '26def71f9b1f632164fbf2416a3f6b7a',
   ),
   'web-tv' => 
   array (
@@ -18577,6 +18496,15 @@
     'companyrbntype' => '',
     'key' => '12725e245f36b73700ea76d170cbf9ff',
   ),
+  'national-taichung-teachers-college' => 
+  array (
+    'companyname' => 'National Taichung Teachers College',
+    'companyemail' => 'webmaster at ntctc dot edu dot tw',
+    'companyurl' => 'http://www.ntctc.edu.tw/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'bb18588c557bfd276eb62daa2a035b17',
+  ),
   'myfreeyp-com' => 
   array (
     'companyname' => 'myfreeyp.com',
@@ -18685,15 +18613,6 @@
     'companyrbntype' => '',
     'key' => '9ef51235131ecbe2375df43b638dc2eb',
   ),
-  'toyama-medical-and-pharmaceutical-university' => 
-  array (
-    'companyname' => 'Toyama Medical and Pharmaceutical University',
-    'companyemail' => 'webmaster at toyama-mpu dot ac dot jp',
-    'companyurl' => 'http://www.toyama-mpu.ac.jp/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '51449bbdda4c5f100e04749a13d5131a',
-  ),
   'korea-aerospace-university' => 
   array (
     'companyname' => 'Korea Aerospace University',
@@ -18766,6 +18685,15 @@
     'companyrbntype' => '',
     'key' => 'e85d6ba57d698b516d674505428152b8',
   ),
+  'universitas-ma-chung' => 
+  array (
+    'companyname' => 'Universitas Ma Chung',
+    'companyemail' => 'webmaster at machung dot ac dot id',
+    'companyurl' => 'http://www.machung.ac.id/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '30cec945327f6e87266a25c82f0347da',
+  ),
   'mekelle-institute-of-technology' => 
   array (
     'companyname' => 'Mekelle Institute of Technology',
@@ -18810,6 +18738,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '7714f369f739520e6bac3865c509a43b',
+  ),
+  'institut-sup-rieur-de-gestion-de-tunis' => 
+  array (
+    'companyname' => 'Institut Supérieur de Gestion de Tunis',
+    'companyemail' => 'webmaster at isg dot rnu dot tn',
+    'companyurl' => 'http://www.isg.rnu.tn/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c740751a6d9a0f96603f12b79edfa95d',
   ),
   'belmont-university' => 
   array (
@@ -18901,6 +18838,15 @@
     'companyrbntype' => '',
     'key' => 'c4cfc292f14e3a635aa83a796b17202e',
   ),
+  'zagreb-school-of-economics-and-management' => 
+  array (
+    'companyname' => 'Zagreb School of Economics and Management',
+    'companyemail' => 'webmaster at zsem dot hr',
+    'companyurl' => 'http://www.zsem.hr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ce2ca94aab7c9f6260eed630c52d9c3d',
+  ),
   'universidad-andina-sim-n-bol-var' => 
   array (
     'companyname' => 'Universidad Andina Simón Bolívar',
@@ -18982,6 +18928,15 @@
     'companyrbntype' => '',
     'key' => '9f6db4c3e46dc815aaa9aafab94075d0',
   ),
+  'cochise-college' => 
+  array (
+    'companyname' => 'Cochise College',
+    'companyemail' => 'webmaster at cochise dot edu',
+    'companyurl' => 'http://www.cochise.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c1506021b5f646f716f760790d747840',
+  ),
   'lviv-polytechnic-national-university' => 
   array (
     'companyname' => 'Lviv Polytechnic National University',
@@ -19008,6 +18963,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9529863ac8f396b106debc0928b4a884',
+  ),
+  'beijing-new-asia-university' => 
+  array (
+    'companyname' => 'Beijing New Asia University',
+    'companyemail' => 'webmaster at newasia dot bj dot edu dot cn',
+    'companyurl' => 'http://www.newasia.bj.edu.cn/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4a93b2a70ecdb37edbe03a5055203647',
   ),
   'tajik-agrarian-university' => 
   array (
@@ -19072,15 +19036,6 @@
     'companyrbntype' => '',
     'key' => '5243cbf16a1ab9d4c2fbfce8c945ec6a',
   ),
-  'college-of-the-ouachitas' => 
-  array (
-    'companyname' => 'College of the Ouachitas',
-    'companyemail' => 'webmaster at coto dot edu',
-    'companyurl' => 'http://www.coto.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '867f2dd0255593c9d5234ab85bc6ea95',
-  ),
   'hyrcania-institute-of-higher-education' => 
   array (
     'companyname' => 'Hyrcania Institute of Higher Education',
@@ -19098,6 +19053,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '8403ad058fad11d2ec16cbfa6cb5d0ca',
+  ),
+  'ludwik-solski-state-academy-of-theatre-in-cracow' => 
+  array (
+    'companyname' => 'Ludwik Solski State Academy of Theatre in Cracow',
+    'companyemail' => 'webmaster at pwst dot krakow dot pl',
+    'companyurl' => 'http://www.pwst.krakow.pl/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'dbc6fa8b0efad9794d0cddf56db2bebc',
   ),
   'royal-university-of-law-and-economics' => 
   array (
@@ -19216,6 +19180,15 @@
     'companyrbntype' => '',
     'key' => '73b8141e397983e3ecc23650cd9ca4e8',
   ),
+  'sinai-university' => 
+  array (
+    'companyname' => 'Sinai University',
+    'companyemail' => 'webmaster at su dot edu dot eg',
+    'companyurl' => 'http://www.su.edu.eg/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'dfc2f89cdb6d04f66a03611cb06b80ed',
+  ),
   'megatrend-university-of-applied-sciences' => 
   array (
     'companyname' => 'Megatrend University of Applied Sciences',
@@ -19233,6 +19206,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '7ef175e746c73d669169f3d45439adfd',
+  ),
+  'mahatma-gandhi-chitrakut-gramoday-university' => 
+  array (
+    'companyname' => 'Mahatma Gandhi Chitrakut Gramoday University',
+    'companyemail' => 'webmaster at ruraluniversity-chitrakoot dot org',
+    'companyurl' => 'http://www.ruraluniversity-chitrakoot.org/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '65550a6008fcc7d5d939fb2bc52b8e2b',
   ),
   'wayland-baptist-university' => 
   array (
@@ -19324,6 +19306,15 @@
     'companyrbntype' => '',
     'key' => 'ec84a5572f76227fb0fbe63adf1b0f2d',
   ),
+  'universidade-gama-filho' => 
+  array (
+    'companyname' => 'Universidade Gama Filho',
+    'companyemail' => 'webmaster at ugf dot br',
+    'companyurl' => 'http://www.ugf.br/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ac7b22eb08d52a14447a4244477cd5b2',
+  ),
   'sana-a-university' => 
   array (
     'companyname' => 'Sana\'a University',
@@ -19386,6 +19377,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c0eaa7dab81fd68a0822a8ef108edaca',
+  ),
+  'universidad-de-sonsonate' => 
+  array (
+    'companyname' => 'Universidad de Sonsonate',
+    'companyemail' => 'webmaster at usonsonate dot edu dot sv',
+    'companyurl' => 'http://www.usonsonate.edu.sv/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'dae7ed3a7e6414c625e132da2d0c78d2',
   ),
   'azerbaijan-state-customs-committee-academy' => 
   array (
@@ -19513,24 +19513,6 @@
     'companyrbntype' => '',
     'key' => '020d75414db9c53e4e2a34f66d656aec',
   ),
-  'vrije-universiteit-brussel' => 
-  array (
-    'companyname' => 'Vrije Universiteit Brussel',
-    'companyemail' => 'webmaster at vub dot ac dot be',
-    'companyurl' => 'http://www.vub.ac.be/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '440c75e2f68b4ddb5f1d7de13d66f09b',
-  ),
-  'harokopio-university' => 
-  array (
-    'companyname' => 'Harokopio University',
-    'companyemail' => 'webmaster at hua dot gr',
-    'companyurl' => 'https://www.hua.gr',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'cf348e3bd4e459c2a82c9c8a5ed2f6ca',
-  ),
   'universidade-estadual-de-ponta-grossa' => 
   array (
     'companyname' => 'Universidade Estadual de Ponta Grossa',
@@ -19639,6 +19621,15 @@
     'companyrbntype' => '',
     'key' => 'c193d970d5eb922b4564366ed20f51c7',
   ),
+  'lausanne-hotel-school-ehl' => 
+  array (
+    'companyname' => 'Lausanne Hotel School (EHL)',
+    'companyemail' => 'webmaster at ehl dot ch',
+    'companyurl' => 'http://www.ehl.ch/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b8dd609005cca718b3aa5dc8e8389911',
+  ),
   'universidad-aut-noma-metropolitana-xochimilco' => 
   array (
     'companyname' => 'Universidad Autónoma Metropolitana - Xochimilco',
@@ -19656,15 +19647,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '78f33f82175027156b962d63859b8cd2',
-  ),
-  'waseda-university' => 
-  array (
-    'companyname' => 'Waseda University',
-    'companyemail' => 'webmaster at waseda dot ac dot jp',
-    'companyurl' => 'http://www.waseda.ac.jp/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '46102e251c8c70065f9157828d2f95ef',
   ),
   'institute-of-teachers-education-darul-aman' => 
   array (
@@ -19692,6 +19674,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '50fec67cbe626686422fdd7b3288614a',
+  ),
+  'wagner-college' => 
+  array (
+    'companyname' => 'Wagner College',
+    'companyemail' => 'webmaster at wagner dot edu',
+    'companyurl' => 'https://wagner.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '26c620d26d135397d4d49cac11be7cdd',
   ),
   'pes-university' => 
   array (
@@ -19881,6 +19872,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'fdb27e68cbe3aaece63eab9a2e5e4370',
+  ),
+  'lithunian-veterinary-academy' => 
+  array (
+    'companyname' => 'Lithunian Veterinary Academy',
+    'companyemail' => 'webmaster at lva dot lt',
+    'companyurl' => 'http://www.lva.lt/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ab16867cb78faeea98aac9fb867d6070',
   ),
   'sapporo-medical-university' => 
   array (
@@ -20314,15 +20314,6 @@
     'companyrbntype' => '',
     'key' => '89befe7b3f6be32d2619019f11a9849a',
   ),
-  'howard-community-college' => 
-  array (
-    'companyname' => 'Howard Community College',
-    'companyemail' => 'webmaster at howardcc dot edu',
-    'companyurl' => 'http://www.howardcc.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd0d6151f3d72cc18b950589eb8a7b111',
-  ),
   'boston-university' => 
   array (
     'companyname' => 'Boston University',
@@ -20403,15 +20394,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd3885894940877fd68090b0994fe40c3',
-  ),
-  'calvin-college' => 
-  array (
-    'companyname' => 'Calvin College',
-    'companyemail' => 'webmaster at calvin dot edu',
-    'companyurl' => 'http://www.calvin.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1e84c5c1e5417bab35007718024599a5',
   ),
   'universidad-del-centro-educativo-latinoamericano-rosario' => 
   array (
@@ -20593,6 +20575,15 @@
     'companyrbntype' => '',
     'key' => 'b97cffb501dadf326a381d96dacef3f1',
   ),
+  'universidad-polit-cnica-salesiana' => 
+  array (
+    'companyname' => 'Universidad Politécnica Salesiana',
+    'companyemail' => 'webmaster at ups dot edu dot ec',
+    'companyurl' => 'http://www.ups.edu.ec/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b8a93b8632fc1920b94381a5deca3aa5',
+  ),
   'universit-robert-schuman-strasbourg-iii' => 
   array (
     'companyname' => 'Université Robert Schuman (Strasbourg III)',
@@ -20656,15 +20647,6 @@
     'companyrbntype' => '',
     'key' => 'a7491af735af3b86a957ad3f364da2ec',
   ),
-  'ecole-nationale-sup-rieure-des-mines-de-st-etienne' => 
-  array (
-    'companyname' => 'Ecole Nationale Supérieure des Mines de St-Etienne',
-    'companyemail' => 'webmaster at emse dot fr',
-    'companyurl' => 'http://www.emse.fr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b0b2599a4f3585cc00bf16ad5a0dbe4c',
-  ),
   'evangelische-fachhochschule-reutlingen-ludwigsburg-hochschule-f-r-soziale-arbeit-religionsp-dagogik-und-diakonie' => 
   array (
     'companyname' => 'Evangelische Fachhochschule Reutlingen-Ludwigsburg, Hochschule für Soziale Arbeit, Religionspädagogik und Diakonie',
@@ -20710,6 +20692,15 @@
     'companyrbntype' => '',
     'key' => '6c45ca004e09c3683543b0efbee1d68f',
   ),
+  'dallas-county-community-college' => 
+  array (
+    'companyname' => 'Dallas County Community College',
+    'companyemail' => 'webmaster at dcccd dot edu',
+    'companyurl' => 'http://www.dcccd.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '509bf51cc80ec228db5024e0075df2a3',
+  ),
   'ulsan-university' => 
   array (
     'companyname' => 'Ulsan University',
@@ -20718,15 +20709,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '475ff3d248edb2a9e5f5671b0077ac8a',
-  ),
-  'university-of-cape-town' => 
-  array (
-    'companyname' => 'University of Cape Town',
-    'companyemail' => 'webmaster at uct dot ac dot za',
-    'companyurl' => 'http://www.uct.ac.za/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '196f0c67dc18dec645301748895e92f4',
   ),
   'universit-d-evry-val-d-essonne' => 
   array (
@@ -20799,15 +20781,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd01800a7a08c13c0835b1fb7e110ad36',
-  ),
-  'wayne-community-college' => 
-  array (
-    'companyname' => 'Wayne Community College',
-    'companyemail' => 'webmaster at waynecc dot edu',
-    'companyurl' => 'http://www.waynecc.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3d181918e85d0fb0111435bf076148d9',
   ),
   'yagogames-com' => 
   array (
@@ -21024,15 +20997,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '12c3fcc079c5ad1efcdfc7e2731a7ef0',
-  ),
-  'universidad-nacional-evang-lica' => 
-  array (
-    'companyname' => 'Universidad Nacional Evangélica',
-    'companyemail' => 'webmaster at unev-rd dot edu dot do',
-    'companyurl' => 'http://www.unev-rd.edu.do/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '935f507b4ee74400b448cd72f239b76e',
   ),
   'university-of-canberra' => 
   array (
@@ -21331,14 +21295,14 @@
     'companyrbntype' => '',
     'key' => 'b8853a764918f484ae2c32b76cebdc0f',
   ),
-  'mendeleev-russian-university-of-chemical-technology' => 
+  'texas-state-technical-college-marshall' => 
   array (
-    'companyname' => 'Mendeleev Russian University of Chemical Technology',
-    'companyemail' => 'webmaster at muctr dot edu dot ru',
-    'companyurl' => 'http://www.muctr.edu.ru/',
+    'companyname' => 'Texas State Technical College-​Marshall',
+    'companyemail' => 'webmaster at marshall dot tstc dot edu',
+    'companyurl' => 'http://www.marshall.tstc.edu',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '8bd4c12d2f7c2764291d8eaac09bf72f',
+    'key' => 'af4322d70cc7560f4f0553c945b9c99e',
   ),
   'indiana-wesleyan-university-marion' => 
   array (
@@ -21556,6 +21520,15 @@
     'companyrbntype' => '',
     'key' => '536f74f80b270dfe11c0c9a9fa5425c4',
   ),
+  'university-of-iceland' => 
+  array (
+    'companyname' => 'University of Iceland',
+    'companyemail' => 'webmaster at hi dot is',
+    'companyurl' => 'http://www.hi.is/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '64a40bd3f11b2a70ef9035c671fa9ff3',
+  ),
   'marymount-university' => 
   array (
     'companyname' => 'Marymount University',
@@ -21618,6 +21591,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '529e23f6fdd45c3df2f805a753b4068b',
+  ),
+  'northern-essex-community-college' => 
+  array (
+    'companyname' => 'Northern Essex Community College',
+    'companyemail' => 'webmaster at necc dot mass dot edu',
+    'companyurl' => 'http://www.necc.mass.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '2fa0eb30dfccef0ad9e5b0a5495ec06f',
   ),
   'universit-des-montagnes' => 
   array (
@@ -21961,6 +21943,15 @@
     'companyrbntype' => '',
     'key' => '615b261cd5dd627b5b986fb15869641a',
   ),
+  'tianjin-medical-university' => 
+  array (
+    'companyname' => 'Tianjin Medical University',
+    'companyemail' => 'webmaster at tijmu dot edu dot cn',
+    'companyurl' => 'http://www.tijmu.edu.cn/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9ff09a0b1d0e5da343fc82390c250f61',
+  ),
   'universit-mouloud-mammeri-de-tizi-ouzou' => 
   array (
     'companyname' => 'Université Mouloud Mammeri de Tizi Ouzou',
@@ -21979,6 +21970,15 @@
     'companyrbntype' => '',
     'key' => '41bdd3d64d4e0ebc24ef831fc2334fc4',
   ),
+  'universidad-regiomontana' => 
+  array (
+    'companyname' => 'Universidad Regiomontana',
+    'companyemail' => 'webmaster at ur dot mx',
+    'companyurl' => 'http://www.ur.mx/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'a80f9edafa6d2a228b6e6a089e177635',
+  ),
   'black-river-technical-college' => 
   array (
     'companyname' => 'Black River Technical College',
@@ -21987,15 +21987,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c7d7a6336cae4c4f4883446d5bc04108',
-  ),
-  'mongolian-state-university-of-agriculture' => 
-  array (
-    'companyname' => 'Mongolian State University of Agriculture',
-    'companyemail' => 'webmaster at msua dot edu dot mn',
-    'companyurl' => 'http://www.msua.edu.mn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '23131fb5cc499d6c069c95054b25995b',
   ),
   'cecos-univeristy-of-information-technology' => 
   array (
@@ -22023,6 +22014,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'cd869074110b9a51aa641ba8fe0e900a',
+  ),
+  'nanjing-university-of-traditional-chinese-medicine' => 
+  array (
+    'companyname' => 'Nanjing University of Traditional Chinese Medicine',
+    'companyemail' => 'webmaster at njutcm dot edu dot cn',
+    'companyurl' => 'http://www.njutcm.edu.cn/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd28c1e27bc391f8dd21fbe515eb12cce',
   ),
   'universidad-de-aconcagua' => 
   array (
@@ -22141,15 +22141,6 @@
     'companyrbntype' => '',
     'key' => '289beeb643feae840769a892211a7892',
   ),
-  'florida-polytechnic-university' => 
-  array (
-    'companyname' => 'Florida Polytechnic University',
-    'companyemail' => 'webmaster at floridapoly dot edu',
-    'companyurl' => 'https://floridapoly.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd7cb0d9ecb8f2e39c477d9f83ba4012f',
-  ),
   'international-banking-institute-st-petersburg' => 
   array (
     'companyname' => 'International Banking Institute, St. Petersburg',
@@ -22222,15 +22213,6 @@
     'companyrbntype' => '',
     'key' => 'bf8760b4d38b200009b25f5e95338624',
   ),
-  'university-of-science-and-technology' => 
-  array (
-    'companyname' => 'University of Science and Technology',
-    'companyemail' => 'webmaster at ust dot edu dot sd',
-    'companyurl' => 'http://www.ust.edu.sd/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'cde83f4b070eef784eadeaddcfa028f3',
-  ),
   'universit-de-kairouan' => 
   array (
     'companyname' => 'Université de Kairouan',
@@ -22266,15 +22248,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b0ee37a4f3b08d0c5cc69e083f797c22',
-  ),
-  'universidad-de-cartagena' => 
-  array (
-    'companyname' => 'Universidad de Cartagena',
-    'companyemail' => 'webmaster at unicartagena dot edu dot co',
-    'companyurl' => 'http://www.unicartagena.edu.co/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '563329fa8f30fb9c753805e7a6bc2ce5',
   ),
   'universiti-putra-malaysia' => 
   array (
@@ -22320,6 +22293,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ce6d18c795ad02e3f21e1e06d7d1657b',
+  ),
+  'university-of-hartford' => 
+  array (
+    'companyname' => 'University of Hartford',
+    'companyemail' => 'webmaster at hartford dot edu',
+    'companyurl' => 'http://www.hartford.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3e51081746cfb4077573fb9a1661cc9e',
   ),
   'university-for-peace' => 
   array (
@@ -22374,15 +22356,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '7c6ab3c59136ed6ea610a414a488682a',
-  ),
-  'ohio-state-university-columbus' => 
-  array (
-    'companyname' => 'Ohio State University, Columbus',
-    'companyemail' => 'webmaster at osu dot edu',
-    'companyurl' => 'http://www.osu.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '288cfb2c020e3fb542c9681b66c3e126',
   ),
   'ufa-state-petroleum-technological-university' => 
   array (
@@ -22456,14 +22429,14 @@
     'companyrbntype' => '',
     'key' => '244aae8bcf439953b2ce4df98a03ed67',
   ),
-  'university-of-birmingham' => 
+  'south-carelian-polytechnic' => 
   array (
-    'companyname' => 'University of Birmingham',
-    'companyemail' => 'webmaster at bham dot ac dot uk',
-    'companyurl' => 'http://www.bham.ac.uk/',
+    'companyname' => 'South Carelian Polytechnic',
+    'companyemail' => 'webmaster at scp dot fi',
+    'companyurl' => 'http://www.scp.fi/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '3af8b2bb65eeea686783e6f6a85cae0b',
+    'key' => '98e2d339413b6bf071d6f7f5f75f840a',
   ),
   'macau-polytechnic-institute' => 
   array (
@@ -22473,15 +22446,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '83acfa50aceec1635290ccbc33049fe9',
-  ),
-  'west-university-of-timisoara' => 
-  array (
-    'companyname' => 'West University of Timisoara',
-    'companyemail' => 'webmaster at uvt dot ro',
-    'companyurl' => 'http://www.uvt.ro/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'bdd719c1e6801900e5b45091958f1a2b',
   ),
   'mesabi-range-community-and-technical-college' => 
   array (
@@ -22510,6 +22474,15 @@
     'companyrbntype' => '',
     'key' => 'f354ddd0033b540b6b5763b58842a668',
   ),
+  'university-of-baltimore' => 
+  array (
+    'companyname' => 'University of Baltimore',
+    'companyemail' => 'webmaster at ubalt dot edu',
+    'companyurl' => 'http://www.ubalt.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd038c97b8602f9a68b5c67437a130e13',
+  ),
   'evergreen-valley-college' => 
   array (
     'companyname' => 'Evergreen Valley College',
@@ -22527,6 +22500,24 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'a64dff1acf5c2517538b2dc1dd2fb152',
+  ),
+  'murray-state-university' => 
+  array (
+    'companyname' => 'Murray State University',
+    'companyemail' => 'webmaster at mursuky dot edu',
+    'companyurl' => 'http://www.mursuky.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3e8730a7f8f7482168c8d5e3af487ec2',
+  ),
+  'university-of-bridgeport' => 
+  array (
+    'companyname' => 'University of Bridgeport',
+    'companyemail' => 'webmaster at bridgeport dot edu',
+    'companyurl' => 'http://www.bridgeport.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c124ca2258fb3dcffedf8b63af276509',
   ),
   'pulaski-technical-college' => 
   array (
@@ -22609,24 +22600,6 @@
     'companyrbntype' => '',
     'key' => '979bb8e0be17993adad1fe949df65ffb',
   ),
-  'university-of-the-sunshine-coast' => 
-  array (
-    'companyname' => 'University of the Sunshine Coast',
-    'companyemail' => 'webmaster at usc dot edu dot au',
-    'companyurl' => 'http://www.usc.edu.au/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1ac46a552b693d5a388384a5674d0902',
-  ),
-  'vytautas-magnus-university' => 
-  array (
-    'companyname' => 'Vytautas Magnus University',
-    'companyemail' => 'webmaster at vdu dot lt',
-    'companyurl' => 'http://www.vdu.lt/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '315879316690ccc12717ac88d5a951cc',
-  ),
   'national-united-university' => 
   array (
     'companyname' => 'National United University',
@@ -22645,15 +22618,6 @@
     'companyrbntype' => '',
     'key' => '947d92267343781ae6cc91e12bc78512',
   ),
-  'shivaji-university' => 
-  array (
-    'companyname' => 'Shivaji University',
-    'companyemail' => 'webmaster at unishivaji dot ac dot in',
-    'companyurl' => 'http://www.unishivaji.ac.in/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a0a269d0b882abad5b344e12536c202a',
-  ),
   'anton-de-kom-university' => 
   array (
     'companyname' => 'Anton de Kom University',
@@ -22662,6 +22626,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ff3a2d2cdcb0fa9f6e96aeecdfb71bda',
+  ),
+  'yorker-international-university-athens' => 
+  array (
+    'companyname' => 'Yorker International University, Athens',
+    'companyemail' => 'webmaster at nyuniversity dot net',
+    'companyurl' => 'http://www.nyuniversity.net/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4a864f5a59da3957e6f9f546259dbd40',
   ),
   'stevens-institute-of-technology' => 
   array (
@@ -22761,15 +22734,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '21a5f72068cea418ddc826df270f0ac3',
-  ),
-  'universidad-polit-cnica-de-el-salvador' => 
-  array (
-    'companyname' => 'Universidad Politécnica de El Salvador',
-    'companyemail' => 'webmaster at upes dot edu dot sv',
-    'companyurl' => 'http://www.upes.edu.sv/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5206d0b1a6987333d2bc9f8496a94379',
   ),
   'university-of-wyoming' => 
   array (
@@ -22897,15 +22861,6 @@
     'companyrbntype' => '',
     'key' => 'f2676c97c494271d089b684a53d1a879',
   ),
-  'santa-clara-university' => 
-  array (
-    'companyname' => 'Santa Clara University',
-    'companyemail' => 'webmaster at scu dot edu',
-    'companyurl' => 'http://www.scu.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1f88f8fbb9860a874f82bce8f2a81807',
-  ),
   'cnexp-net' => 
   array (
     'companyname' => 'cnexp.net',
@@ -22941,15 +22896,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e55b5dc4918643c819dc74866a0a7766',
-  ),
-  'southern-alberta-institute-of-technology' => 
-  array (
-    'companyname' => 'Southern Alberta Institute of Technology',
-    'companyemail' => 'webmaster at sait dot ca',
-    'companyurl' => 'http://www.sait.ca/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '28878585dcc64d7250eb8d2be22b253a',
   ),
   'y-z-nc-yil-centennial-university' => 
   array (
@@ -23032,15 +22978,6 @@
     'companyrbntype' => '',
     'key' => 'bb6dbecc76d1f78afcea13642b2520c4',
   ),
-  'universidad-cat-lica-de-santo-domingo' => 
-  array (
-    'companyname' => 'Universidad Católica de Santo Domingo',
-    'companyemail' => 'webmaster at ucsd dot edu dot do',
-    'companyurl' => 'http://www.ucsd.edu.do/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'fe94f7c6a25b23b70b7314a74231635a',
-  ),
   'institute-of-business-administration-sukkur' => 
   array (
     'companyname' => 'Institute of Business Administration Sukkur',
@@ -23049,15 +22986,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '756c9538bb9681f76b0ad5c96228863a',
-  ),
-  'iwaki-meisei-university' => 
-  array (
-    'companyname' => 'Iwaki Meisei University',
-    'companyemail' => 'webmaster at iwakimu dot ac dot jp',
-    'companyurl' => 'http://www.iwakimu.ac.jp/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '81d3e30024f3c94f9d8ffeb80016895e',
   ),
   'universidad-del-salvador' => 
   array (
@@ -23085,15 +23013,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '78ea71b7b0156de772f3ca69e8ebf267',
-  ),
-  'okayama-university-of-science' => 
-  array (
-    'companyname' => 'Okayama University of Science',
-    'companyemail' => 'webmaster at ous dot ac dot jp',
-    'companyurl' => 'http://www.ous.ac.jp/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '30e49a5d43fa320942ef5152e2b892ea',
   ),
   'universit-de-bretagne-occidentale' => 
   array (
@@ -23248,6 +23167,15 @@
     'companyrbntype' => '',
     'key' => 'e9ffff79ee9baf894dbefc62e711e3f6',
   ),
+  'taichung-healthcare-and-management-university' => 
+  array (
+    'companyname' => 'TaiChung Healthcare and Management University',
+    'companyemail' => 'webmaster at thmu dot edu dot tw',
+    'companyurl' => 'http://www.thmu.edu.tw/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '52b35241efeeaaa080edd849cf9d9132',
+  ),
   'universidad-sim-n-bolivar' => 
   array (
     'companyname' => 'Universidad Simón Bolivar',
@@ -23292,15 +23220,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1a8b760b5e0f487b280e27856bd2bf47',
-  ),
-  'universidad-nacional-experimental-sur-del-lago-jes-s-maria-semprum' => 
-  array (
-    'companyname' => 'Universidad Nacional Experimental Sur del Lago "Jesús Maria Semprum"',
-    'companyemail' => 'webmaster at unesur dot edu dot ve',
-    'companyurl' => 'http://www.unesur.edu.ve/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'af08af3082fc1da9b682d55405609499',
   ),
   'bainbridge-state-college' => 
   array (
@@ -23500,14 +23419,14 @@
     'companyrbntype' => '',
     'key' => '7f949b2872d505d1833c8340cd77c2e7',
   ),
-  'polytechnic-university-of-tirane' => 
+  'karadeniz-technical-university' => 
   array (
-    'companyname' => 'Polytechnic University of Tirane',
-    'companyemail' => 'webmaster at upt dot al',
-    'companyurl' => 'http://www.upt.al/',
+    'companyname' => 'Karadeniz Technical University',
+    'companyemail' => 'webmaster at ktu dot edu dot tr',
+    'companyurl' => 'http://www.ktu.edu.tr/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '78e7b3863c532ade33f8f59aaed3e6d0',
+    'key' => '396bca0a88a8c683b4e6c00c81e0980e',
   ),
   'east-siberian-state-university-of-technology' => 
   array (
@@ -23581,15 +23500,6 @@
     'companyrbntype' => '',
     'key' => 'a230f67d747aef891823029552248a39',
   ),
-  'kerala-agricultural-university' => 
-  array (
-    'companyname' => 'Kerala Agricultural University',
-    'companyemail' => 'webmaster at kau dot edu',
-    'companyurl' => 'http://www.kau.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'dc99a01a8c31c245d0b69bba5e799052',
-  ),
   'south-piedmont-community-college' => 
   array (
     'companyname' => 'South Piedmont Community College',
@@ -23625,15 +23535,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'affde1c5c46703e82a4d8c318b553b5e',
-  ),
-  'dutchess-community-college' => 
-  array (
-    'companyname' => 'Dutchess Community College',
-    'companyemail' => 'webmaster at sunydutchess dot edu',
-    'companyurl' => 'http://www.sunydutchess.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2dcf0a62eab74e7e04015e0a87337afd',
   ),
   'boise-state-university' => 
   array (
@@ -23716,15 +23617,6 @@
     'companyrbntype' => '',
     'key' => 'c694c4255c3d31aabc0d37e2db1aaf88',
   ),
-  'universidade-cat-lica-dom-bosco' => 
-  array (
-    'companyname' => 'Universidade Católica Dom Bosco',
-    'companyemail' => 'webmaster at unibosco dot br',
-    'companyurl' => 'http://www.unibosco.br/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '60b60511b1b424d06e7c5a9051c277df',
-  ),
   'algonquin-college' => 
   array (
     'companyname' => 'Algonquin College',
@@ -23770,6 +23662,15 @@
     'companyrbntype' => '',
     'key' => '095c316d898dd897657266de7ffe7000',
   ),
+  'maxim-gorky-institute-of-literature' => 
+  array (
+    'companyname' => 'Maxim Gorky Institute of Literature',
+    'companyemail' => 'webmaster at filine dot centro dot ru',
+    'companyurl' => 'http://filine.centro.ru/Gorky/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '10d7e8ba2856f35d75681efa06c3eb85',
+  ),
   'isothermal-community-college' => 
   array (
     'companyname' => 'Isothermal Community College',
@@ -23805,15 +23706,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c318ba96ce9049e845a3fce3fe3a7a4a',
-  ),
-  'university-of-medicine-and-pharmacy-of-timisoara' => 
-  array (
-    'companyname' => 'University of Medicine and Pharmacy of Timisoara',
-    'companyemail' => 'webmaster at umft dot ro',
-    'companyurl' => 'http://www.umft.ro/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a6d808d2cacf4ce1442141c6cba21ef8',
   ),
   'k-n-toosi-university-of-technology' => 
   array (
@@ -23950,6 +23842,24 @@
     'companyrbntype' => '',
     'key' => '2e280ef591c560a16eaf0cf8f2f32950',
   ),
+  'new-hampshire-college' => 
+  array (
+    'companyname' => 'New Hampshire College',
+    'companyemail' => 'webmaster at nhc dot edu',
+    'companyurl' => 'http://www.nhc.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '8393cc9f1eb303fc9d060cba31779b31',
+  ),
+  'universidad-latina' => 
+  array (
+    'companyname' => 'Universidad Latina',
+    'companyemail' => 'webmaster at unla dot edu dot mx',
+    'companyurl' => 'http://www.unla.edu.mx/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'fd81433520c3cb5f6c4150ae1d73e0bb',
+  ),
   'universidad-pedagogica-nacional' => 
   array (
     'companyname' => 'Universidad Pedagogica Nacional',
@@ -23958,15 +23868,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'defe7922fa53efec467d80b9a063905c',
-  ),
-  'catve-tv' => 
-  array (
-    'companyname' => 'catve.tv',
-    'companyemail' => 'webmaster at catve dot tv',
-    'companyurl' => 'http://catve.tv',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a365c07c534fa6b9a463160d2b45102e',
   ),
   'santiago-canyon-college' => 
   array (
@@ -24004,14 +23905,14 @@
     'companyrbntype' => '',
     'key' => '70b4e726c5393f87a5f952150beb461f',
   ),
-  'vaal-university-of-technology' => 
+  'sanyo-gakuen-university' => 
   array (
-    'companyname' => 'Vaal University of Technology',
-    'companyemail' => 'webmaster at vut dot ac dot za',
-    'companyurl' => 'http://www.vut.ac.za/',
+    'companyname' => 'Sanyo Gakuen University',
+    'companyemail' => 'webmaster at sguc dot ac dot jp',
+    'companyurl' => 'http://www.sguc.ac.jp/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'ffb6bc7fdd6102b0497e373e7fe6a6ad',
+    'key' => '4a0d1383840b95778b81df7779274712',
   ),
   'erzincan-university' => 
   array (
@@ -24049,14 +23950,14 @@
     'companyrbntype' => '',
     'key' => '4ae0637ed5777248a5e137bacd0abbb6',
   ),
-  'universidad-pedag-gica-de-el-salvador' => 
+  'universit-val-de-marne-paris-xii' => 
   array (
-    'companyname' => 'Universidad Pedagógica de El Salvador',
-    'companyemail' => 'webmaster at universidadpedagogica dot com',
-    'companyurl' => 'http://www.universidadpedagogica.com/',
+    'companyname' => 'Université Val-de-Marne (Paris XII)',
+    'companyemail' => 'webmaster at univ-paris12 dot fr',
+    'companyurl' => 'http://www.univ-paris12.fr/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '4c958cf97bcce9c147cce929dfc2e21e',
+    'key' => '5236e9dd782802887a5fdc77ceb82da4',
   ),
   'universit-de-limoges' => 
   array (
@@ -24210,15 +24111,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd0ab8755e9c07de817ed11becd1db4a2',
-  ),
-  'universit-de-biskra' => 
-  array (
-    'companyname' => 'Université de Biskra',
-    'companyemail' => 'webmaster at univ-biskra dot dz',
-    'companyurl' => 'http://www.univ-biskra.dz/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ca10403bc6e916fcf76b1dd544de6522',
   ),
   'national-institute-of-technology-jamshedpur' => 
   array (
@@ -24427,14 +24319,14 @@
     'companyrbntype' => '',
     'key' => 'ffe95a8626c432a911e1ae87eccbedaa',
   ),
-  'gloucester-county-college' => 
+  'universitas-sumatera-utara' => 
   array (
-    'companyname' => 'Gloucester County College',
-    'companyemail' => 'webmaster at gccnj dot edu',
-    'companyurl' => 'http://www.gccnj.edu',
+    'companyname' => 'Universitas Sumatera Utara',
+    'companyemail' => 'webmaster at usu dot ac dot id',
+    'companyurl' => 'http://www.usu.ac.id/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '5aa54d4f96d2d314bca79603ba25a6bd',
+    'key' => 'bd20be232eacc2a03fb3654e603f97d8',
   ),
   'st-petersburg-state-mountain-institut' => 
   array (
@@ -24499,15 +24391,6 @@
     'companyrbntype' => '',
     'key' => '46b579e7b41c44064709bcc955d791d1',
   ),
-  'universit-d-oran-es-senia' => 
-  array (
-    'companyname' => 'Université d\'Oran Es-Senia',
-    'companyemail' => 'webmaster at univ-oran dot dz',
-    'companyurl' => 'http://www.univ-oran.dz/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '21b5acfc5c7b450e08fb27515156d987',
-  ),
   'dirmusiic-in' => 
   array (
     'companyname' => 'dirmusiic.in',
@@ -24552,6 +24435,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f2ce6246978cb2fbe67d417c639fe753',
+  ),
+  'universidad-veritas' => 
+  array (
+    'companyname' => 'Universidad Veritas',
+    'companyemail' => 'webmaster at uveritas dot ac dot cr',
+    'companyurl' => 'http://www.uveritas.ac.cr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '2c4896770c54c5b2284d0a515fea3b56',
   ),
   'swiss-management-center' => 
   array (
@@ -24769,6 +24661,15 @@
     'companyrbntype' => '',
     'key' => 'b577363567b8dd7079f60fa02b2465e3',
   ),
+  'redtube-com' => 
+  array (
+    'companyname' => 'redtube.com',
+    'companyemail' => 'webmaster at redtube dot com',
+    'companyurl' => 'http://redtube.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9a09ce47691a13b9380645585c71cf1b',
+  ),
   'gkhroqza-cc' => 
   array (
     'companyname' => 'gkhroqza.cc',
@@ -24786,15 +24687,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '07786a9841db7b2929e181a18e0bd6d8',
-  ),
-  'boost-mobile' => 
-  array (
-    'companyname' => 'Boost Mobile',
-    'companyemail' => 'webmaster at boost dot com dot au',
-    'companyurl' => 'http://boost.com.au/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ed0cfd0d8a9c461573b3c1456884d7ed',
   ),
   'fastenal-com' => 
   array (
@@ -24840,15 +24732,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'eea71bb4c1d28b447cdc874f986ea81a',
-  ),
-  'ehow-com' => 
-  array (
-    'companyname' => 'ehow.com',
-    'companyemail' => 'webmaster at ehow dot com',
-    'companyurl' => 'http://ehow.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '88b46b8e35e3733e3f3d3a982cfa51b2',
   ),
   'suntrust-com' => 
   array (
@@ -25003,6 +24886,15 @@
     'companyrbntype' => '',
     'key' => 'da268a3fc9a9804571771db8dbc1f598',
   ),
+  'rushydro-ru' => 
+  array (
+    'companyname' => 'rushydro.ru',
+    'companyemail' => 'webmaster at rushydro dot ru',
+    'companyurl' => 'http://rushydro.ru',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e0407ce5ac124a6356d571e7e36d3fe1',
+  ),
   'motient' => 
   array (
     'companyname' => 'Motient',
@@ -25020,15 +24912,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'bc7102bf9833b3718388339bd17ccc6f',
-  ),
-  'orange-s-a' => 
-  array (
-    'companyname' => 'Orange S.A.',
-    'companyemail' => 'webmaster at orange dot fr',
-    'companyurl' => 'http://www.orange.fr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6b346bd17d716b7e2bc4bbdf63770c51',
   ),
   'comcel-haiti' => 
   array (
@@ -25057,6 +24940,15 @@
     'companyrbntype' => '',
     'key' => 'cfe02fec0a9ecd43acf31847250d36f7',
   ),
+  'oi' => 
+  array (
+    'companyname' => 'Oi',
+    'companyemail' => 'webmaster at oi dot com dot br',
+    'companyurl' => 'http://ri.oi.com.br/default_en.asp?conta=44&idioma=1',
+    'companyrbn' => 'BROIBRACNOR1',
+    'companyrbntype' => 'ISIN',
+    'key' => 'e6f7f91b6d5476217a6858341c0eaf6f',
+  ),
   'yandex-ua' => 
   array (
     'companyname' => 'yandex.ua',
@@ -25084,6 +24976,15 @@
     'companyrbntype' => '',
     'key' => '15a002004059dc0ed5d336874786dcce',
   ),
+  'happycog-com' => 
+  array (
+    'companyname' => 'happycog.com',
+    'companyemail' => 'webmaster at happycog dot com',
+    'companyurl' => 'http://happycog.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'a7f6e66384a39f32687a0ac920a0e177',
+  ),
   'primtel' => 
   array (
     'companyname' => 'Primtel',
@@ -25110,15 +25011,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '36554df56fc8221110acbf9ff8cca8a6',
-  ),
-  'tapcommerce-com' => 
-  array (
-    'companyname' => 'tapcommerce.com',
-    'companyemail' => 'webmaster at tapcommerce dot com',
-    'companyurl' => 'http://tapcommerce.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7b8be9e10ac5d675ed2dd8406e62e133',
   ),
   'friendfeed-com' => 
   array (
@@ -25291,15 +25183,6 @@
     'companyrbntype' => '',
     'key' => '593922be34560f1191cde1398e208346',
   ),
-  'internetvideoarchive-com' => 
-  array (
-    'companyname' => 'internetvideoarchive.com',
-    'companyemail' => 'webmaster at internetvideoarchive dot com',
-    'companyurl' => 'http://internetvideoarchive.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2b1f6393bf7a6eae6b8dfdd1e2271a6c',
-  ),
   'bitcomet-com' => 
   array (
     'companyname' => 'bitcomet.com',
@@ -25380,6 +25263,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0bfb127436a4c9dc7f7a28e9ff395306',
+  ),
+  'sprint-corporation' => 
+  array (
+    'companyname' => 'Sprint Corporation',
+    'companyemail' => 'webmaster at sprint dot com',
+    'companyurl' => 'http://sprint.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9bfa7d3e8afef83671be3e5412c6497f',
   ),
   'kgnhx-org' => 
   array (
@@ -25516,6 +25408,15 @@
     'companyrbntype' => '',
     'key' => '4bf8941588fb720290a9eb350d3b5e14',
   ),
+  'universidade-de-tras-os-montes-e-alto-douro' => 
+  array (
+    'companyname' => 'Universidade de Tras-os-Montes e Alto Douro',
+    'companyemail' => 'webmaster at utad dot pt',
+    'companyurl' => 'http://www.utad.pt/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '32a6750d18ea2d04f7d2d43a4398a271',
+  ),
   'arak-university' => 
   array (
     'companyname' => 'Arak University',
@@ -25525,15 +25426,6 @@
     'companyrbntype' => '',
     'key' => 'dd39e47c43625fbcee6da4166d293b86',
   ),
-  'academy-of-economics-dimitur-a-tscenov' => 
-  array (
-    'companyname' => 'Academy of Economics "Dimitur A. Tscenov"',
-    'companyemail' => 'webmaster at uni-svishtov dot bg',
-    'companyurl' => 'http://www.uni-svishtov.bg/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2f6efa28269246d1aed22f843787cebb',
-  ),
   'tiscali-it' => 
   array (
     'companyname' => 'tiscali.it',
@@ -25542,15 +25434,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '90bc21bf401d71dda3d590180c21780a',
-  ),
-  'comparably-com' => 
-  array (
-    'companyname' => 'comparably.com',
-    'companyemail' => 'webmaster at comparably dot com',
-    'companyurl' => 'https://www.comparably.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b69bddbe2ab543e1f5632010f365576b',
   ),
   'op-cdn-net' => 
   array (
@@ -25993,6 +25876,15 @@
     'companyrbntype' => '',
     'key' => 'ebe0247a41de1b2cc0068aa67703d789',
   ),
+  'com-au' => 
+  array (
+    'companyname' => 'com.au',
+    'companyemail' => 'webmaster at com dot au',
+    'companyurl' => 'https://www.glassdoor.com.au/Overview/Working-at-Jackson-River-EI_IE859951.11,24.htm',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c13f22909dc7f09a97a91768feb6e7d7',
+  ),
   'knack-com' => 
   array (
     'companyname' => 'knack.com',
@@ -26425,6 +26317,15 @@
     'companyrbntype' => '',
     'key' => 'd8f9472438ca543fd180bbc698476ce8',
   ),
+  'tifbs-net' => 
+  array (
+    'companyname' => 'tifbs.net',
+    'companyemail' => 'webmaster at tifbs dot net',
+    'companyurl' => 'http://tifbs.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '799bc31ecb008d20e7b181737b25bf42',
+  ),
   'conduit-com' => 
   array (
     'companyname' => 'conduit.com',
@@ -26452,6 +26353,15 @@
     'companyrbntype' => '',
     'key' => 'dabfdfbd7e43ce490ca68233cad65488',
   ),
+  'wthreeschools-com' => 
+  array (
+    'companyname' => 'w3schools.com',
+    'companyemail' => 'webmaster at w3schools dot com',
+    'companyurl' => 'http://w3schools.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '155a6932d135d544a83d2003564f401f',
+  ),
   'wfxtriggers-com' => 
   array (
     'companyname' => 'wfxtriggers.com',
@@ -26478,6 +26388,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '64c934fe717431f2678998091cc73810',
+  ),
+  'goodnet-org' => 
+  array (
+    'companyname' => 'goodnet.org',
+    'companyemail' => 'webmaster at goodnet dot org',
+    'companyurl' => 'http://goodnet.org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3e7c82798b2c3ec85b332ad1701d31df',
   ),
   'china-telecom' => 
   array (
@@ -26595,15 +26514,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e8a3199d712abe70848b39c8dc2a3085',
-  ),
-  'jqueryui-com' => 
-  array (
-    'companyname' => 'jqueryui.com',
-    'companyemail' => 'webmaster at jqueryui dot com',
-    'companyurl' => 'http://jqueryui.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '79cd329998be3539922bcebfaf84a5c5',
   ),
   'forbesid-com' => 
   array (
@@ -26839,6 +26749,15 @@
     'companyrbntype' => '',
     'key' => 'c494df511eb3131da6479a08b692e1c8',
   ),
+  'adingo-jp' => 
+  array (
+    'companyname' => 'adingo.jp',
+    'companyemail' => 'webmaster at adingo dot jp',
+    'companyurl' => 'http://adingo.jp',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'af34c8950d57ad3ba17c5e7f2a2aba86',
+  ),
   'behance-net' => 
   array (
     'companyname' => 'behance.net',
@@ -26920,6 +26839,15 @@
     'companyrbntype' => '',
     'key' => 'b43957dbb7421dbeae1e8fc06d340cd6',
   ),
+  'google-com-mx' => 
+  array (
+    'companyname' => 'google.com.mx',
+    'companyemail' => 'webmaster at google dot com dot mx',
+    'companyurl' => 'http://google.com.mx',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '582a04c5b946502e6b5fe83df45ae3f3',
+  ),
   'kinnek-com' => 
   array (
     'companyname' => 'kinnek.com',
@@ -26946,24 +26874,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '02a374c4f39f867c5a8b36f69759b1a0',
-  ),
-  'vinepair-com' => 
-  array (
-    'companyname' => 'vinepair.com',
-    'companyemail' => 'webmaster at vinepair dot com',
-    'companyurl' => 'http://vinepair.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a13b4db1bb2676cde29cde042002c79c',
-  ),
-  'keywordblocks-com' => 
-  array (
-    'companyname' => 'keywordblocks.com',
-    'companyemail' => 'webmaster at keywordblocks dot com',
-    'companyurl' => 'http://keywordblocks.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '373c44d6636d19efc2453ae0b9b67d5b',
   ),
   'loseit-com' => 
   array (
@@ -27036,6 +26946,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2e0d69e8008b8de0561b36b4c2f88ef5',
+  ),
+  'ubertags-com' => 
+  array (
+    'companyname' => 'ubertags.com',
+    'companyemail' => 'webmaster at ubertags dot com',
+    'companyurl' => 'http://ubertags.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6bc68c49c57beaf07dab996e6fc95df2',
   ),
   'southernliving-com' => 
   array (
@@ -27271,15 +27190,6 @@
     'companyrbntype' => '',
     'key' => '7022bb477e1269039367c1bb2ba3b8d0',
   ),
-  'sify-com' => 
-  array (
-    'companyname' => 'sify.com',
-    'companyemail' => 'webmaster at sify dot com',
-    'companyurl' => 'http://sify.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'dfdb56c36103f695831f4cf44b373ade',
-  ),
   'xfinitytv-com' => 
   array (
     'companyname' => 'xfinitytv.com',
@@ -27297,15 +27207,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9799413c68a12ec706fd290b46ab0aeb',
-  ),
-  'stjude-org' => 
-  array (
-    'companyname' => 'stjude.org',
-    'companyemail' => 'webmaster at stjude dot org',
-    'companyurl' => 'http://stjude.org',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '25c471f068669fc4a7a3e6d44bc5417b',
   ),
   'nii-holdings' => 
   array (
@@ -27342,6 +27243,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f540f83e165786b7dc7bda752ea2ca08',
+  ),
+  'visualdna-com' => 
+  array (
+    'companyname' => 'visualdna.com',
+    'companyemail' => 'webmaster at visualdna dot com',
+    'companyurl' => 'http://visualdna.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ecd6aa429b3aeadb02f35736a0a719e5',
   ),
   'affiz-net' => 
   array (
@@ -27595,6 +27505,15 @@
     'companyrbntype' => '',
     'key' => '5dea84c9ec61e20d11d78a0746f638b9',
   ),
+  'bonappetit-com' => 
+  array (
+    'companyname' => 'bonappetit.com',
+    'companyemail' => 'webmaster at bonappetit dot com',
+    'companyurl' => 'http://bonappetit.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6b5ddb169706ee8f73a1565d40685fbb',
+  ),
   'canlitv-com' => 
   array (
     'companyname' => 'canlitv.com',
@@ -27676,6 +27595,15 @@
     'companyrbntype' => '',
     'key' => 'e8d89b67cb47a5fe09f90343314696e4',
   ),
+  'synacast-com' => 
+  array (
+    'companyname' => 'synacast.com',
+    'companyemail' => 'webmaster at synacast dot com',
+    'companyurl' => 'http://synacast.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '611cd666b5c98f1fe06a6b51639a5716',
+  ),
   'ajc-com' => 
   array (
     'companyname' => 'ajc.com',
@@ -27748,6 +27676,15 @@
     'companyrbntype' => '',
     'key' => '9314f5b8f515ae16c9c1d2034f638bd4',
   ),
+  'iolo-com' => 
+  array (
+    'companyname' => 'iolo.com',
+    'companyemail' => 'webmaster at iolo dot com',
+    'companyurl' => 'http://iolo.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd74e26592e82ca996cfd38cc5c3713d0',
+  ),
   'holmusk-com' => 
   array (
     'companyname' => 'holmusk.com',
@@ -27756,15 +27693,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1a7119d65511e1cd900123f2f113f34b',
-  ),
-  'encontreobb-com-br' => 
-  array (
-    'companyname' => 'encontreobb.com.br',
-    'companyemail' => 'webmaster at encontreobb dot com dot br',
-    'companyurl' => 'http://encontreobb.com.br',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'f2b46cfbdf806b6729c990f0e631d2f7',
   ),
   'tinnong-vn' => 
   array (
@@ -27783,6 +27711,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2dd8d78591de2a78c2841935086c7478',
+  ),
+  'sproutsocial-com' => 
+  array (
+    'companyname' => 'sproutsocial.com',
+    'companyemail' => 'webmaster at sproutsocial dot com',
+    'companyurl' => 'https://sproutsocial.com/careers',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c9610d29ffc787ac7c84f7757ae3b761',
   ),
   'pythonchallenge-com' => 
   array (
@@ -27847,24 +27784,6 @@
     'companyrbntype' => '',
     'key' => '2353a5183ead1e41a433627dcb7e4af6',
   ),
-  'nfl-com' => 
-  array (
-    'companyname' => 'nfl.com',
-    'companyemail' => 'webmaster at nfl dot com',
-    'companyurl' => 'http://nfl.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '70bbfcb0fe5f47f178330b1387b84a69',
-  ),
-  'justus-liebig-universit-t-gie-en' => 
-  array (
-    'companyname' => 'Justus Liebig Universität Gießen',
-    'companyemail' => 'webmaster at uni-giessen dot de',
-    'companyurl' => 'http://www.uni-giessen.de/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'abb6b2d3a8d659e1d7a44e01d4c11f1d',
-  ),
   'metro-by-t-mobile' => 
   array (
     'companyname' => 'Metro by T-Mobile',
@@ -27901,15 +27820,6 @@
     'companyrbntype' => '',
     'key' => 'ee1a44fae22a3a0e180e67b8d8f2683f',
   ),
-  'staticamzn-com' => 
-  array (
-    'companyname' => 'staticamzn.com',
-    'companyemail' => 'webmaster at staticamzn dot com',
-    'companyurl' => 'http://staticamzn.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '732e3fb8959c50b8b8ece565d6fbc3f4',
-  ),
   'mediasetpremium-it' => 
   array (
     'companyname' => 'mediasetpremium.it',
@@ -27936,15 +27846,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1b473e8d27e6c14a532df22a4e3c8aed',
-  ),
-  'crowdanalytix-com' => 
-  array (
-    'companyname' => 'crowdanalytix.com',
-    'companyemail' => 'webmaster at crowdanalytix dot com',
-    'companyurl' => 'https://www.crowdanalytix.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9032cee935f386c34dc67e60fcd8a7f9',
   ),
   'simplereach-com' => 
   array (
@@ -28116,15 +28017,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0116c5aaa88ac834ca3991b09260b9cf',
-  ),
-  'adwhirl-com' => 
-  array (
-    'companyname' => 'adwhirl.com',
-    'companyemail' => 'webmaster at adwhirl dot com',
-    'companyurl' => 'http://adwhirl.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7271402532081a7b99a1fb3d39da2502',
   ),
   'bu-ali-sina-university' => 
   array (
@@ -28531,15 +28423,6 @@
     'companyrbntype' => '',
     'key' => 'c57f19d5feaef8e1300f66c4b5e5583f',
   ),
-  'flipagram-com' => 
-  array (
-    'companyname' => 'flipagram.com',
-    'companyemail' => 'webmaster at flipagram dot com',
-    'companyurl' => 'http://flipagram.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2d3aea51c303d3905f0c4501dc29198d',
-  ),
   'hitslink-com' => 
   array (
     'companyname' => 'hitslink.com',
@@ -28774,15 +28657,6 @@
     'companyrbntype' => '',
     'key' => 'a13738ad2a4da920d6cdb3285fc20677',
   ),
-  'kodify-io' => 
-  array (
-    'companyname' => 'kodify.io',
-    'companyemail' => 'webmaster at kodify dot io',
-    'companyurl' => 'https://kodify.io/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'fa8e2199393c3d252fb94ae832962748',
-  ),
   'friv-games-com' => 
   array (
     'companyname' => 'friv-games.com',
@@ -28890,15 +28764,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'cfad8c6ea1285b97c52506733e651fe0',
-  ),
-  'ford-com' => 
-  array (
-    'companyname' => 'ford.com',
-    'companyemail' => 'webmaster at ford dot com',
-    'companyurl' => 'http://ford.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '94f5a8736e5b8edaf86453b14e98cf46',
   ),
   'ghostery-com' => 
   array (
@@ -29242,6 +29107,15 @@
     'companyrbntype' => '',
     'key' => 'fce4d69d8f4e2297153cba031b00c5d8',
   ),
+  'smartstream-tv' => 
+  array (
+    'companyname' => 'smartstream.tv',
+    'companyemail' => 'webmaster at smartstream dot tv',
+    'companyurl' => 'http://smartstream.tv',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e8cdd5b4cedcc3af55f0d83603f36d24',
+  ),
   'symbiont-io' => 
   array (
     'companyname' => 'symbiont.io',
@@ -29250,6 +29124,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '45fcb0c26ec3c527531919f86af42e77',
+  ),
+  'mulctsamsaracorbel-com' => 
+  array (
+    'companyname' => 'mulctsamsaracorbel.com',
+    'companyemail' => 'webmaster at mulctsamsaracorbel dot com',
+    'companyurl' => 'http://mulctsamsaracorbel.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c57e93b55cfeaa8d547057d3dfc8d5f8',
   ),
   'joomlatune-com' => 
   array (
@@ -29287,6 +29170,15 @@
     'companyrbntype' => '',
     'key' => 'eed2a8c35c7484e912b7e0e8947eb1fa',
   ),
+  'timeout-com' => 
+  array (
+    'companyname' => 'timeout.com',
+    'companyemail' => 'webmaster at timeout dot com',
+    'companyurl' => 'http://timeout.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ff939aa020cf0628414e755af589a7ae',
+  ),
   'mz-com' => 
   array (
     'companyname' => 'mz.com',
@@ -29322,6 +29214,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9a96127e7c4d5c73ebec43b15cef65d8',
+  ),
+  'saurik-com' => 
+  array (
+    'companyname' => 'saurik.com',
+    'companyemail' => 'webmaster at saurik dot com',
+    'companyurl' => 'http://saurik.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '422f0dd0eb6d8c6b99da11c51fcf03cc',
   ),
   'openhtwosixfour-org' => 
   array (
@@ -29367,6 +29268,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '7e3b5f97d899a565f234117c39694f69',
+  ),
+  'entrepreneur-com' => 
+  array (
+    'companyname' => 'entrepreneur.com',
+    'companyemail' => 'webmaster at entrepreneur dot com',
+    'companyurl' => 'http://entrepreneur.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f078ea91047b6d6d499fbbd5dfc1f332',
   ),
   'codingbat-com' => 
   array (
@@ -29511,24 +29421,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '69b3d9c08622b89e8eb3d0e7c4e5a801',
-  ),
-  'harpersbazaar-com' => 
-  array (
-    'companyname' => 'harpersbazaar.com',
-    'companyemail' => 'webmaster at harpersbazaar dot com',
-    'companyurl' => 'http://harpersbazaar.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '34124fce694a84c5f6568877d08a657b',
-  ),
-  'thomasbandt-com' => 
-  array (
-    'companyname' => 'thomasbandt.com',
-    'companyemail' => 'webmaster at thomasbandt dot com',
-    'companyurl' => 'https://thomasbandt.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '0aa1b7acd27da07b938e728020e4102b',
   ),
   'hldiw-org' => 
   array (
@@ -29683,6 +29575,15 @@
     'companyrbntype' => '',
     'key' => '0e2d32d657da346c63864545a731af09',
   ),
+  'assineabril-com' => 
+  array (
+    'companyname' => 'assineabril.com',
+    'companyemail' => 'webmaster at assineabril dot com',
+    'companyurl' => 'http://assineabril.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '63d20941a1b6468ae9f79672c6e4c13a',
+  ),
   'google-de' => 
   array (
     'companyname' => 'google.de',
@@ -29746,6 +29647,24 @@
     'companyrbntype' => '',
     'key' => '14d098990f347a6cf3e24da70f49e56f',
   ),
+  'carhartt-com' => 
+  array (
+    'companyname' => 'carhartt.com',
+    'companyemail' => 'webmaster at carhartt dot com',
+    'companyurl' => 'http://carhartt.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '549721281df6b14377ef8cc6b2c554ee',
+  ),
+  'dealchicken-com' => 
+  array (
+    'companyname' => 'dealchicken.com',
+    'companyemail' => 'webmaster at dealchicken dot com',
+    'companyurl' => 'http://dealchicken.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '2b1d03657f6679910f43f9d8d11138fb',
+  ),
   'clevertech-biz' => 
   array (
     'companyname' => 'clevertech.biz',
@@ -29754,6 +29673,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b3672ff5922a58a9e99cfaf075c37687',
+  ),
+  'tagstat-com' => 
+  array (
+    'companyname' => 'tagstat.com',
+    'companyemail' => 'webmaster at tagstat dot com',
+    'companyurl' => 'http://tagstat.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'dc619c015cd131e9e7a94304d037f255',
   ),
   'playstation-net' => 
   array (
@@ -29781,15 +29709,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '29ea33ab0527b573d8f9f9aa7e5d6035',
-  ),
-  'poweroffer-net' => 
-  array (
-    'companyname' => 'poweroffer.net',
-    'companyemail' => 'webmaster at poweroffer dot net',
-    'companyurl' => 'http://poweroffer.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'baf6d9f7c56d31395a3379f1e796e125',
   ),
   'authenticjobs-com' => 
   array (
@@ -29944,6 +29863,15 @@
     'companyrbntype' => '',
     'key' => 'd53314f57b14ab60069b590821b9a763',
   ),
+  'bloc-io' => 
+  array (
+    'companyname' => 'bloc.io',
+    'companyemail' => 'webmaster at bloc dot io',
+    'companyurl' => 'https://www.bloc.io/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '651307ea83482cdf7dd92adbc5d188f4',
+  ),
   'transloadit-com' => 
   array (
     'companyname' => 'transloadit.com',
@@ -29961,6 +29889,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '44da21d4fbb0f9b32636742fe2ec0c92',
+  ),
+  'theweathernetwork-com' => 
+  array (
+    'companyname' => 'theweathernetwork.com',
+    'companyemail' => 'webmaster at theweathernetwork dot com',
+    'companyurl' => 'http://theweathernetwork.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd74d94bde42f5d1e069bc17a9a0b840d',
   ),
   'fungame-com-br' => 
   array (
@@ -30061,6 +29998,24 @@
     'companyrbntype' => '',
     'key' => '63eef85e475e3bf4507e78f5efd630cf',
   ),
+  'ninegaginc-com' => 
+  array (
+    'companyname' => '9gaginc.com',
+    'companyemail' => 'webmaster at 9gaginc dot com',
+    'companyurl' => 'http://9gaginc.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '13360b62cb0f570940291160a41ecabc',
+  ),
+  'wjfrewfykf-cn' => 
+  array (
+    'companyname' => 'wjfrewfykf.cn',
+    'companyemail' => 'webmaster at wjfrewfykf dot cn',
+    'companyurl' => 'http://wjfrewfykf.cn',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '13103d23b3449abf622975494f9bde8d',
+  ),
   'yahoomail-com' => 
   array (
     'companyname' => 'yahoomail.com',
@@ -30132,6 +30087,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f0d60a434ecbd2f38c313b3576093e26',
+  ),
+  'da-ads-com' => 
+  array (
+    'companyname' => 'da-ads.com',
+    'companyemail' => 'webmaster at da-ads dot com',
+    'companyurl' => 'http://da-ads.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4b3a3dbbc8b3b574bf0bb312f5e1e8a8',
   ),
   'youneedabudget-com' => 
   array (
@@ -30259,15 +30223,6 @@
     'companyrbntype' => '',
     'key' => '6ff13fa15ac0f91d2f325b3db4509098',
   ),
-  'nationaljournal-com' => 
-  array (
-    'companyname' => 'nationaljournal.com',
-    'companyemail' => 'webmaster at nationaljournal dot com',
-    'companyurl' => 'http://nationaljournal.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'e71ac028c06559bec5226d3c10442ee1',
-  ),
   'timesofindia-com' => 
   array (
     'companyname' => 'timesofindia.com',
@@ -30276,15 +30231,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '771d3617441c8ddeaa42d51282f2cad7',
-  ),
-  'bitgravity-com' => 
-  array (
-    'companyname' => 'bitgravity.com',
-    'companyemail' => 'webmaster at bitgravity dot com',
-    'companyurl' => 'http://bitgravity.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '76bb143a344d5c613513f5a1e2a9f431',
   ),
   'btstatic-com' => 
   array (
@@ -30466,6 +30412,15 @@
     'companyrbntype' => '',
     'key' => '5a41b726c5073e287694006887c8bd4e',
   ),
+  'adhocteam-us' => 
+  array (
+    'companyname' => 'adhocteam.us',
+    'companyemail' => 'webmaster at adhocteam dot us',
+    'companyurl' => 'https://www.adhocteam.us/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '38f00f090b722168599117eb528c9be4',
+  ),
   'fkfazhyyzy-org' => 
   array (
     'companyname' => 'fkfazhyyzy.org',
@@ -30519,6 +30474,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '63f716b5e8d5a0ba61aa1261b102ed4d',
+  ),
+  'hioscar-com' => 
+  array (
+    'companyname' => 'hioscar.com',
+    'companyemail' => 'webmaster at hioscar dot com',
+    'companyurl' => 'https://www.hioscar.com/careers/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9a000e559ffdb4d767d91c43dab74727',
   ),
   'aspnetcdn-com' => 
   array (
@@ -30664,6 +30628,15 @@
     'companyrbntype' => '',
     'key' => '66c1bd08d8be180861d08d94e4fa6f9c',
   ),
+  'jam-com-vn' => 
+  array (
+    'companyname' => 'jam.com.vn',
+    'companyemail' => 'webmaster at jam dot com dot vn',
+    'companyurl' => 'http://jam.com.vn',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3184b36bebc1516d81768e6dcea86ca9',
+  ),
   'rcsadv-it' => 
   array (
     'companyname' => 'rcsadv.it',
@@ -30754,15 +30727,6 @@
     'companyrbntype' => '',
     'key' => 'e2bc1f3e9a738b3bd601e7cd28b24c11',
   ),
-  'moz-com' => 
-  array (
-    'companyname' => 'moz.com',
-    'companyemail' => 'webmaster at moz dot com',
-    'companyurl' => 'http://moz.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '546d48c3bab74e59faa4af1787cf49a9',
-  ),
   'amerikanki-com' => 
   array (
     'companyname' => 'amerikanki.com',
@@ -30771,15 +30735,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '3fde0daef808716d51a9713977b1b387',
-  ),
-  'quizgroup-com' => 
-  array (
-    'companyname' => 'quizgroup.com',
-    'companyemail' => 'webmaster at quizgroup dot com',
-    'companyurl' => 'http://quizgroup.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'c986fdae0090b89d67c1b7483d3a1602',
   ),
   'fontdeck-com' => 
   array (
@@ -30798,6 +30753,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '563d182f813578b7ffd5f853c72037a8',
+  ),
+  'cpmba-se' => 
+  array (
+    'companyname' => 'cpmba.se',
+    'companyemail' => 'webmaster at cpmba dot se',
+    'companyurl' => 'http://cpmba.se',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9b46d6f33a5c462c92caec101dc96716',
   ),
   'rosalind-info' => 
   array (
@@ -30907,15 +30871,6 @@
     'companyrbntype' => '',
     'key' => '9922dd33d693262987e40191788f0d10',
   ),
-  'zamunda-net' => 
-  array (
-    'companyname' => 'zamunda.net',
-    'companyemail' => 'webmaster at zamunda dot net',
-    'companyurl' => 'http://zamunda.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'c7f9f06f7cc3e23a39ae81fef67686ba',
-  ),
   'vhx-tv' => 
   array (
     'companyname' => 'vhx.tv',
@@ -30942,15 +30897,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '404ccece0a2b7734b693609789a80c26',
-  ),
-  'bbcpersian-com' => 
-  array (
-    'companyname' => 'bbcpersian.com',
-    'companyemail' => 'webmaster at bbcpersian dot com',
-    'companyurl' => 'http://bbcpersian.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1539775b734180006bdfecdc82b864bf',
   ),
   'tindersparks-com' => 
   array (
@@ -31033,15 +30979,6 @@
     'companyrbntype' => '',
     'key' => '17646c47f40f6a25487ca4cc3442a3b8',
   ),
-  'vieska-net' => 
-  array (
-    'companyname' => 'vieska.net',
-    'companyemail' => 'support at vieska dot net',
-    'companyurl' => 'http://vieska.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '689c778db601f5bd8ede04d1b73a362c',
-  ),
   'businessinsider-in' => 
   array (
     'companyname' => 'businessinsider.in',
@@ -31068,6 +31005,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f316f0b777ead250f95cd2768064c57f',
+  ),
+  'vieska-net' => 
+  array (
+    'companyname' => 'vieska.net',
+    'companyemail' => 'support at vieska dot net',
+    'companyurl' => 'http://vieska.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '689c778db601f5bd8ede04d1b73a362c',
   ),
   'tomshardware-com' => 
   array (
@@ -31177,6 +31123,15 @@
     'companyrbntype' => '',
     'key' => 'ebfe991d2461b6b52e91356b4a34361e',
   ),
+  'rmmcdn-com' => 
+  array (
+    'companyname' => 'rmmcdn.com',
+    'companyemail' => 'webmaster at rmmcdn dot com',
+    'companyurl' => 'http://rmmcdn.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'be93d70c4d69eb39a1e8cc5b0b882595',
+  ),
   'redditgifts-com' => 
   array (
     'companyname' => 'redditgifts.com',
@@ -31275,15 +31230,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '155e7e8884ed3e04ab10e71bb635af86',
-  ),
-  'segment-io' => 
-  array (
-    'companyname' => 'segment.io',
-    'companyemail' => 'webmaster at segment dot io',
-    'companyurl' => 'http://segment.io',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ba2ab74922e662457ca71b4c4a9cbdff',
   ),
   'counter-strike-net' => 
   array (
@@ -31393,6 +31339,15 @@
     'companyrbntype' => '',
     'key' => 'dec9417e146be3ef74978c1b404a30d5',
   ),
+  'netd-com' => 
+  array (
+    'companyname' => 'netd.com',
+    'companyemail' => 'webmaster at netd dot com',
+    'companyurl' => 'http://netd.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e36d1b79cbdd12e092c0908e07ab2c16',
+  ),
   'demandstudios-com' => 
   array (
     'companyname' => 'demandstudios.com',
@@ -31501,6 +31456,15 @@
     'companyrbntype' => '',
     'key' => 'b901de371a745d90dc996968982ca96c',
   ),
+  'ew-com' => 
+  array (
+    'companyname' => 'ew.com',
+    'companyemail' => 'webmaster at ew dot com',
+    'companyurl' => 'http://ew.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e92822dfe37f31e46158a45e613f0a95',
+  ),
   'iinet-limited' => 
   array (
     'companyname' => 'IINET LIMITED.',
@@ -31509,15 +31473,6 @@
     'companyrbn' => '48068628937',
     'companyrbntype' => 'ABN',
     'key' => '2a9dd208972b538560eb64df7c7ade3e',
-  ),
-  'oreilly-com' => 
-  array (
-    'companyname' => 'oreilly.com',
-    'companyemail' => 'webmaster at oreilly dot com',
-    'companyurl' => 'http://www.oreilly.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b0179b0f134d53e9303f38122c8b1324',
   ),
   'haber-sistemi-com' => 
   array (
@@ -31834,15 +31789,6 @@
     'companyrbntype' => '',
     'key' => '245980978818d2ec4c3337f847139e94',
   ),
-  'zgzfbgq-cn' => 
-  array (
-    'companyname' => 'zgzfbgq.cn',
-    'companyemail' => 'webmaster at zgzfbgq dot cn',
-    'companyurl' => 'http://zgzfbgq.cn',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3615ba74cf88cc090000497d3e8d879d',
-  ),
   'launchpad-net' => 
   array (
     'companyname' => 'launchpad.net',
@@ -32122,6 +32068,15 @@
     'companyrbntype' => '',
     'key' => '4fd9f7c17526c0b03f2860afa02f1270',
   ),
+  'picdn-net' => 
+  array (
+    'companyname' => 'picdn.net',
+    'companyemail' => 'webmaster at picdn dot net',
+    'companyurl' => 'http://picdn.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '1901f8ee93409b5ce38c269f17ada3cd',
+  ),
   'fimserve-com' => 
   array (
     'companyname' => 'fimserve.com',
@@ -32221,6 +32176,15 @@
     'companyrbntype' => '',
     'key' => '0e5962bd860747be15ef78cfcc58fd38',
   ),
+  'fourfiveroyale-com' => 
+  array (
+    'companyname' => '45royale.com',
+    'companyemail' => 'webmaster at 45royale dot com',
+    'companyurl' => 'http://45royale.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '619b17285b115d708ccc1590319f6904',
+  ),
   'linternaute-com' => 
   array (
     'companyname' => 'linternaute.com',
@@ -32248,24 +32212,6 @@
     'companyrbntype' => '',
     'key' => '9f06e64e629f64a35dbbcfe12217047f',
   ),
-  'xfinity-com' => 
-  array (
-    'companyname' => 'xfinity.com',
-    'companyemail' => 'webmaster at xfinity dot com',
-    'companyurl' => 'http://xfinity.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '69f7ef6ad664881a8d91b9c4aa21db2a',
-  ),
-  'shareasale-com' => 
-  array (
-    'companyname' => 'shareasale.com',
-    'companyemail' => 'webmaster at shareasale dot com',
-    'companyurl' => 'http://shareasale.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6ed5f298f28f99c5e5354a553d9695c0',
-  ),
   'onlinejudge-org' => 
   array (
     'companyname' => 'onlinejudge.org',
@@ -32292,15 +32238,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '94baf60aac0a3e200b5599a8f6840283',
-  ),
-  'bigfishgames-com' => 
-  array (
-    'companyname' => 'bigfishgames.com',
-    'companyemail' => 'webmaster at bigfishgames dot com',
-    'companyurl' => 'http://bigfishgames.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6058258be3daa33331f1aa9b0868126d',
   ),
   'conversio-com' => 
   array (
@@ -32608,15 +32545,6 @@
     'companyrbntype' => '',
     'key' => '0535ad4cf0f0a2d58fecd9fe4b8e7e5f',
   ),
-  'dipkxlq-cc' => 
-  array (
-    'companyname' => 'dipkxlq.cc',
-    'companyemail' => 'webmaster at dipkxlq dot cc',
-    'companyurl' => 'http://dipkxlq.cc',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '08f6223142c0f5f47fce46dae31ad43a',
-  ),
   'kinja-img-com' => 
   array (
     'companyname' => 'kinja-img.com',
@@ -32698,6 +32626,15 @@
     'companyrbntype' => '',
     'key' => '21b2ebc87bd95009c10ed46cda88bf12',
   ),
+  'rvnkxm-org' => 
+  array (
+    'companyname' => 'rvnkxm.org',
+    'companyemail' => 'webmaster at rvnkxm dot org',
+    'companyurl' => 'http://rvnkxm.org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '2afe94e0d4c5197c5a45420d8e11daa7',
+  ),
   'grindr-com' => 
   array (
     'companyname' => 'grindr.com',
@@ -32742,15 +32679,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9a1ffbbc6cd0059e93de4434f3880ac0',
-  ),
-  'asahi-net-jp' => 
-  array (
-    'companyname' => 'asahi-net.jp',
-    'companyemail' => 'webmaster at asahi-net dot jp',
-    'companyurl' => 'https://asahi-net.jp/en/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '33f8acb90af05a3d1d0a37cce119e865',
   ),
   'monitus-net' => 
   array (
@@ -32923,15 +32851,6 @@
     'companyrbntype' => '',
     'key' => '08716e49f87aef39dfe919d709a45418',
   ),
-  'drtuber-com' => 
-  array (
-    'companyname' => 'drtuber.com',
-    'companyemail' => 'webmaster at drtuber dot com',
-    'companyurl' => 'http://drtuber.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '4560472ac09bd1ae4dc8d70821033992',
-  ),
   'ocn-ad-jp' => 
   array (
     'companyname' => 'ocn.ad.jp',
@@ -33013,15 +32932,6 @@
     'companyrbntype' => '',
     'key' => '27edf79eff5115caa27ff347db9820c2',
   ),
-  'nrelate-com' => 
-  array (
-    'companyname' => 'nrelate.com',
-    'companyemail' => 'webmaster at nrelate dot com',
-    'companyurl' => 'http://nrelate.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9b4e4a51eea1c8c7946483acfaa8dfe3',
-  ),
   'smqtpt-com' => 
   array (
     'companyname' => 'smqtpt.com',
@@ -33030,6 +32940,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f20432788f158923e12b27f33d880021',
+  ),
+  'spotifyjobs-com' => 
+  array (
+    'companyname' => 'spotifyjobs.com',
+    'companyemail' => 'webmaster at spotifyjobs dot com',
+    'companyurl' => 'https://www.spotifyjobs.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'dc5eae6b8bc9ace18aac409b45e78158',
   ),
   'fastcodesign-com' => 
   array (
@@ -33048,15 +32967,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '78a328e766f1d7853e5b79d9af0dd1d7',
-  ),
-  'bradescoabrasuaconta-com-br' => 
-  array (
-    'companyname' => 'bradescoabrasuaconta.com.br',
-    'companyemail' => 'webmaster at bradescoabrasuaconta dot com dot br',
-    'companyurl' => 'http://bradescoabrasuaconta.com.br',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'cc26f99696c48eaf3657b0be78b97572',
   ),
   'ckstatic-com' => 
   array (
@@ -33085,6 +32995,15 @@
     'companyrbntype' => '',
     'key' => '6d55ee150916684ae7f83cba358ac13f',
   ),
+  'businesswire-com' => 
+  array (
+    'companyname' => 'businesswire.com',
+    'companyemail' => 'webmaster at businesswire dot com',
+    'companyurl' => 'http://businesswire.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e7556f940f472bf87cbc453a34af3cdc',
+  ),
   'a-static-com' => 
   array (
     'companyname' => 'a-static.com',
@@ -33112,6 +33031,15 @@
     'companyrbntype' => '',
     'key' => '194d4b0dd619db3ed66495b06e4765e2',
   ),
+  'google-ru' => 
+  array (
+    'companyname' => 'google.ru',
+    'companyemail' => 'webmaster at google dot ru',
+    'companyurl' => 'http://google.ru',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4e3f25a1846d90c3154f0d74e644cfbd',
+  ),
   'bahldhghl-cn' => 
   array (
     'companyname' => 'bahldhghl.cn',
@@ -33129,15 +33057,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5712cb41388814968fabd955aaae7a7d',
-  ),
-  'iafrica-com' => 
-  array (
-    'companyname' => 'iafrica.com',
-    'companyemail' => 'webmaster at iafrica dot com',
-    'companyurl' => 'http://iafrica.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7739e3478af47eaa7d3d205a51183298',
   ),
   'elgwpdbdz-biz' => 
   array (
@@ -33165,15 +33084,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e17fd02ef2c2302b42839bd958c680c0',
-  ),
-  'jet-com' => 
-  array (
-    'companyname' => 'jet.com',
-    'companyemail' => 'webmaster at jet dot com',
-    'companyurl' => 'https://jet.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9f0b97a037b2e70b2f0b417dd1bbc51e',
   ),
   'thisismetis-com' => 
   array (
@@ -33210,15 +33120,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b864995409faf7078f050b417d362346',
-  ),
-  'collserve-com' => 
-  array (
-    'companyname' => 'collserve.com',
-    'companyemail' => 'webmaster at collserve dot com',
-    'companyurl' => 'http://collserve.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7576eaccf60f31b12d3edf70d603d16c',
   ),
   'youku-com' => 
   array (
@@ -33264,15 +33165,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b95cfd4371d7f778d64b1fe0f4032edc',
-  ),
-  'jtwointer-com' => 
-  array (
-    'companyname' => 'j2inter.com',
-    'companyemail' => 'webmaster at j2inter dot com',
-    'companyurl' => 'http://j2inter.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6c2e8dc95c82e648a09c29706503bdb8',
   ),
   'aspplayground-net' => 
   array (
@@ -33454,6 +33346,15 @@
     'companyrbntype' => '',
     'key' => 'c8d8d776201c30de995bf638f1d076d1',
   ),
+  'vitalk-vn' => 
+  array (
+    'companyname' => 'vitalk.vn',
+    'companyemail' => 'webmaster at vitalk dot vn',
+    'companyurl' => 'http://vitalk.vn',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '94d5f4037447d8da16723d045d08db25',
+  ),
   'nsimg-net' => 
   array (
     'companyname' => 'nsimg.net',
@@ -33472,6 +33373,15 @@
     'companyrbntype' => '',
     'key' => '6e75dbd68c9e28a27914072f27c22102',
   ),
+  'craigslist-pt' => 
+  array (
+    'companyname' => 'craigslist.pt',
+    'companyemail' => 'webmaster at craigslist dot pt',
+    'companyurl' => 'http://craigslist.pt',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd3bf2804a8b321c5d3128d83c9a04fec',
+  ),
   'linkbolic-com' => 
   array (
     'companyname' => 'linkbolic.com',
@@ -33489,6 +33399,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd37bf203826e2bfda64ea35bd06881b1',
+  ),
+  'ebay-ca' => 
+  array (
+    'companyname' => 'ebay.ca',
+    'companyemail' => 'webmaster at ebay dot ca',
+    'companyurl' => 'http://ebay.ca',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '239379eb4223bbda646879f7a6bf1d5b',
   ),
   'gmw-cn' => 
   array (
@@ -33723,6 +33642,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f8cb0e7e0be6e8b129bcde8633a2a79a',
+  ),
+  'codility-com' => 
+  array (
+    'companyname' => 'codility.com',
+    'companyemail' => 'webmaster at codility dot com',
+    'companyurl' => 'https://codility.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4af1336069c757242bde36237a0e0867',
   ),
   'hayhaytv-vn' => 
   array (
@@ -33967,6 +33895,15 @@
     'companyrbntype' => '',
     'key' => '87e795ec532c054323e24b6be914f512',
   ),
+  'nqofpsk-cc' => 
+  array (
+    'companyname' => 'nqofpsk.cc',
+    'companyemail' => 'webmaster at nqofpsk dot cc',
+    'companyurl' => 'http://nqofpsk.cc',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'fa512ddf63b79164175cd8c1ccfde81a',
+  ),
   'vicf-fi' => 
   array (
     'companyname' => 'vicf.fi',
@@ -34002,15 +33939,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '6120d07348b1058657a880902a422f73',
-  ),
-  'houselogic-com' => 
-  array (
-    'companyname' => 'houselogic.com',
-    'companyemail' => 'webmaster at houselogic dot com',
-    'companyurl' => 'http://houselogic.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5849411b0dfe607a5b4169d88d63090e',
   ),
   'nwacmz-cn' => 
   array (
@@ -34129,15 +34057,6 @@
     'companyrbntype' => '',
     'key' => '4f19883f80f6340465ee611b4c0639a6',
   ),
-  'jihadwatch-org' => 
-  array (
-    'companyname' => 'jihadwatch.org',
-    'companyemail' => 'webmaster at jihadwatch dot org',
-    'companyurl' => 'http://jihadwatch.org',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '20d515452a92b004b062bdaef54cf629',
-  ),
   'cbs-com' => 
   array (
     'companyname' => 'cbs.com',
@@ -34210,6 +34129,15 @@
     'companyrbntype' => '',
     'key' => 'ae28727fae13152788f803751677e31b',
   ),
+  'lnkdatas-com' => 
+  array (
+    'companyname' => 'lnkdatas.com',
+    'companyemail' => 'webmaster at lnkdatas dot com',
+    'companyurl' => 'http://lnkdatas.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3c1552d2fa0b6bb8b96bbfa5df2ff6b9',
+  ),
   'worldstarhiphop-com' => 
   array (
     'companyname' => 'worldstarhiphop.com',
@@ -34263,6 +34191,24 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e8fc754602fd8e35f9f55a84a2e57b98',
+  ),
+  'wvjxq-info' => 
+  array (
+    'companyname' => 'wvjxq.info',
+    'companyemail' => 'webmaster at wvjxq dot info',
+    'companyurl' => 'http://wvjxq.info',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '82b3378eaa1b561c352e78377eccf15e',
+  ),
+  'anine-com' => 
+  array (
+    'companyname' => 'a9.com',
+    'companyemail' => 'webmaster at a9 dot com',
+    'companyurl' => 'http://www.a9.com/work-with-us/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4fb47962406b410f9aa95b5a6fb447ce',
   ),
   'ashleyrnadison-com' => 
   array (
@@ -34372,15 +34318,6 @@
     'companyrbntype' => '',
     'key' => '98c31edc370bf6dda47ed2d69fad00db',
   ),
-  'foursquare-com' => 
-  array (
-    'companyname' => 'foursquare.com',
-    'companyemail' => 'webmaster at foursquare dot com',
-    'companyurl' => 'https://foursquare.com/jobs/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8253b56d8987d866cd318e5e940560f8',
-  ),
   'realcleardefense-com' => 
   array (
     'companyname' => 'realcleardefense.com',
@@ -34425,6 +34362,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '4be55e079e785f88bb9db3a6aaa025a4',
+  ),
+  'rubrik-com' => 
+  array (
+    'companyname' => 'rubrik.com',
+    'companyemail' => 'webmaster at rubrik dot com',
+    'companyurl' => 'https://www.rubrik.com/company/careers/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0682b54b4c42e91d542e8d11b5db9153',
   ),
   'paragaranti-com' => 
   array (
@@ -34488,15 +34434,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '76f2ebdd243ce8356735b5297f202328',
-  ),
-  'minhavida-com-br' => 
-  array (
-    'companyname' => 'minhavida.com.br',
-    'companyemail' => 'webmaster at minhavida dot com dot br',
-    'companyurl' => 'http://minhavida.com.br',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2e9fce0bdbcc865a4fcb566cc6c09d25',
   ),
   'uploaded-net' => 
   array (
@@ -34579,15 +34516,6 @@
     'companyrbntype' => '',
     'key' => '5ed20a4bf62abb6db4590756ab0391e9',
   ),
-  'visiblemeasures-com' => 
-  array (
-    'companyname' => 'visiblemeasures.com',
-    'companyemail' => 'webmaster at visiblemeasures dot com',
-    'companyurl' => 'http://visiblemeasures.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ff4be79ba93f7e69e33773d3b943d956',
-  ),
   'moceanads-com' => 
   array (
     'companyname' => 'moceanads.com',
@@ -34632,15 +34560,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e3b12b462175ad42a021ce268e05da17',
-  ),
-  'vidcore-tv' => 
-  array (
-    'companyname' => 'vidcore.tv',
-    'companyemail' => 'webmaster at vidcore dot tv',
-    'companyurl' => 'http://vidcore.tv',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3cfac189cebb49414a990fb14ed433ca',
   ),
   'tapstream-com' => 
   array (
@@ -34696,6 +34615,15 @@
     'companyrbntype' => '',
     'key' => 'f33d96a9cf3cbae54b5f12d224d63e4b',
   ),
+  'typography-com' => 
+  array (
+    'companyname' => 'typography.com',
+    'companyemail' => 'webmaster at typography dot com',
+    'companyurl' => 'http://typography.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0e0a21e121ed8b9d1b05934a15d275ae',
+  ),
   'omgfacts-com' => 
   array (
     'companyname' => 'omgfacts.com',
@@ -34714,6 +34642,15 @@
     'companyrbntype' => '',
     'key' => '6db5220a0c9f4ffcfde8fc6af16b4b75',
   ),
+  'reinteractive-net' => 
+  array (
+    'companyname' => 'reinteractive.net',
+    'companyemail' => 'webmaster at reinteractive dot net',
+    'companyurl' => 'https://reinteractive.net/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd79fbba3823cdb4ac3914e13112368f9',
+  ),
   'nickmom-com' => 
   array (
     'companyname' => 'nickmom.com',
@@ -34722,6 +34659,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '374eb437faa40ff34330522d05555d51',
+  ),
+  'corriereobjects-it' => 
+  array (
+    'companyname' => 'corriereobjects.it',
+    'companyemail' => 'webmaster at corriereobjects dot it',
+    'companyurl' => 'http://corriereobjects.it',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e582e8ca6ad522f21df6ecedcf32d0c1',
   ),
   'olist-com' => 
   array (
@@ -34858,6 +34804,15 @@
     'companyrbntype' => '',
     'key' => 'a3ef21e86af077d8600168f2be8d3755',
   ),
+  'torrentfreak-com' => 
+  array (
+    'companyname' => 'torrentfreak.com',
+    'companyemail' => 'webmaster at torrentfreak dot com',
+    'companyurl' => 'http://torrentfreak.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '92a361e22a8c10f1db9dc24b66b1876a',
+  ),
   'factiva-com' => 
   array (
     'companyname' => 'factiva.com',
@@ -34939,15 +34894,6 @@
     'companyrbntype' => '',
     'key' => 'f8a497a923ad9066af904aa605d178fa',
   ),
-  'madisonlogic-com' => 
-  array (
-    'companyname' => 'madisonlogic.com',
-    'companyemail' => 'webmaster at madisonlogic dot com',
-    'companyurl' => 'http://madisonlogic.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd4818e28edb4f96165188aca69b4a1ed',
-  ),
   'universit-t-osnabr-ck' => 
   array (
     'companyname' => 'Universität Osnabrück',
@@ -35001,6 +34947,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '88b82504dd4248e88876973cbecb611b',
+  ),
+  'chicagobusiness-com' => 
+  array (
+    'companyname' => 'chicagobusiness.com',
+    'companyemail' => 'webmaster at chicagobusiness dot com',
+    'companyurl' => 'http://chicagobusiness.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '31244d96cff032c458fd0d53922db08b',
   ),
   'our-hometown-com' => 
   array (
@@ -35254,6 +35209,15 @@
     'companyrbntype' => '',
     'key' => 'dcc221b62310029a4cb2cfcacf74b61d',
   ),
+  'quantcast-com' => 
+  array (
+    'companyname' => 'quantcast.com',
+    'companyemail' => 'webmaster at quantcast dot com',
+    'companyurl' => 'http://quantcast.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '58b8d991fd90f6a84ba1b042ba68891b',
+  ),
   'betbooaffiliates-com' => 
   array (
     'companyname' => 'betbooaffiliates.com',
@@ -35389,6 +35353,15 @@
     'companyrbntype' => '',
     'key' => 'f73e696e60ddbaf0cfe770a162cee13f',
   ),
+  'leafletjs-com' => 
+  array (
+    'companyname' => 'leafletjs.com',
+    'companyemail' => 'webmaster at leafletjs dot com',
+    'companyurl' => 'http://leafletjs.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0f4ad52006c47f5feed39f666a012547',
+  ),
   'ae-studio' => 
   array (
     'companyname' => 'ae.studio',
@@ -35451,15 +35424,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9afd7bb737583e42c255a6e3d92b0707',
-  ),
-  'jstor-org' => 
-  array (
-    'companyname' => 'jstor.org',
-    'companyemail' => 'webmaster at jstor dot org',
-    'companyurl' => 'http://jstor.org',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '92a984b0ae2f082e62c15442c7a6b51a',
   ),
   'directadvert-ru' => 
   array (
@@ -35650,6 +35614,15 @@
     'companyrbntype' => '',
     'key' => '08c71c7067571b6c026a00a6d16141c4',
   ),
+  'bitfalcon-tv' => 
+  array (
+    'companyname' => 'bitfalcon.tv',
+    'companyemail' => 'webmaster at bitfalcon dot tv',
+    'companyurl' => 'http://bitfalcon.tv',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '24787f3c4a4be35ebfb341a18208e08d',
+  ),
   'miniclipcdn-com' => 
   array (
     'companyname' => 'miniclipcdn.com',
@@ -35658,15 +35631,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5ed3701d8e2d448cfb8de781ce92be7d',
-  ),
-  'cafemomstatic-com' => 
-  array (
-    'companyname' => 'cafemomstatic.com',
-    'companyemail' => 'webmaster at cafemomstatic dot com',
-    'companyurl' => 'http://cafemomstatic.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'e0645e6a42e29249afcdbffa1d0feb65',
   ),
   'crisppremium-com' => 
   array (
@@ -35685,6 +35649,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '9dd7411d1995c329402b04ba03d8ab6a',
+  ),
+  'webtrekk-com' => 
+  array (
+    'companyname' => 'webtrekk.com',
+    'companyemail' => 'webmaster at webtrekk dot com',
+    'companyurl' => 'http://webtrekk.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'bc2cc44b05ab4364fabbd42b99a39bd7',
   ),
   'oracle-com' => 
   array (
@@ -35712,6 +35685,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1a04affdc7c05f63c2e8d1b0e32ab07a',
+  ),
+  'coveritlive-com' => 
+  array (
+    'companyname' => 'coveritlive.com',
+    'companyemail' => 'webmaster at coveritlive dot com',
+    'companyurl' => 'http://coveritlive.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5db620e7d50011b3b10fb666156b7058',
   ),
   'globalsign-net' => 
   array (
@@ -35776,6 +35758,15 @@
     'companyrbntype' => '',
     'key' => 'ef6c0dca41ab68123ef5e4485cdce69b',
   ),
+  'mozillalabs-com' => 
+  array (
+    'companyname' => 'mozillalabs.com',
+    'companyemail' => 'webmaster at mozillalabs dot com',
+    'companyurl' => 'http://mozillalabs.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '479d79f63be45489682f594a2c50234b',
+  ),
   'nj-com' => 
   array (
     'companyname' => 'nj.com',
@@ -35839,6 +35830,15 @@
     'companyrbntype' => '',
     'key' => 'c81d527b5643b61db9fa90a59004f261',
   ),
+  'aliqin-cn' => 
+  array (
+    'companyname' => 'aliqin.cn',
+    'companyemail' => 'webmaster at aliqin dot cn',
+    'companyurl' => 'http://aliqin.cn',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3c2da37a8ec20cafb2b852ca654aef42',
+  ),
   'sgnapps-com' => 
   array (
     'companyname' => 'sgnapps.com',
@@ -35856,6 +35856,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '42727e82b11764bfe4f14d5282e6ef4c',
+  ),
+  'admaxserver-com' => 
+  array (
+    'companyname' => 'admaxserver.com',
+    'companyemail' => 'webmaster at admaxserver dot com',
+    'companyurl' => 'http://admaxserver.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '97bf4cada80e1b3f0d14155f295ce2f5',
   ),
   'visoko-info' => 
   array (
@@ -35893,14 +35902,14 @@
     'companyrbntype' => '',
     'key' => 'cd0c7af3cd7ab968da39f8466c4340c0',
   ),
-  'google-com-bd' => 
+  'scala-lang-org' => 
   array (
-    'companyname' => 'google.com.bd',
-    'companyemail' => 'webmaster at google dot com dot bd',
-    'companyurl' => 'http://google.com.bd',
+    'companyname' => 'scala-lang.org',
+    'companyemail' => 'webmaster at scala-lang dot org',
+    'companyurl' => 'http://www.scala-lang.org/old/faq',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '705eed662d2b8446476bd6b64a3f5adb',
+    'key' => 'a88dc1aed7d5ed1b9a7a4247e759b21d',
   ),
   'soostone-com' => 
   array (
@@ -36127,15 +36136,6 @@
     'companyrbntype' => '',
     'key' => '20ff4600c88e3bc0544b762b3a03140e',
   ),
-  'bstk-co' => 
-  array (
-    'companyname' => 'bstk.co',
-    'companyemail' => 'webmaster at bstk dot co',
-    'companyurl' => 'http://bstk.co',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9c0b2141c1f9da7cc9c287511b98f56d',
-  ),
   'adtrixi-com' => 
   array (
     'companyname' => 'adtrixi.com',
@@ -36208,6 +36208,15 @@
     'companyrbntype' => '',
     'key' => '8890335daa2f57b7b0e24de4fd7e59e5',
   ),
+  'ntius-com' => 
+  array (
+    'companyname' => 'ntius.com',
+    'companyemail' => 'webmaster at ntius dot com',
+    'companyurl' => 'http://ntius.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f23d656d0250cb32cbb038b72b47da4a',
+  ),
   'twofourh-com-vn' => 
   array (
     'companyname' => '24h.com.vn',
@@ -36271,15 +36280,6 @@
     'companyrbntype' => '',
     'key' => '8309c9eed739e5d9f42b9ad368591402',
   ),
-  'andyet-com' => 
-  array (
-    'companyname' => 'andyet.com',
-    'companyemail' => 'webmaster at andyet dot com',
-    'companyurl' => 'https://andyet.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '45664a2e9de416e0aca4149901699ac0',
-  ),
   'lienminhhuyenthoai-vn' => 
   array (
     'companyname' => 'lienminhhuyenthoai.vn',
@@ -36297,6 +36297,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1bde9ce40d6a776d3839f7b79d38865f',
+  ),
+  'invodo-com' => 
+  array (
+    'companyname' => 'invodo.com',
+    'companyemail' => 'webmaster at invodo dot com',
+    'companyurl' => 'http://invodo.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7e0ea6ab64763f413d4d6a60f5bc60a6',
   ),
   'fourchan-org' => 
   array (
@@ -36351,15 +36360,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd6014c230915519b3e42c862d304148e',
-  ),
-  'sndimg-com' => 
-  array (
-    'companyname' => 'sndimg.com',
-    'companyemail' => 'webmaster at sndimg dot com',
-    'companyurl' => 'http://sndimg.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'bf425d210c3dc1937b4861aaf20f8058',
   ),
   'mediaset-it' => 
   array (
@@ -36460,6 +36460,15 @@
     'companyrbntype' => '',
     'key' => '0a8801645a479acb6d592c0db9af42a7',
   ),
+  'adidas-com' => 
+  array (
+    'companyname' => 'adidas.com',
+    'companyemail' => 'webmaster at adidas dot com',
+    'companyurl' => 'http://adidas.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '61ec3df8b93f024b0697814ac35ff9d8',
+  ),
   'brookings-edu' => 
   array (
     'companyname' => 'brookings.edu',
@@ -36469,14 +36478,14 @@
     'companyrbntype' => '',
     'key' => '18c06af162e7ec331a70c73fb1157139',
   ),
-  'felgdent-com' => 
+  'laserfiche-com' => 
   array (
-    'companyname' => 'felgdent.com',
-    'companyemail' => 'webmaster at felgdent dot com',
-    'companyurl' => 'http://felgdent.com',
+    'companyname' => 'laserfiche.com',
+    'companyemail' => 'webmaster at laserfiche dot com',
+    'companyurl' => 'http://jobs.laserfiche.com/',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '7b9c1c5751e91521de3f03aa16847e01',
+    'key' => '6016c9853561f53b2e3b379fb0f9edcd',
   ),
   'newshost-co-za' => 
   array (
@@ -36495,15 +36504,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'beeede05fea115c4241abfdd997cb5f9',
-  ),
-  'cosmopolitan-com' => 
-  array (
-    'companyname' => 'cosmopolitan.com',
-    'companyemail' => 'webmaster at cosmopolitan dot com',
-    'companyurl' => 'http://cosmopolitan.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5235e02f345256a0c6c5f5c414a35327',
   ),
   'globalguideline-com' => 
   array (
@@ -36558,15 +36558,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b5713382ae33df313e5c7dfb44e1691d',
-  ),
-  'maxpreps-com' => 
-  array (
-    'companyname' => 'maxpreps.com',
-    'companyemail' => 'webmaster at maxpreps dot com',
-    'companyurl' => 'http://maxpreps.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '83bcbbae45f486f4dbba6b36d86c715a',
   ),
   'lphbs-com' => 
   array (
@@ -36694,15 +36685,6 @@
     'companyrbntype' => '',
     'key' => '3cff76be55540f0af0ac6fbaf6a7c674',
   ),
-  'inhersight-com' => 
-  array (
-    'companyname' => 'inhersight.com',
-    'companyemail' => 'webmaster at inhersight dot com',
-    'companyurl' => 'https://www.inhersight.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '31052aa4ae91ae84548f445595944f44',
-  ),
   'escapehere-com' => 
   array (
     'companyname' => 'escapehere.com',
@@ -36747,15 +36729,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f7a82819d03eb77c88bd03bd0ee5719a',
-  ),
-  'appleinsider-com' => 
-  array (
-    'companyname' => 'appleinsider.com',
-    'companyemail' => 'webmaster at appleinsider dot com',
-    'companyurl' => 'http://appleinsider.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b5959d1efa0e60b9c177876c220ef173',
   ),
   'dl-rms-com' => 
   array (
@@ -36901,15 +36874,6 @@
     'companyrbntype' => '',
     'key' => '87cc63139f3cce922661185c5cdd7ea5',
   ),
-  'hit-ua' => 
-  array (
-    'companyname' => 'hit.ua',
-    'companyemail' => 'webmaster at hit dot ua',
-    'companyurl' => 'http://hit.ua',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '82ec0fa4ee467719611f75b4d62737c4',
-  ),
   'taplytics-com' => 
   array (
     'companyname' => 'taplytics.com',
@@ -37000,6 +36964,15 @@
     'companyrbntype' => '',
     'key' => '4977d15d50ed035a89634c0a8fbb8ae5',
   ),
+  'zulily-com' => 
+  array (
+    'companyname' => 'zulily.com',
+    'companyemail' => 'webmaster at zulily dot com',
+    'companyurl' => 'http://zulily.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '767fac2d41caee5f3dcfcf4fe4be859d',
+  ),
   'photorank-me' => 
   array (
     'companyname' => 'photorank.me',
@@ -37054,6 +37027,15 @@
     'companyrbntype' => '',
     'key' => '61ac329e7b85e3b86aaef6fb41b2d4b6',
   ),
+  'runnersworld-com' => 
+  array (
+    'companyname' => 'runnersworld.com',
+    'companyemail' => 'webmaster at runnersworld dot com',
+    'companyurl' => 'http://runnersworld.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '63c01069daf35b56919fb64829f7b6dd',
+  ),
   'berries-com' => 
   array (
     'companyname' => 'berries.com',
@@ -37062,33 +37044,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '953ef243800feae2bc239f910e773111',
-  ),
-  'dice-com' => 
-  array (
-    'companyname' => 'dice.com',
-    'companyemail' => 'webmaster at dice dot com',
-    'companyurl' => 'http://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1513297f38992921c214f7141288044a',
-  ),
-  'fedoraproject-org' => 
-  array (
-    'companyname' => 'fedoraproject.org',
-    'companyemail' => 'webmaster at fedoraproject dot org',
-    'companyurl' => 'http://fedoraproject.org',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7113e14485034a6b67bd45b6be238ca9',
-  ),
-  'tccdn-com' => 
-  array (
-    'companyname' => 'tccdn.com',
-    'companyemail' => 'webmaster at tccdn dot com',
-    'companyurl' => 'http://tccdn.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8a3c825f30988081733dbc9bd8e0573c',
   ),
   'muckrack-com' => 
   array (
@@ -37161,6 +37116,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '97f528485bc917625b8669fd8334e9cf',
+  ),
+  'seedceo-com' => 
+  array (
+    'companyname' => 'seedceo.com',
+    'companyemail' => 'webmaster at seedceo dot com',
+    'companyurl' => 'http://seedceo.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '38de34a4232ac1ca8db9dc4ed8b787e7',
   ),
   'go-com' => 
   array (
@@ -37441,6 +37405,15 @@
     'companyrbntype' => '',
     'key' => '3f589faa8f99cfce9a61471e0e5fef21',
   ),
+  'ipsgroupinc-com' => 
+  array (
+    'companyname' => 'ipsgroupinc.com',
+    'companyemail' => 'webmaster at ipsgroupinc dot com',
+    'companyurl' => 'http://www.ipsgroupinc.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5e62e42f54f5b957c1ff147ab544906b',
+  ),
   'wikimediafoundation-org' => 
   array (
     'companyname' => 'wikimediafoundation.org',
@@ -37459,6 +37432,15 @@
     'companyrbntype' => '',
     'key' => '5875524ba89a7d20dee48bb9a48b4278',
   ),
+  'zst-com-br' => 
+  array (
+    'companyname' => 'zst.com.br',
+    'companyemail' => 'webmaster at zst dot com dot br',
+    'companyurl' => 'http://zst.com.br',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '840190d3063264a2fdc529fa7e89d629',
+  ),
   'chewy-com' => 
   array (
     'companyname' => 'chewy.com',
@@ -37467,6 +37449,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '96992f432888bf8c56300ff76fb03aec',
+  ),
+  'speedial-com' => 
+  array (
+    'companyname' => 'speedial.com',
+    'companyemail' => 'webmaster at speedial dot com',
+    'companyurl' => 'http://speedial.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f919b789bc1668279d2c11169b932404',
   ),
   'lambdaschool-com' => 
   array (
@@ -37657,6 +37648,15 @@
     'companyrbntype' => '',
     'key' => '9d2dfdd168293fbe0c25bbb93d800062',
   ),
+  'saurashtra-university' => 
+  array (
+    'companyname' => 'Saurashtra University',
+    'companyemail' => 'webmaster at saurashtrauniversity dot edu',
+    'companyurl' => 'http://www.saurashtrauniversity.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '42867ef5b817ffcfa3ac46f83478dbcc',
+  ),
   'microsoftonline-com' => 
   array (
     'companyname' => 'microsoftonline.com',
@@ -37792,6 +37792,15 @@
     'companyrbntype' => '',
     'key' => 'db1efe1b093704439f1b1cec8eae9a00',
   ),
+  'xzuai-biz' => 
+  array (
+    'companyname' => 'xzuai.biz',
+    'companyemail' => 'webmaster at xzuai dot biz',
+    'companyurl' => 'http://xzuai.biz',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ec06a321bc0f6781cfa8da7fb56b2117',
+  ),
   'kataweb-it' => 
   array (
     'companyname' => 'kataweb.it',
@@ -37800,15 +37809,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2c813753a604dc895434d05562091e14',
-  ),
-  'condenast-com' => 
-  array (
-    'companyname' => 'condenast.com',
-    'companyemail' => 'webmaster at condenast dot com',
-    'companyurl' => 'http://condenast.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'e62d618b9ca0087bdc8becdbedfdac9f',
   ),
   'neweggflash-com' => 
   array (
@@ -37882,15 +37882,6 @@
     'companyrbntype' => '',
     'key' => '3f4c73662b5ab2bbf77f073d2e84c8a9',
   ),
-  'cuteo-vn' => 
-  array (
-    'companyname' => 'cuteo.vn',
-    'companyemail' => 'webmaster at cuteo dot vn',
-    'companyurl' => 'http://cuteo.vn',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ccd5d6d6b229951a0f384d44b14c7a4a',
-  ),
   'vcdn-vn' => 
   array (
     'companyname' => 'vcdn.vn',
@@ -37908,15 +37899,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0ac33706faa16d3bc2a72204f623faf7',
-  ),
-  'digicert-com' => 
-  array (
-    'companyname' => 'digicert.com',
-    'companyemail' => 'webmaster at digicert dot com',
-    'companyurl' => 'http://digicert.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2fd94a50e324644935dd3a6761bc67f7',
   ),
   'securenetconnection-com' => 
   array (
@@ -37945,15 +37927,6 @@
     'companyrbntype' => '',
     'key' => '5bae59a293344c4ab5440720f4bc6ee3',
   ),
-  'customer-io' => 
-  array (
-    'companyname' => 'customer.io',
-    'companyemail' => 'webmaster at customer dot io',
-    'companyurl' => 'https://customer.io/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '57bdde62ff252322fd33e4099c7dcd6e',
-  ),
   'justgetflux-com' => 
   array (
     'companyname' => 'justgetflux.com',
@@ -37980,6 +37953,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd9bf9e5ac3ea21522f72fa61f6db63d4',
+  ),
+  'ksfmedia-fi' => 
+  array (
+    'companyname' => 'ksfmedia.fi',
+    'companyemail' => 'webmaster at ksfmedia dot fi',
+    'companyurl' => 'https://ksfmedia.fi/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b0ce2c19422840398b5bc7295d14db59',
   ),
   'tjzfkph-org' => 
   array (
@@ -38080,6 +38062,15 @@
     'companyrbntype' => '',
     'key' => '764a3151e1228bc962e278e6475c2fb8',
   ),
+  'betterup-co' => 
+  array (
+    'companyname' => 'betterup.co',
+    'companyemail' => 'webmaster at betterup dot co',
+    'companyurl' => 'https://betterup.co/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'bef7e0fc4fcd695cde6f269383a57a42',
+  ),
   'varzeshthree-com' => 
   array (
     'companyname' => 'varzesh3.com',
@@ -38116,6 +38107,15 @@
     'companyrbntype' => '',
     'key' => '9047d7bc1e3253acff1c20e607d59abd',
   ),
+  'adlooxtracking-com' => 
+  array (
+    'companyname' => 'adlooxtracking.com',
+    'companyemail' => 'webmaster at adlooxtracking dot com',
+    'companyurl' => 'http://adlooxtracking.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '66bf8037e457e59266f87698b18e4660',
+  ),
   'consumerfinance-gov' => 
   array (
     'companyname' => 'consumerfinance.gov',
@@ -38124,6 +38124,24 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1e4f0106373e32aa4563011e02887734',
+  ),
+  'dolphin-browser-cn' => 
+  array (
+    'companyname' => 'dolphin-browser.cn',
+    'companyemail' => 'webmaster at dolphin-browser dot cn',
+    'companyurl' => 'http://dolphin-browser.cn',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ad4bc96f97ef4d18ed69283508766783',
+  ),
+  'bogotobogo-com' => 
+  array (
+    'companyname' => 'bogotobogo.com',
+    'companyemail' => 'webmaster at bogotobogo dot com',
+    'companyurl' => 'http://www.bogotobogo.com/python/python_interview_questions.php',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b31f9074e61cec342ff465bbdb4c6136',
   ),
   'theage-com-au' => 
   array (
@@ -38250,6 +38268,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd96b7fc0a52d08d8fe736086adf0d806',
+  ),
+  'the-best-adults-vine-com' => 
+  array (
+    'companyname' => 'the-best-adults-vine.com',
+    'companyemail' => 'webmaster at the-best-adults-vine dot com',
+    'companyurl' => 'http://the-best-adults-vine.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '60e1776533984af48abb372180dc9f24',
   ),
   'appfolioinc-com' => 
   array (
@@ -38503,15 +38530,6 @@
     'companyrbntype' => '',
     'key' => 'ee81e6c091dd6ec18d609e457a220366',
   ),
-  'audiense-com' => 
-  array (
-    'companyname' => 'audiense.com',
-    'companyemail' => 'webmaster at audiense dot com',
-    'companyurl' => 'http://www.audiense.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'de04f0796b9aa33a0310af3bb3bf6cf8',
-  ),
   'centro-net' => 
   array (
     'companyname' => 'centro.net',
@@ -38529,15 +38547,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e2d8cf90c0ed67d6cf797cbec0d80f4f',
-  ),
-  'fivesec-info' => 
-  array (
-    'companyname' => '5sec.info',
-    'companyemail' => 'webmaster at 5sec dot info',
-    'companyurl' => 'http://5sec.info',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '247bd223cb27a755339496f048c9067f',
   ),
   'serit-no' => 
   array (
@@ -38664,15 +38673,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'fef46adca8831a9619c2b0ae982cbc06',
-  ),
-  'acquia-com' => 
-  array (
-    'companyname' => 'acquia.com',
-    'companyemail' => 'webmaster at acquia dot com',
-    'companyurl' => 'https://www.acquia.com/careers/open-positions',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'cf76e0f4f4672ba33668716dda37f9a0',
   ),
   'roomkey-com' => 
   array (
@@ -38827,6 +38827,24 @@
     'companyrbntype' => '',
     'key' => '31f54217c1ecbb541c0ad140bea45a41',
   ),
+  'instapaper-com' => 
+  array (
+    'companyname' => 'instapaper.com',
+    'companyemail' => 'webmaster at instapaper dot com',
+    'companyurl' => 'http://instapaper.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '310ba1fb85f5686f59a088e11757b344',
+  ),
+  'shopyourway-com' => 
+  array (
+    'companyname' => 'shopyourway.com',
+    'companyemail' => 'webmaster at shopyourway dot com',
+    'companyurl' => 'http://shopyourway.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0f2f6412364d0a5d237105636de83209',
+  ),
   'onefootball-com' => 
   array (
     'companyname' => 'onefootball.com',
@@ -38863,15 +38881,6 @@
     'companyrbntype' => '',
     'key' => 'a4e26216436717b31e6596e11bb49506',
   ),
-  'nflximg-net' => 
-  array (
-    'companyname' => 'nflximg.net',
-    'companyemail' => 'webmaster at nflximg dot net',
-    'companyurl' => 'http://nflximg.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '21bc3cfa1f9ae4a417b404027a62325a',
-  ),
   'ninegame-com' => 
   array (
     'companyname' => '9game.com',
@@ -38889,6 +38898,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '6d77d6efedbaac0335c2cb50b7286680',
+  ),
+  'onclasrv-com' => 
+  array (
+    'companyname' => 'onclasrv.com',
+    'companyemail' => 'webmaster at onclasrv dot com',
+    'companyurl' => 'http://onclasrv.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'cc987b7a28cd963aae51ed1ed065f91b',
   ),
   'elastic-co' => 
   array (
@@ -38970,15 +38988,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5a708dcde828671c332e205b645adc17',
-  ),
-  'comprises-info' => 
-  array (
-    'companyname' => 'comprises.info',
-    'companyemail' => 'webmaster at comprises dot info',
-    'companyurl' => 'http://comprises.info',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd2d0ba1cc12fd5d7116f4e4001e3ae09',
   ),
   'cumulus-cloud-com' => 
   array (
@@ -39286,6 +39295,15 @@
     'companyrbntype' => '',
     'key' => '3ff5f9f6918df1f5c340896cdf6d033b',
   ),
+  'canoe-ca' => 
+  array (
+    'companyname' => 'canoe.ca',
+    'companyemail' => 'webmaster at canoe dot ca',
+    'companyurl' => 'http://canoe.ca',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '94412cf1024285bfbbac236305567827',
+  ),
   'realclearworld-com' => 
   array (
     'companyname' => 'realclearworld.com',
@@ -39466,6 +39484,15 @@
     'companyrbntype' => '',
     'key' => '0dfa557dc1dc42357e4c19cd71494411',
   ),
+  'g-co' => 
+  array (
+    'companyname' => 'g.co',
+    'companyemail' => 'webmaster at g dot co',
+    'companyurl' => 'http://g.co',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b6f321450d74d8c8ed707d92a4d51c50',
+  ),
   'flic-kr' => 
   array (
     'companyname' => 'flic.kr',
@@ -39510,6 +39537,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '6d6466c11c4b74d903ac964d18319854',
+  ),
+  'felgdent-com' => 
+  array (
+    'companyname' => 'felgdent.com',
+    'companyemail' => 'webmaster at felgdent dot com',
+    'companyurl' => 'http://felgdent.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7b9c1c5751e91521de3f03aa16847e01',
   ),
   'stairlin-com' => 
   array (
@@ -39601,15 +39637,6 @@
     'companyrbntype' => '',
     'key' => 'fbbe0536ff2d78d2efd632be3a0bc17a',
   ),
-  'changelog-com' => 
-  array (
-    'companyname' => 'changelog.com',
-    'companyemail' => 'webmaster at changelog dot com',
-    'companyurl' => 'https://changelog.com/practicalai',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2e6f069360932f926b7b12b50d9ec475',
-  ),
   'flow' => 
   array (
     'companyname' => 'Flow',
@@ -39673,15 +39700,6 @@
     'companyrbntype' => '',
     'key' => '8b4613e326a614c9edf9c505c3c28738',
   ),
-  'sessioncam-com' => 
-  array (
-    'companyname' => 'sessioncam.com',
-    'companyemail' => 'webmaster at sessioncam dot com',
-    'companyurl' => 'http://sessioncam.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'e699165a7f9772f743e14d2a461ac5bf',
-  ),
   'edx-org' => 
   array (
     'companyname' => 'edx.org',
@@ -39726,15 +39744,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '73ac0d00bacddf258a6678a751270ec2',
-  ),
-  'eyeo-com' => 
-  array (
-    'companyname' => 'eyeo.com',
-    'companyemail' => 'webmaster at eyeo dot com',
-    'companyurl' => 'https://eyeo.com/jobs/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1d35ba38e9c41e80298d3b583ffefad1',
   ),
   'relexsolutions-com' => 
   array (
@@ -39970,14 +39979,14 @@
     'companyrbntype' => '',
     'key' => '4a28c70c8593f8d055d21c3c954618d3',
   ),
-  'adobesc-com' => 
+  'xnaocbyr-com' => 
   array (
-    'companyname' => 'adobesc.com',
-    'companyemail' => 'webmaster at adobesc dot com',
-    'companyurl' => 'http://adobesc.com',
+    'companyname' => 'xnaocbyr.com',
+    'companyemail' => 'webmaster at xnaocbyr dot com',
+    'companyurl' => 'http://xnaocbyr.com',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'e1f1f41097254d7c119495f503e6aa4e',
+    'key' => 'd719af9a8f70c8aeb6149005c851a108',
   ),
   'chinhphu-vn' => 
   array (
@@ -40114,15 +40123,6 @@
     'companyrbntype' => '',
     'key' => '2e4845992f712a2c764fea89839574ac',
   ),
-  'onefourzeroproof-com' => 
-  array (
-    'companyname' => '140proof.com',
-    'companyemail' => 'webmaster at 140proof dot com',
-    'companyurl' => 'http://140proof.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'c9da8a244dd5f9e8e2101adbe111811f',
-  ),
   'dictionary-com' => 
   array (
     'companyname' => 'dictionary.com',
@@ -40195,15 +40195,6 @@
     'companyrbntype' => '',
     'key' => '3eae6bfbd5dbdfcf75b1787359abf310',
   ),
-  'inkonezerozeroone-com' => 
-  array (
-    'companyname' => 'ink1001.com',
-    'companyemail' => 'webmaster at ink1001 dot com',
-    'companyurl' => 'http://ink1001.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '20303c8b7b632fd30efdb798ffb69745',
-  ),
   'mediaweek-com' => 
   array (
     'companyname' => 'mediaweek.com',
@@ -40258,6 +40249,15 @@
     'companyrbntype' => '',
     'key' => 'a03eefa5e77c6923703960bcb4ed00f2',
   ),
+  'iqhgbjuzi-biz' => 
+  array (
+    'companyname' => 'iqhgbjuzi.biz',
+    'companyemail' => 'webmaster at iqhgbjuzi dot biz',
+    'companyurl' => 'http://iqhgbjuzi.biz',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5dcfa1cf84c967a3565a906cf32342c2',
+  ),
   'gopaktor-com' => 
   array (
     'companyname' => 'gopaktor.com',
@@ -40293,15 +40293,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ce0c3b30f47ed779d4c74a3b3ce23756',
-  ),
-  'nodesk-co' => 
-  array (
-    'companyname' => 'nodesk.co',
-    'companyemail' => 'webmaster at nodesk dot co',
-    'companyurl' => 'https://nodesk.co/remote-jobs/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5cd513e17eac7f77e236511b9b34aeb0',
   ),
   'esoui-com' => 
   array (
@@ -40474,15 +40465,6 @@
     'companyrbntype' => '',
     'key' => 'fbefaa76a81e0c6e7a81971c5c860cec',
   ),
-  'startpagetwofour-com' => 
-  array (
-    'companyname' => 'startpage24.com',
-    'companyemail' => 'webmaster at startpage24 dot com',
-    'companyurl' => 'http://startpage24.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '70f64a77097aeda5f572b8ecfe848efc',
-  ),
   'everestads-net' => 
   array (
     'companyname' => 'everestads.net',
@@ -40545,15 +40527,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '79add4a0872874640ee0b4785f31af54',
-  ),
-  'nioc-ir' => 
-  array (
-    'companyname' => 'nioc.ir',
-    'companyemail' => 'webmaster at nioc dot ir',
-    'companyurl' => 'http://nioc.ir',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8b2aa85e51a736e0e6a0adabc3f1055b',
   ),
   'computershopper-com' => 
   array (
@@ -40645,6 +40618,15 @@
     'companyrbntype' => '',
     'key' => 'a7c4e6895b661bb912ef265e5f9304a7',
   ),
+  'airbnb-com' => 
+  array (
+    'companyname' => 'airbnb.com',
+    'companyemail' => 'webmaster at airbnb dot com',
+    'companyurl' => 'https://www.airbnb.com/careers',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0e065e93cf5acff9a0cb37df55e0f350',
+  ),
   'ptreklam-com-tr' => 
   array (
     'companyname' => 'ptreklam.com.tr',
@@ -40699,6 +40681,15 @@
     'companyrbntype' => '',
     'key' => 'e9a804a9dfb3a501286e555663e8b6d1',
   ),
+  'tribpub-com' => 
+  array (
+    'companyname' => 'tribpub.com',
+    'companyemail' => 'webmaster at tribpub dot com',
+    'companyurl' => 'http://tribpub.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f93a157339d7bd0fec54ce40b4d9421c',
+  ),
   'lifehack-org' => 
   array (
     'companyname' => 'lifehack.org',
@@ -40707,15 +40698,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'be59a8a526668fccc940d6fe0eeda388',
-  ),
-  'netcrawl-info' => 
-  array (
-    'companyname' => 'netcrawl.info',
-    'companyemail' => 'webmaster at netcrawl dot info',
-    'companyurl' => 'http://netcrawl.info',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '28a055f9eb55f55b8c3fa2e6fc864c37',
   ),
   'redtubefiles-com' => 
   array (
@@ -40744,15 +40726,6 @@
     'companyrbntype' => '',
     'key' => '522c3936b4bc193319448dd45939e79e',
   ),
-  'dummy-domain-do-not-change-com' => 
-  array (
-    'companyname' => 'dummy-domain-do-not-change.com',
-    'companyemail' => 'webmaster at dummy-domain-do-not-change dot com',
-    'companyurl' => 'http://dummy-domain-do-not-change.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '36fa20e96d6ef22d50bd086d35924b28',
-  ),
   'powerjobs-com' => 
   array (
     'companyname' => 'powerjobs.com',
@@ -40761,6 +40734,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '316a4be3afc02fe23f84d515a1e80797',
+  ),
+  'loadsys-com' => 
+  array (
+    'companyname' => 'loadsys.com',
+    'companyemail' => 'webmaster at loadsys dot com',
+    'companyurl' => 'https://www.loadsys.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'cda8efb7f642146729f5d52b630be5e0',
   ),
   'bigfoot-net' => 
   array (
@@ -40780,14 +40762,14 @@
     'companyrbntype' => '',
     'key' => '666e1bf5e693176aa9f3e6ad0b8f3d9f',
   ),
-  'ns-img-com' => 
+  'xuite-net' => 
   array (
-    'companyname' => 'ns-img.com',
-    'companyemail' => 'webmaster at ns-img dot com',
-    'companyurl' => 'http://ns-img.com',
+    'companyname' => 'xuite.net',
+    'companyemail' => 'webmaster at xuite dot net',
+    'companyurl' => 'http://xuite.net',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'a6159e3e93f12fb7d8017bd24b0a4a20',
+    'key' => '046a19217b516cdfe67ebbf7f76d17fe',
   ),
   'dianomi-com' => 
   array (
@@ -40924,6 +40906,15 @@
     'companyrbntype' => '',
     'key' => 'f425f5c225accdae7dd97535bf763260',
   ),
+  'rzone-de' => 
+  array (
+    'companyname' => 'rzone.de',
+    'companyemail' => 'webmaster at rzone dot de',
+    'companyurl' => 'http://rzone.de',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '81b458357792e924385252d3bbfe206d',
+  ),
   'ultradns-biz' => 
   array (
     'companyname' => 'ultradns.biz',
@@ -41031,6 +41022,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e65b985f634c34ae534c51dfa5c97e11',
+  ),
+  'skybet-com' => 
+  array (
+    'companyname' => 'skybet.com',
+    'companyemail' => 'webmaster at skybet dot com',
+    'companyurl' => 'http://skybet.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'ff574f33a79229618dee038e2510cffe',
   ),
   'omsk-state-technical-university' => 
   array (
@@ -41221,6 +41221,15 @@
     'companyrbntype' => '',
     'key' => '2c5ccac45d55106566cf1daf68d026a0',
   ),
+  'socialsecurity-gov' => 
+  array (
+    'companyname' => 'socialsecurity.gov',
+    'companyemail' => 'webmaster at socialsecurity dot gov',
+    'companyurl' => 'http://socialsecurity.gov',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'fb60fc85b724026a2915805d20059436',
+  ),
   'inmobi-com' => 
   array (
     'companyname' => 'inmobi.com',
@@ -41229,6 +41238,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '6cb56ec47f6f05e2cc6a4f5275a54a97',
+  ),
+  'hackingnote-com' => 
+  array (
+    'companyname' => 'hackingnote.com',
+    'companyemail' => 'webmaster at hackingnote dot com',
+    'companyurl' => 'https://www.hackingnote.com/en/machine-learning/algorithms-pros-and-cons/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5da07135f86fed733a143087bed35d75',
   ),
   'ntv-io' => 
   array (
@@ -41265,15 +41283,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'db2b2002c74932a9fa4e74ead28c0f31',
-  ),
-  'mdotm-co' => 
-  array (
-    'companyname' => 'mdotm.co',
-    'companyemail' => 'webmaster at mdotm dot co',
-    'companyurl' => 'http://mdotm.co',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '587902d8dcaad23e3e17f8f81d86272c',
   ),
   'yourjavascript-com' => 
   array (
@@ -41355,15 +41364,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '6ec14bff7687c9ed5066794768694b66',
-  ),
-  'wzrkt-com' => 
-  array (
-    'companyname' => 'wzrkt.com',
-    'companyemail' => 'webmaster at wzrkt dot com',
-    'companyurl' => 'http://wzrkt.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '49b9c52c9c7cedf5e5311ba0493976f6',
   ),
   'dellbackupandrecoverycloudstorage-com' => 
   array (
@@ -41455,6 +41455,15 @@
     'companyrbntype' => '',
     'key' => '2049f61076e962814debe342cf80deac',
   ),
+  'altschool-com' => 
+  array (
+    'companyname' => 'altschool.com',
+    'companyemail' => 'webmaster at altschool dot com',
+    'companyurl' => 'https://www.altschool.com/about/careers',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '21a92e03171b6507742ed6fcbffee1b1',
+  ),
   'aws-protocol-testing-com' => 
   array (
     'companyname' => 'aws-protocol-testing.com',
@@ -41499,6 +41508,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '76a1b9ea3c2da2eef6d6bce33f5358fb',
+  ),
+  'breakingnews-com' => 
+  array (
+    'companyname' => 'breakingnews.com',
+    'companyemail' => 'webmaster at breakingnews dot com',
+    'companyurl' => 'http://breakingnews.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'cce5fd1a90613772264bbba3e9a86a78',
   ),
   'thebiglead-com' => 
   array (
@@ -41644,15 +41662,6 @@
     'companyrbntype' => '',
     'key' => 'dcf34c79073e69ee18a419850046c1b9',
   ),
-  'leadid-com' => 
-  array (
-    'companyname' => 'leadid.com',
-    'companyemail' => 'webmaster at leadid dot com',
-    'companyurl' => 'http://leadid.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b53c6a40ba18348fef90dc9d2ea01c33',
-  ),
   'universalmind-com' => 
   array (
     'companyname' => 'universalmind.com',
@@ -41715,6 +41724,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5ad286041ba0cd8c310b618d8448fdf9',
+  ),
+  'towardsdatascience-com' => 
+  array (
+    'companyname' => 'towardsdatascience.com',
+    'companyemail' => 'webmaster at towardsdatascience dot com',
+    'companyurl' => 'http://towardsdatascience.com/probability-statistics-for-data-science-series-83b94353ca48',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5a94f216370c2f755f858801eac53865',
   ),
   'aboneturkuvaz-com' => 
   array (
@@ -41806,15 +41824,6 @@
     'companyrbntype' => '',
     'key' => '1c7f06c7b491ad7f5c032477eb21d981',
   ),
-  'twotwofind-com' => 
-  array (
-    'companyname' => '22find.com',
-    'companyemail' => 'webmaster at 22find dot com',
-    'companyurl' => 'http://22find.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5b2f4e3d657cbb9375bcf59515d3f2bf',
-  ),
   'wmflabs-org' => 
   array (
     'companyname' => 'wmflabs.org',
@@ -41887,15 +41896,6 @@
     'companyrbntype' => '',
     'key' => '114c9766480bf95f46e0d1cbf18d5559',
   ),
-  'sears-com' => 
-  array (
-    'companyname' => 'sears.com',
-    'companyemail' => 'webmaster at sears dot com',
-    'companyurl' => 'http://sears.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6405ac1a97ece21860c59683ef4b93f9',
-  ),
   'slovak-medical-university' => 
   array (
     'companyname' => 'Slovak Medical University',
@@ -41958,6 +41958,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '95d995f4bd34efb043e1eadd1bf2e9f2',
+  ),
+  'myworkdayjobs-com' => 
+  array (
+    'companyname' => 'myworkdayjobs.com',
+    'companyemail' => 'webmaster at myworkdayjobs dot com',
+    'companyurl' => 'https://mlp.wd5.myworkdayjobs.com/en-US/mlpcareers/job/New-York-NY---666-5th-Ave/C--Software-Engineer_REQ-8518-1',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'fe56c5a6bc6e19c24df82dad4790dc71',
   ),
   'kndmdemzoyo-org' => 
   array (
@@ -42040,23 +42049,14 @@
     'companyrbntype' => '',
     'key' => 'f027b4f2b91b3287848051bd7b2085ab',
   ),
-  'universit-t-kaiserslautern' => 
+  'eqnextfans-com' => 
   array (
-    'companyname' => 'Universität Kaiserslautern',
-    'companyemail' => 'webmaster at uni-kl dot de',
-    'companyurl' => 'http://www.uni-kl.de/',
+    'companyname' => 'eqnextfans.com',
+    'companyemail' => 'webmaster at eqnextfans dot com',
+    'companyurl' => 'http://eqnextfans.com',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '7aafc02830f36764d39db067d7106ee5',
-  ),
-  'pussycash-com' => 
-  array (
-    'companyname' => 'pussycash.com',
-    'companyemail' => 'webmaster at pussycash dot com',
-    'companyurl' => 'http://pussycash.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3609e0abeeab8984098331244681cdb2',
+    'key' => 'b73d780ef8ca4b8cc809faee0b00db36',
   ),
   'rcsmetrics-it' => 
   array (
@@ -42075,6 +42075,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '739b9270dac5dd3c9b0ace6f7dfc712e',
+  ),
+  'orbitz-com' => 
+  array (
+    'companyname' => 'orbitz.com',
+    'companyemail' => 'webmaster at orbitz dot com',
+    'companyurl' => 'http://orbitz.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5235c5186f52ab79b8edd8d60040244d',
   ),
   'getfilecloud-com' => 
   array (
@@ -42310,6 +42319,15 @@
     'companyrbntype' => '',
     'key' => '539a176ff64811d8a8d8cf7070332ba6',
   ),
+  'parse-com' => 
+  array (
+    'companyname' => 'parse.com',
+    'companyemail' => 'webmaster at parse dot com',
+    'companyurl' => 'http://parse.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6122d88b433866a00df1023840f2a82f',
+  ),
   'yes-my' => 
   array (
     'companyname' => 'yes.my',
@@ -42345,6 +42363,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'a9949d38f19398a7d73a1f360e9405bd',
+  ),
+  'sexlog-com' => 
+  array (
+    'companyname' => 'sexlog.com',
+    'companyemail' => 'webmaster at sexlog dot com',
+    'companyurl' => 'http://sexlog.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '562142b965ae213be29fb1a10c9de757',
   ),
   'trovit-com' => 
   array (
@@ -42435,6 +42462,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1298a792eb9f7dc0644db2f078b0b409',
+  ),
+  'tumri-net' => 
+  array (
+    'companyname' => 'tumri.net',
+    'companyemail' => 'webmaster at tumri dot net',
+    'companyurl' => 'http://tumri.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4aadd761e4a2bd6648ac55ca3a0becb8',
   ),
   'helium-com' => 
   array (
@@ -42535,24 +42571,6 @@
     'companyrbntype' => '',
     'key' => 'd51db819a530e9d72246f84780e85611',
   ),
-  'hunts-com' => 
-  array (
-    'companyname' => 'hunts.com',
-    'companyemail' => 'webmaster at hunts dot com',
-    'companyurl' => 'http://hunts.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '114cc0145727c87eaabf1fcdc1821ea9',
-  ),
-  'ebayimg-com' => 
-  array (
-    'companyname' => 'ebayimg.com',
-    'companyemail' => 'webmaster at ebayimg dot com',
-    'companyurl' => 'http://ebayimg.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '53332b7e62585efa781886b99226209b',
-  ),
   'metamx-com' => 
   array (
     'companyname' => 'metamx.com',
@@ -42571,15 +42589,6 @@
     'companyrbntype' => '',
     'key' => '395e658e6afe3f4af02ff7265a3f1297',
   ),
-  'clearmatics-com' => 
-  array (
-    'companyname' => 'clearmatics.com',
-    'companyemail' => 'webmaster at clearmatics dot com',
-    'companyurl' => 'http://www.clearmatics.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '338802c1d49aaba7f0b4d756f51d3d06',
-  ),
   'wpthemes-co-nz' => 
   array (
     'companyname' => 'wpthemes.co.nz',
@@ -42588,6 +42597,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '598bfaa24ab53db35468be6ba975e076',
+  ),
+  'aula-education' => 
+  array (
+    'companyname' => 'aula.education',
+    'companyemail' => 'webmaster at aula dot education',
+    'companyurl' => 'https://aula.education/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '84168a57a792132a296ce545480e47e5',
   ),
   'twitter-com' => 
   array (
@@ -42606,6 +42624,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0475130a7386a7cef5a6313d9453a043',
+  ),
+  'youtube-com' => 
+  array (
+    'companyname' => 'youtube.com',
+    'companyemail' => 'webmaster at youtube dot com',
+    'companyurl' => 'https://www.youtube.com/watch?v=QJQRY9xsFkw',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e76403b189e4914d3cdebb2e9654bcbb',
   ),
   'smart-masters-ru' => 
   array (
@@ -42868,6 +42895,15 @@
     'companyrbntype' => '',
     'key' => 'a4c1272c05488bc4742baf3471ca48f9',
   ),
+  'politico-com' => 
+  array (
+    'companyname' => 'politico.com',
+    'companyemail' => 'webmaster at politico dot com',
+    'companyurl' => 'http://politico.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '1c6393d69fef1df83ab31e4401a46e32',
+  ),
   'google-co-id' => 
   array (
     'companyname' => 'google.co.id',
@@ -42931,24 +42967,6 @@
     'companyrbntype' => '',
     'key' => 'ec694bb6dddbd2e749990b1d193f8f2e',
   ),
-  'mackeyrms-com' => 
-  array (
-    'companyname' => 'mackeyrms.com',
-    'companyemail' => 'webmaster at mackeyrms dot com',
-    'companyurl' => 'https://mackeyrms.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6d7a0d00459f371ce73920d38fda40da',
-  ),
-  'videotron-ca' => 
-  array (
-    'companyname' => 'videotron.ca',
-    'companyemail' => 'webmaster at videotron dot ca',
-    'companyurl' => 'http://videotron.ca',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6613f115b1273b4ec6de8f01cc2a021f',
-  ),
   'vzwfemto-com' => 
   array (
     'companyname' => 'vzwfemto.com',
@@ -43003,6 +43021,15 @@
     'companyrbntype' => '',
     'key' => '68daba4762773ca2a4ef9faa70678f64',
   ),
+  'advancedhosters-com' => 
+  array (
+    'companyname' => 'advancedhosters.com',
+    'companyemail' => 'webmaster at advancedhosters dot com',
+    'companyurl' => 'http://advancedhosters.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '69b88a13837ccf47bb2ac605635cae2f',
+  ),
   'ojrfqwt-cc' => 
   array (
     'companyname' => 'ojrfqwt.cc',
@@ -43011,6 +43038,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0035d5ee89fa95724950a5b1ed2f6922',
+  ),
+  'ultradns-co-uk' => 
+  array (
+    'companyname' => 'ultradns.co.uk',
+    'companyemail' => 'webmaster at ultradns dot co dot uk',
+    'companyurl' => 'http://ultradns.co.uk',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '513f9ef7fba9c580a6af7afa8b6fb144',
   ),
   'iesnare-com' => 
   array (
@@ -43057,15 +43093,6 @@
     'companyrbntype' => '',
     'key' => '8b3394fd208a493d01a654204ea3091b',
   ),
-  'nuna-com' => 
-  array (
-    'companyname' => 'nuna.com',
-    'companyemail' => 'webmaster at nuna dot com',
-    'companyurl' => 'https://www.nuna.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '59d6ddb1e3e8d82d20d27e28bbcbc7d7',
-  ),
   'futurity-org' => 
   array (
     'companyname' => 'futurity.org',
@@ -43074,15 +43101,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1cebcc2099099e650ca416683848e64b',
-  ),
-  'tndmnshb-com' => 
-  array (
-    'companyname' => 'tndmnshb.com',
-    'companyemail' => 'webmaster at tndmnshb dot com',
-    'companyurl' => 'http://tndmnshb.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'e8d8259058484c9616e802ef5955e3ad',
   ),
   'free-porn-vidz-com' => 
   array (
@@ -43282,15 +43300,6 @@
     'companyrbntype' => '',
     'key' => 'bac7f64d17811df4f33eeabb66e708fc',
   ),
-  'orcali-com' => 
-  array (
-    'companyname' => 'orcali.com',
-    'companyemail' => 'webmaster at orcali dot com',
-    'companyurl' => 'http://orcali.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8fde0289cd0cae0fcc916ae04097430f',
-  ),
   'qbxurzdb-org' => 
   array (
     'companyname' => 'qbxurzdb.org',
@@ -43354,6 +43363,15 @@
     'companyrbntype' => '',
     'key' => 'aab3870dba9a0479baba8cd64012d47d',
   ),
+  'bantintuoitre-com' => 
+  array (
+    'companyname' => 'bantintuoitre.com',
+    'companyemail' => 'webmaster at bantintuoitre dot com',
+    'companyurl' => 'http://bantintuoitre.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'dfa674be4455c3a309d62a2d18112fd3',
+  ),
   'iflscience-com' => 
   array (
     'companyname' => 'iflscience.com',
@@ -43380,15 +43398,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '13e6b2bdabfdcfa1b7ec7955884260a2',
-  ),
-  'glassdoor-com-au' => 
-  array (
-    'companyname' => 'glassdoor.com.au',
-    'companyemail' => 'webmaster at glassdoor dot com dot au',
-    'companyurl' => 'https://www.glassdoor.com.au/Overview/Working-at-Scrapinghub-EI_IE929046.11,22.htm',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9d9e42457cc4bb715052dc7123a69029',
   ),
   'realtime-co' => 
   array (
@@ -43452,15 +43461,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'a92c14d0364122379804ead671aa3c7d',
-  ),
-  'topcoder-com' => 
-  array (
-    'companyname' => 'topcoder.com',
-    'companyemail' => 'webmaster at topcoder dot com',
-    'companyurl' => 'http://topcoder.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'af42b7c2da493a50106855d6d05cd58d',
   ),
   'tworoads-co-in' => 
   array (
@@ -43696,6 +43696,15 @@
     'companyrbntype' => '',
     'key' => 'fefe3825d1167ec46f60321735c57027',
   ),
+  'fachhochschule-augsburg' => 
+  array (
+    'companyname' => 'Fachhochschule Augsburg',
+    'companyemail' => 'webmaster at fh-augsburg dot de',
+    'companyurl' => 'http://www.fh-augsburg.de/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6fee28871d645f1c6dd80ad416acee3b',
+  ),
   'nwoxjixrm-biz' => 
   array (
     'companyname' => 'nwoxjixrm.biz',
@@ -43713,6 +43722,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0441ed01f3894c5d6b121520e5769ef4',
+  ),
+  'segment-com' => 
+  array (
+    'companyname' => 'segment.com',
+    'companyemail' => 'webmaster at segment dot com',
+    'companyurl' => 'https://segment.com/jobs',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'a1f129f467d55a22259124c2b77c19ee',
   ),
   'bbcurdu-com' => 
   array (
@@ -43768,15 +43786,6 @@
     'companyrbntype' => '',
     'key' => '49f65389eab026fa19ebdf2be305061f',
   ),
-  'reevoo-com' => 
-  array (
-    'companyname' => 'reevoo.com',
-    'companyemail' => 'webmaster at reevoo dot com',
-    'companyurl' => 'http://reevoo.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1e9e239b6ae0dc3cbf3c84a353eff057',
-  ),
   'spoqa-com' => 
   array (
     'companyname' => 'spoqa.com',
@@ -43803,15 +43812,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '90494055ffccb241a5fa18eb74a58dd5',
-  ),
-  'mercadopago-com-br' => 
-  array (
-    'companyname' => 'mercadopago.com.br',
-    'companyemail' => 'webmaster at mercadopago dot com dot br',
-    'companyurl' => 'http://mercadopago.com.br',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '31bc1981c6d65df786b91608a11daaff',
   ),
   'autodesk-com' => 
   array (
@@ -43866,6 +43866,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'df4a1b05f55bbc2217198b2b123bf6d9',
+  ),
+  'ajiang-net' => 
+  array (
+    'companyname' => 'ajiang.net',
+    'companyemail' => 'webmaster at ajiang dot net',
+    'companyurl' => 'http://ajiang.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '772a695f0a9d06131ea5a31f78af869b',
   ),
   'torrentum-pl' => 
   array (
@@ -44218,6 +44227,15 @@
     'companyrbntype' => '',
     'key' => '2b5eae84a62d390c88bd9377978121c0',
   ),
+  'kraftfoods-com' => 
+  array (
+    'companyname' => 'kraftfoods.com',
+    'companyemail' => 'webmaster at kraftfoods dot com',
+    'companyurl' => 'http://kraftfoods.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '015cc1b781bf1a85089842c238f74f3d',
+  ),
   'previousnext-com-au' => 
   array (
     'companyname' => 'previousnext.com.au',
@@ -44280,6 +44298,24 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ee87d517d217a8852e03107f10ebe68e',
+  ),
+  'bitcoin-org' => 
+  array (
+    'companyname' => 'bitcoin.org',
+    'companyemail' => 'webmaster at bitcoin dot org',
+    'companyurl' => 'http://bitcoin.org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '838239dfbc5d6d7f8b5a73f458bf562f',
+  ),
+  'energysavvy-com' => 
+  array (
+    'companyname' => 'energysavvy.com',
+    'companyemail' => 'webmaster at energysavvy dot com',
+    'companyurl' => 'http://www.energysavvy.com/about/careers',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '933c1c093844c5a83ce33076affda17f',
   ),
   'iconarchive-com' => 
   array (
@@ -44497,15 +44533,6 @@
     'companyrbntype' => '',
     'key' => 'd748f681918988b697bea710bd4b834c',
   ),
-  'pagelyhosting-com' => 
-  array (
-    'companyname' => 'pagelyhosting.com',
-    'companyemail' => 'webmaster at pagelyhosting dot com',
-    'companyurl' => 'http://pagelyhosting.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '23bb36101a3aa9337cd48a8d1e6a857d',
-  ),
   'sumone-com-br' => 
   array (
     'companyname' => 'sumone.com.br',
@@ -44523,24 +44550,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1d5a0a8cdd6f0072aee1567be31a3bfd',
-  ),
-  'mysearchresults-com' => 
-  array (
-    'companyname' => 'mysearchresults.com',
-    'companyemail' => 'webmaster at mysearchresults dot com',
-    'companyurl' => 'http://mysearchresults.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3c9ac80670513bc1999973ae4b7d7879',
-  ),
-  'homedepotmeasures-com' => 
-  array (
-    'companyname' => 'homedepotmeasures.com',
-    'companyemail' => 'webmaster at homedepotmeasures dot com',
-    'companyurl' => 'http://homedepotmeasures.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'c6ab28c05e5626759986f6985a3fb6a1',
   ),
   'sitemeter-com' => 
   array (
@@ -44740,15 +44749,6 @@
     'companyrbntype' => '',
     'key' => '9fd2d4a60199d5250c9096cdc51f38e8',
   ),
-  'nextdoor-com' => 
-  array (
-    'companyname' => 'nextdoor.com',
-    'companyemail' => 'webmaster at nextdoor dot com',
-    'companyurl' => 'https://nextdoor.com/jobs/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '270258cffbf467495adbf9c5a0ebe00b',
-  ),
   'keystealth-org' => 
   array (
     'companyname' => 'keystealth.org',
@@ -44866,15 +44866,6 @@
     'companyrbntype' => '',
     'key' => 'e4c5419c89510d51c99e5ad03ae0c034',
   ),
-  'ytimg-com' => 
-  array (
-    'companyname' => 'ytimg.com',
-    'companyemail' => 'webmaster at ytimg dot com',
-    'companyurl' => 'http://ytimg.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '60045e2603b61825a37251485ede2e6a',
-  ),
   'ctpost-com' => 
   array (
     'companyname' => 'ctpost.com',
@@ -44937,6 +44928,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c8e013f2a93e710cd11dfb0f6eae175d',
+  ),
+  'efive-sk' => 
+  array (
+    'companyname' => 'e5.sk',
+    'companyemail' => 'webmaster at e5 dot sk',
+    'companyurl' => 'http://e5.sk',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '1105bd2f220c59beb680c8e2ea16e2e0',
   ),
   'calabrio-com' => 
   array (
@@ -45064,6 +45064,15 @@
     'companyrbntype' => '',
     'key' => '2373751f8e84fec2e7d5f9199116718d',
   ),
+  'intellum-com' => 
+  array (
+    'companyname' => 'intellum.com',
+    'companyemail' => 'webmaster at intellum dot com',
+    'companyurl' => 'http://www.intellum.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '85e934d94ae3aea5f4a6d557e2a23eae',
+  ),
   'nianticlabs-com' => 
   array (
     'companyname' => 'nianticlabs.com',
@@ -45163,6 +45172,24 @@
     'companyrbntype' => '',
     'key' => 'e943ba0a38d10c4e2303d91d7f816efb',
   ),
+  'cbssports-com' => 
+  array (
+    'companyname' => 'cbssports.com',
+    'companyemail' => 'webmaster at cbssports dot com',
+    'companyurl' => 'http://cbssports.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'de705624c3b0e043ac07172c75272975',
+  ),
+  'polonia-university-in-cz-stochowa' => 
+  array (
+    'companyname' => 'Polonia University in Czêstochowa',
+    'companyemail' => 'webmaster at ap dot edu dot pl',
+    'companyurl' => 'http://www.ap.edu.pl/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0c400be244759a73afd593fa0eb663af',
+  ),
   'emule-org-cn' => 
   array (
     'companyname' => 'emule.org.cn',
@@ -45172,14 +45199,14 @@
     'companyrbntype' => '',
     'key' => 'edf8337e0f31fa6bb1b43e09693a6937',
   ),
-  'totaltech-it' => 
+  'gptxzy-cn' => 
   array (
-    'companyname' => 'totaltech.it',
-    'companyemail' => 'webmaster at totaltech dot it',
-    'companyurl' => 'http://totaltech.it',
+    'companyname' => 'gptxzy.cn',
+    'companyemail' => 'webmaster at gptxzy dot cn',
+    'companyurl' => 'http://gptxzy.cn',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '9576bae66f553973d0f908a738b0591d',
+    'key' => '24128e9ed92f60026badc08e90bc75e3',
   ),
   'kdnuggets-com' => 
   array (
@@ -45253,6 +45280,15 @@
     'companyrbntype' => '',
     'key' => '6a8caf0b1a8627f462e6348b2f8a88f0',
   ),
+  'drupaljedi-com' => 
+  array (
+    'companyname' => 'drupaljedi.com',
+    'companyemail' => 'webmaster at drupaljedi dot com',
+    'companyurl' => 'https://drupaljedi.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c0849730aa2ef073bd72c664e0d6ef3a',
+  ),
   'omniti-com' => 
   array (
     'companyname' => 'omniti.com',
@@ -45279,15 +45315,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '791857b77b8c28f1fad04ed6175e5abb',
-  ),
-  'famefocus-com' => 
-  array (
-    'companyname' => 'famefocus.com',
-    'companyemail' => 'webmaster at famefocus dot com',
-    'companyurl' => 'http://famefocus.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'bff31426ee64c11fcf11593ca3b79859',
   ),
   'cherylstyle-com' => 
   array (
@@ -45388,6 +45415,15 @@
     'companyrbntype' => '',
     'key' => '215a901c08bee99973d4c940044095e9',
   ),
+  'instacontent-net' => 
+  array (
+    'companyname' => 'instacontent.net',
+    'companyemail' => 'webmaster at instacontent dot net',
+    'companyurl' => 'http://instacontent.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'a9e6bc70029ec809a5991f8c54951e22',
+  ),
   'vupdatetwo-com' => 
   array (
     'companyname' => 'vupdate2.com',
@@ -45423,6 +45459,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'cfb03d0b42f3c09914c25b7e17bd95c1',
+  ),
+  'picasasoftware-com' => 
+  array (
+    'companyname' => 'picasasoftware.com',
+    'companyemail' => 'webmaster at picasasoftware dot com',
+    'companyurl' => 'http://picasasoftware.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd18cd81d55283903b0b8b7de9c713baa',
   ),
   'fitnesskeeperapi-com' => 
   array (
@@ -45568,6 +45613,15 @@
     'companyrbntype' => '',
     'key' => 'f369bd20a774266689004f9ff07b0cf4',
   ),
+  'sankt-ludwig-darmstadt-de' => 
+  array (
+    'companyname' => 'sankt-ludwig-darmstadt.de',
+    'companyemail' => 'webmaster at sankt-ludwig-darmstadt dot de',
+    'companyurl' => 'http://sankt-ludwig-darmstadt.de',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'f51a7146d0750645aa70e6d725551fe7',
+  ),
   'adicio-com' => 
   array (
     'companyname' => 'adicio.com',
@@ -45604,14 +45658,14 @@
     'companyrbntype' => '',
     'key' => '45682ab780479da64356ff9f8df975fe',
   ),
-  'mesosphere-com' => 
+  'bidtrk-com' => 
   array (
-    'companyname' => 'mesosphere.com',
-    'companyemail' => 'webmaster at mesosphere dot com',
-    'companyurl' => 'https://mesosphere.com/careers/',
+    'companyname' => 'bidtrk.com',
+    'companyemail' => 'webmaster at bidtrk dot com',
+    'companyurl' => 'http://bidtrk.com',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'b7c65318ffce161e6c2e28e0018348c8',
+    'key' => '2b6e2eab2c2cd05b6573ebf97ced9504',
   ),
   'incmdzerofive-com' => 
   array (
@@ -45621,6 +45675,24 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '4d164422471b9025a3f645f538523937',
+  ),
+  'gsa-gov' => 
+  array (
+    'companyname' => 'gsa.gov',
+    'companyemail' => 'webmaster at gsa dot gov',
+    'companyurl' => 'https://18f.gsa.gov/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '71c7f7fe6bc082e44fe6752b059a8228',
+  ),
+  'strava-com' => 
+  array (
+    'companyname' => 'strava.com',
+    'companyemail' => 'webmaster at strava dot com',
+    'companyurl' => 'http://strava.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '14724e1cc3191f797d776173b1e93337',
   ),
   'adinfo-guardian-co-uk' => 
   array (
@@ -45784,15 +45856,6 @@
     'companyrbntype' => '',
     'key' => '31478463f4cf3ce14b59968cab0504a1',
   ),
-  'polonia-university-in-cz-stochowa' => 
-  array (
-    'companyname' => 'Polonia University in Czêstochowa',
-    'companyemail' => 'webmaster at ap dot edu dot pl',
-    'companyurl' => 'http://www.ap.edu.pl/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '0c400be244759a73afd593fa0eb663af',
-  ),
   'hotmail-com' => 
   array (
     'companyname' => 'hotmail.com',
@@ -45810,6 +45873,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'dbbbf9697fd914c1c0e771424d234a05',
+  ),
+  'heetch-com' => 
+  array (
+    'companyname' => 'heetch.com',
+    'companyemail' => 'webmaster at heetch dot com',
+    'companyurl' => 'https://heetch.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9011e42d2b621b6fb15befca00b9f720',
   ),
   'ai-jobs-net' => 
   array (
@@ -45891,6 +45963,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '7f44937dc939e473d3883156fc538a4b',
+  ),
+  'bittorrent-com' => 
+  array (
+    'companyname' => 'bittorrent.com',
+    'companyemail' => 'webmaster at bittorrent dot com',
+    'companyurl' => 'http://www.bittorrent.com/company/about/jobs',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '2733ee12b5dff5b1674f763b56f96824',
   ),
   'ipgeoapi-com' => 
   array (
@@ -46063,6 +46144,15 @@
     'companyrbntype' => '',
     'key' => 'fce44d62b8f949a31503ae768fac87d8',
   ),
+  'universitas-hkbp-nommensen' => 
+  array (
+    'companyname' => 'Universitas HKBP Nommensen',
+    'companyemail' => 'webmaster at nommensen dot org',
+    'companyurl' => 'http://www.nommensen.org/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'a5f0bf5567996edd43c2e506cb32d009',
+  ),
   'dfna-net' => 
   array (
     'companyname' => 'dfna.net',
@@ -46071,6 +46161,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '88baa7940cb2d83c981c07f5433e984f',
+  ),
+  'rnmd-net' => 
+  array (
+    'companyname' => 'rnmd.net',
+    'companyemail' => 'webmaster at rnmd dot net',
+    'companyurl' => 'http://rnmd.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '280bf2591a7e6f63940aec8c87371cc0',
   ),
   'scielo-br' => 
   array (
@@ -46116,15 +46215,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '27307a3d97ab1d320276c3c8622609e6',
-  ),
-  'sankt-ludwig-darmstadt-de' => 
-  array (
-    'companyname' => 'sankt-ludwig-darmstadt.de',
-    'companyemail' => 'webmaster at sankt-ludwig-darmstadt dot de',
-    'companyurl' => 'http://sankt-ludwig-darmstadt.de',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'f51a7146d0750645aa70e6d725551fe7',
   ),
   'pacific-western-university' => 
   array (
@@ -46188,6 +46278,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2eadfe3f33ec5851d70d0e5dec6df62b',
+  ),
+  'adserverpub-com' => 
+  array (
+    'companyname' => 'adserverpub.com',
+    'companyemail' => 'webmaster at adserverpub dot com',
+    'companyurl' => 'http://adserverpub.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3f92f1202ce5c1eefb936a0a38fbd0b0',
   ),
   'universidad-interamericana-de-educacion-a-distancia-de-panama' => 
   array (
@@ -46278,6 +46377,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd5c35ab4894ca35efc43675a1658747d',
+  ),
+  'fachhochschule-lausitz' => 
+  array (
+    'companyname' => 'Fachhochschule Lausitz',
+    'companyemail' => 'webmaster at fh-lausitz dot de',
+    'companyurl' => 'http://www.fh-lausitz.de/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c64e0a8c04f637ca2e88172bdfc58481',
   ),
   'walmart-com' => 
   array (
@@ -46423,6 +46531,15 @@
     'companyrbntype' => '',
     'key' => 'd5e84f361a6d075ab190078908ca12b3',
   ),
+  'diabete-it' => 
+  array (
+    'companyname' => 'diabete.it',
+    'companyemail' => 'webmaster at diabete dot it',
+    'companyurl' => 'http://diabete.it',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '827a4ba1f934af8d56209db40398d8e4',
+  ),
   'universitas-negeri-makassar' => 
   array (
     'companyname' => 'Universitas Negeri Makassar',
@@ -46431,6 +46548,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b97845d95b4b2d4deabbee6ad1155e65',
+  ),
+  'ads-creativesyndicator-com' => 
+  array (
+    'companyname' => 'ads-creativesyndicator.com',
+    'companyemail' => 'webmaster at ads-creativesyndicator dot com',
+    'companyurl' => 'http://ads-creativesyndicator.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd7606b1e0c7b3f80c0a34e918835fc8c',
   ),
   'university-of-thessaly' => 
   array (
@@ -46449,6 +46575,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0ee1a97692ac2ce47a8c14e558cd7bfb',
+  ),
+  'feelcars-com' => 
+  array (
+    'companyname' => 'feelcars.com',
+    'companyemail' => 'webmaster at feelcars dot com',
+    'companyurl' => 'http://feelcars.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9da045c8f1a598b0ab7e86ce66d764a4',
   ),
   'changeip-com' => 
   array (
@@ -46531,15 +46666,6 @@
     'companyrbntype' => '',
     'key' => '82850d7fca83f1263ad96777ba53e892',
   ),
-  'blogspot-com-es' => 
-  array (
-    'companyname' => 'blogspot.com.es',
-    'companyemail' => 'webmaster at blogspot dot com dot es',
-    'companyurl' => 'http://blogspot.com.es',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3149623c6c56f283f165e428292c8962',
-  ),
   'universit-du-droit-et-de-la-sante-lille-ii' => 
   array (
     'companyname' => 'Université du Droit et de la Sante (Lille II)',
@@ -46548,15 +46674,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '82a18b9e7dea5d15602d15a674e22f7d',
-  ),
-  'weber-state-university' => 
-  array (
-    'companyname' => 'Weber State University',
-    'companyemail' => 'webmaster at weber dot edu',
-    'companyurl' => 'http://www.weber.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b0b5d03ee2d3b6ee09819662f50672dd',
   ),
   'university-of-science-and-culture' => 
   array (
@@ -46666,15 +46783,6 @@
     'companyrbntype' => '',
     'key' => 'ba5d90c2d3b415dca8a242cdc616a349',
   ),
-  'open-international-university-for-alternative-medicines' => 
-  array (
-    'companyname' => 'Open International University for Alternative Medicines',
-    'companyemail' => 'webmaster at altmeduniversity dot com',
-    'companyurl' => 'http://www.altmeduniversity.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '05ad0f64c19b3438aab328fadd0198e5',
-  ),
   'bilecik-university' => 
   array (
     'companyname' => 'Bilecik University',
@@ -46684,14 +46792,14 @@
     'companyrbntype' => '',
     'key' => 'f82a7bc0deda45b17c785586f46995d7',
   ),
-  'rehcuqjlszg-ws' => 
+  'martiniadnetwork-com' => 
   array (
-    'companyname' => 'rehcuqjlszg.ws',
-    'companyemail' => 'webmaster at rehcuqjlszg dot ws',
-    'companyurl' => 'http://rehcuqjlszg.ws',
+    'companyname' => 'martiniadnetwork.com',
+    'companyemail' => 'webmaster at martiniadnetwork dot com',
+    'companyurl' => 'http://martiniadnetwork.com',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '950fed3c6fe4f96016cac522a8f5ad47',
+    'key' => 'e704dc164d79446d867c17b9ef51a6d3',
   ),
   'ecole-normale-sup-rieure-de-fontenay-saint-cloud' => 
   array (
@@ -46728,15 +46836,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '80028355a605701a65fea3a2d8c3bcaf',
-  ),
-  'zol-com-cn' => 
-  array (
-    'companyname' => 'zol.com.cn',
-    'companyemail' => 'webmaster at zol dot com dot cn',
-    'companyurl' => 'http://zol.com.cn',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b8be0a6345b20f1fc836a8896bc20326',
   ),
   'googlehosted-com' => 
   array (
@@ -46819,15 +46918,6 @@
     'companyrbntype' => '',
     'key' => 'fe553e7cd1823f585da2aa9caa2b75a0',
   ),
-  'metropolitan-university' => 
-  array (
-    'companyname' => 'Metropolitan University',
-    'companyemail' => 'webmaster at metropolitan dot edu dot rs',
-    'companyurl' => 'http://www.metropolitan.edu.rs/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd7e80d1536bbea34881d4f0a7cd4b1eb',
-  ),
   'ojrq-net' => 
   array (
     'companyname' => 'ojrq.net',
@@ -46900,6 +46990,15 @@
     'companyrbntype' => '',
     'key' => 'a223b62346fa78aca170221f3bf83b6e',
   ),
+  'arrowheadpride-com' => 
+  array (
+    'companyname' => 'arrowheadpride.com',
+    'companyemail' => 'webmaster at arrowheadpride dot com',
+    'companyurl' => 'http://arrowheadpride.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'b71b187bcee87109791b2ea2cf20538b',
+  ),
   'yelp-co-jp' => 
   array (
     'companyname' => 'yelp.co.jp',
@@ -46954,6 +47053,15 @@
     'companyrbntype' => '',
     'key' => '66e17c3f63694cf352592b962956e0d5',
   ),
+  'aparat-com' => 
+  array (
+    'companyname' => 'aparat.com',
+    'companyemail' => 'webmaster at aparat dot com',
+    'companyurl' => 'http://aparat.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '877579b859aedb6a93a585f05204586d',
+  ),
   'olx-pl' => 
   array (
     'companyname' => 'olx.pl',
@@ -46971,15 +47079,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c5ad4d9f065b466cfabed573896a3ab6',
-  ),
-  'federal-university-of-technology-akure' => 
-  array (
-    'companyname' => 'Federal University of Technology, Akure',
-    'companyemail' => 'webmaster at futa dot edu dot ng',
-    'companyurl' => 'http://www.futa.edu.ng/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6bd386adbefbd90c6aaf99af2333e901',
   ),
   'ivanovo-state-power-university' => 
   array (
@@ -47007,15 +47106,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'dd54bd327791e2ba8ae10d8fad07b8be',
-  ),
-  'kazak-american-university' => 
-  array (
-    'companyname' => 'Kazak American University',
-    'companyemail' => 'webmaster at kau dot kz',
-    'companyurl' => 'http://www.kau.kz/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b9ed1078e5323124a8a08c2068905419',
   ),
   'privatehomeclips-com' => 
   array (
@@ -47115,6 +47205,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'da5ae495f230844a9adac4dc82573147',
+  ),
+  'jc-affiliates-com' => 
+  array (
+    'companyname' => 'jc-affiliates.com',
+    'companyemail' => 'webmaster at jc-affiliates dot com',
+    'companyurl' => 'http://jc-affiliates.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '60073cf7ac6b8039c5875ca7b1aeed17',
   ),
   'blogspot-jp' => 
   array (
@@ -47260,15 +47359,6 @@
     'companyrbntype' => '',
     'key' => '3139f47a84e9f9e6376ef2fef2de32ef',
   ),
-  'cpleft-com' => 
-  array (
-    'companyname' => 'cpleft.com',
-    'companyemail' => 'webmaster at cpleft dot com',
-    'companyurl' => 'http://cpleft.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7c2783fa6df659ad13571a84914cfa42',
-  ),
   'maxworkouts-com' => 
   array (
     'companyname' => 'maxworkouts.com',
@@ -47331,15 +47421,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'fabef0fde259a6e227ac775e88fe6510',
-  ),
-  'kinja-static-com' => 
-  array (
-    'companyname' => 'kinja-static.com',
-    'companyemail' => 'webmaster at kinja-static dot com',
-    'companyurl' => 'http://kinja-static.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8466d8cd55a1d847a8f77e3b42802dfc',
   ),
   'yesadsrv-com' => 
   array (
@@ -47440,6 +47521,15 @@
     'companyrbntype' => '',
     'key' => '5d18f406c0ceb9c55716eb14aa3c6bd9',
   ),
+  'taobao-com' => 
+  array (
+    'companyname' => 'taobao.com',
+    'companyemail' => 'webmaster at taobao dot com',
+    'companyurl' => 'http://taobao.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'a1d80c67238d8c1a06ce8394aa1a0a31',
+  ),
   'fivegiay-vn' => 
   array (
     'companyname' => '5giay.vn',
@@ -47466,15 +47556,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd9d35912dd22283948ab0f9ab4b5175e',
-  ),
-  'grubhub-com' => 
-  array (
-    'companyname' => 'grubhub.com',
-    'companyemail' => 'webmaster at grubhub dot com',
-    'companyurl' => 'https://www.grubhub.com/about/careers',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd12fbd3488366586580977d69d73b455',
   ),
   'groupon-com' => 
   array (
@@ -47521,14 +47602,14 @@
     'companyrbntype' => '',
     'key' => '9c10729367afda544be3521fe018ef90',
   ),
-  'alexandrie-com' => 
+  'arch-info' => 
   array (
-    'companyname' => 'alexandrie.com',
-    'companyemail' => 'support at alexandrie dot com',
-    'companyurl' => 'http://alexandrie.com',
+    'companyname' => 'arch.info',
+    'companyemail' => 'webmaster at arch dot info',
+    'companyurl' => 'http://arch.info',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => 'dc88d4d0e8309b4b0789a23538e4f815',
+    'key' => '3e6c3aed70f7f0bf7e33f59a2040cae9',
   ),
   'adoftheyear-com' => 
   array (
@@ -47556,6 +47637,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '22ab7b19ddd2e1f5f7909f57ae5185a7',
+  ),
+  'alexandrie-com' => 
+  array (
+    'companyname' => 'alexandrie.com',
+    'companyemail' => 'webmaster at alexandrie dot com',
+    'companyurl' => 'http://alexandrie.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'dc88d4d0e8309b4b0789a23538e4f815',
   ),
   'redbubble-com' => 
   array (
@@ -47709,6 +47799,24 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'a7bfee2da3e256f523b501ffaa207d6d',
+  ),
+  'cantv-net' => 
+  array (
+    'companyname' => 'cantv.net',
+    'companyemail' => 'webmaster at cantv dot net',
+    'companyurl' => 'http://cantv.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '24a0444ece415581379da0fe3a4de54c',
+  ),
+  'universit-d-avignon' => 
+  array (
+    'companyname' => 'Université d\'Avignon',
+    'companyemail' => 'webmaster at univ-avignon dot fr',
+    'companyurl' => 'http://www.univ-avignon.fr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '05d0796de4429d6ff9cfec1b1a2f36bd',
   ),
   'threesixzerogame-vn' => 
   array (
@@ -47881,6 +47989,15 @@
     'companyrbntype' => '',
     'key' => '3c9314653449f60a14cc9902d290583c',
   ),
+  'fivesec-info' => 
+  array (
+    'companyname' => '5sec.info',
+    'companyemail' => 'webmaster at 5sec dot info',
+    'companyurl' => 'http://5sec.info',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '247bd223cb27a755339496f048c9067f',
+  ),
   'dhgate-com' => 
   array (
     'companyname' => 'dhgate.com',
@@ -47925,6 +48042,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '22f3f3c65530814222dbf6d84983b0cd',
+  ),
+  'adsdumpo-com' => 
+  array (
+    'companyname' => 'adsdumpo.com',
+    'companyemail' => 'webmaster at adsdumpo dot com',
+    'companyurl' => 'http://adsdumpo.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd9c0a487a8898d4ab91ba8ad01d11951',
   ),
   'qualtrics-com' => 
   array (
@@ -47980,15 +48106,6 @@
     'companyrbntype' => '',
     'key' => '233e10bb5d9f8519f05d6b37bc79f2e2',
   ),
-  'starm-com' => 
-  array (
-    'companyname' => 'starm.com',
-    'companyemail' => 'support at starm dot com',
-    'companyurl' => 'http://starm.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8531c49ddfdc374f1ef4db3dfa6d19ef',
-  ),
   'islamic-azad-university-parand' => 
   array (
     'companyname' => 'Islamic Azad University, Parand',
@@ -48025,6 +48142,15 @@
     'companyrbntype' => '',
     'key' => '926c434f711dbd4fe7358aea911328b8',
   ),
+  'wibiya-com' => 
+  array (
+    'companyname' => 'wibiya.com',
+    'companyemail' => 'webmaster at wibiya dot com',
+    'companyurl' => 'http://wibiya.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '13fa77d7ba0cad3cacdc57f06492621c',
+  ),
   'lake-land-college' => 
   array (
     'companyname' => 'Lake Land College',
@@ -48060,15 +48186,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5d1540157c6bbfbed4376fa8b26deee9',
-  ),
-  'universit-de-bangui' => 
-  array (
-    'companyname' => 'Université de Bangui',
-    'companyemail' => 'webmaster at univ-bangui dot net',
-    'companyurl' => 'http://www.univ-bangui.net/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '281bd08475424b7e24042ff5f819979e',
   ),
   'otmsrv-com' => 
   array (
@@ -48159,6 +48276,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ee5070067b6aef7288d6e8a66ba1552f',
+  ),
+  'universit-de-bangui' => 
+  array (
+    'companyname' => 'Université de Bangui',
+    'companyemail' => 'webmaster at univ-bangui dot net',
+    'companyurl' => 'http://www.univ-bangui.net/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '281bd08475424b7e24042ff5f819979e',
   ),
   'conversantmedia-com' => 
   array (
@@ -48340,15 +48466,6 @@
     'companyrbntype' => '',
     'key' => 'c2b087739f675e7675c0fd15a7b0ea4f',
   ),
-  'elalem-com' => 
-  array (
-    'companyname' => 'elalem.com',
-    'companyemail' => 'webmaster at elalem dot com',
-    'companyurl' => 'http://elalem.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '4e8ebb65c6124846b2fae8eb0e0fc015',
-  ),
   'university-of-jan-evangelista-purkyne' => 
   array (
     'companyname' => 'University of Jan Evangelista Purkyne',
@@ -48366,6 +48483,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1f2f9b035e6b4dfe368a3fa9f6918a75',
+  ),
+  'fling-com' => 
+  array (
+    'companyname' => 'fling.com',
+    'companyemail' => 'webmaster at fling dot com',
+    'companyurl' => 'http://fling.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'fe7ff8f1e10ba4f91fb2a65e1d18a48e',
   ),
   'hbdezkxzjf-ws' => 
   array (
@@ -48519,15 +48645,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '84e2606598bb7770e233e35b5b7ebce6',
-  ),
-  'arrabonet-hu' => 
-  array (
-    'companyname' => 'arrabonet.hu',
-    'companyemail' => 'webmaster at arrabonet dot hu',
-    'companyurl' => 'http://arrabonet.hu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7a3455817cf5ab8abf4e6d4b17513627',
   ),
   'adlure-net' => 
   array (
@@ -48718,6 +48835,15 @@
     'companyrbntype' => '',
     'key' => '2e9391f05197f5e027812b37d48093db',
   ),
+  'juksr-com' => 
+  array (
+    'companyname' => 'juksr.com',
+    'companyemail' => 'webmaster at juksr dot com',
+    'companyurl' => 'http://juksr.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c42ae057cef75bd49a90a1bad887c75b',
+  ),
   'kayak-ch' => 
   array (
     'companyname' => 'kayak.ch',
@@ -48763,6 +48889,15 @@
     'companyrbntype' => '',
     'key' => 'c5c89c65af43ab186e4e840cc3a8526d',
   ),
+  'raum-com' => 
+  array (
+    'companyname' => 'raum.com',
+    'companyemail' => 'webmaster at raum dot com',
+    'companyurl' => 'http://raum.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '380ee73581c25a17d69b5e8a43255338',
+  ),
   'bing-net' => 
   array (
     'companyname' => 'bing.net',
@@ -48780,15 +48915,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '8475a5fbefe779a1f746a4dacf7ef029',
-  ),
-  'raum-com' => 
-  array (
-    'companyname' => 'raum.com',
-    'companyemail' => 'webmaster at raum dot com',
-    'companyurl' => 'http://raum.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '380ee73581c25a17d69b5e8a43255338',
   ),
   'universidade-federal-do-rio-grande-do-sul' => 
   array (
@@ -48834,6 +48960,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '8aabcddaadc3f59fdac27a1bc4cffff6',
+  ),
+  'ecole-centrale-de-marseille' => 
+  array (
+    'companyname' => 'Ecole Centrale de Marseille',
+    'companyemail' => 'webmaster at centrale-marseille dot fr',
+    'companyurl' => 'https://www.centrale-marseille.fr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '1be3820bf5c6a0316625d21356cd6713',
   ),
   'brainspl-at' => 
   array (
@@ -49060,15 +49195,6 @@
     'companyrbntype' => '',
     'key' => '7ed4e97455e2b16f58c369599b2aed1c',
   ),
-  'yext-com' => 
-  array (
-    'companyname' => 'yext.com',
-    'companyemail' => 'webmaster at yext dot com',
-    'companyurl' => 'http://yext.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '25f7516e8fbe0387a8466723ad075594',
-  ),
   'retargeter-com' => 
   array (
     'companyname' => 'retargeter.com',
@@ -49159,15 +49285,6 @@
     'companyrbntype' => '',
     'key' => '842d2b12684fc076904df6677b845a4d',
   ),
-  'tiki-vn' => 
-  array (
-    'companyname' => 'tiki.vn',
-    'companyemail' => 'webmaster at tiki dot vn',
-    'companyurl' => 'http://tiki.vn',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7713b5aab36f11e2d5975e99b87442df',
-  ),
   'university-of-bohol' => 
   array (
     'companyname' => 'University of Bohol',
@@ -49185,15 +49302,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'eaa4031ab44211ec3b30c0da141984f5',
-  ),
-  'universitas-widyatama' => 
-  array (
-    'companyname' => 'Universitas Widyatama',
-    'companyemail' => 'webmaster at widyatama dot ac dot id',
-    'companyurl' => 'http://www.widyatama.ac.id/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '2af93336c6b7145adeafee918f2f7b2e',
   ),
   'yelp-com-hk' => 
   array (
@@ -49222,15 +49330,6 @@
     'companyrbntype' => '',
     'key' => '54719d9b26b5a617d16f71c0d9ed9576',
   ),
-  'bayfiles-net' => 
-  array (
-    'companyname' => 'bayfiles.net',
-    'companyemail' => 'webmaster at bayfiles dot net',
-    'companyurl' => 'http://bayfiles.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8f5168347c85cd7dfb0764745d0b74b4',
-  ),
   'bangbros-com' => 
   array (
     'companyname' => 'bangbros.com',
@@ -49239,6 +49338,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '20d9c02a35ca4ce83b9f777922d064b3',
+  ),
+  'universitas-widyatama' => 
+  array (
+    'companyname' => 'Universitas Widyatama',
+    'companyemail' => 'webmaster at widyatama dot ac dot id',
+    'companyurl' => 'http://www.widyatama.ac.id/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '2af93336c6b7145adeafee918f2f7b2e',
   ),
   'gquldikg-ws' => 
   array (
@@ -49276,15 +49384,6 @@
     'companyrbntype' => '',
     'key' => '9168e7d86d57c3be540225127a120eed',
   ),
-  'iqiyi-com' => 
-  array (
-    'companyname' => 'iqiyi.com',
-    'companyemail' => 'webmaster at iqiyi dot com',
-    'companyurl' => 'http://iqiyi.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'dac0024052b636047a0ec5c86978f293',
-  ),
   'akrofi-christaller-institute-of-theeology-mission-and-culture' => 
   array (
     'companyname' => 'Akrofi-Christaller Institute of Theeology, Mission and  Culture',
@@ -49320,6 +49419,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'a938c2ec9daa43bfed0d087ea8107337',
+  ),
+  'ecole-normale-sup-rieure-de-paris' => 
+  array (
+    'companyname' => 'Ecole Normale Supérieure de Paris',
+    'companyemail' => 'webmaster at ens dot fr',
+    'companyurl' => 'http://www.ens.fr/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'af5f471c57ef45b466dad296e0fba317',
   ),
   'cbtwo-com' => 
   array (
@@ -49357,14 +49465,14 @@
     'companyrbntype' => '',
     'key' => '4a770818ed88a2e7505ba8c85709ee43',
   ),
-  'uzak-net' => 
+  'softonic-pl' => 
   array (
-    'companyname' => 'uzak.net',
-    'companyemail' => 'support at uzak dot net',
-    'companyurl' => 'http://uzak.net',
+    'companyname' => 'softonic.pl',
+    'companyemail' => 'webmaster at softonic dot pl',
+    'companyurl' => 'http://softonic.pl',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '5fad64dedadba7e26b20fbe2ade18902',
+    'key' => '067ec5d89efb2708f1691a14218da3f5',
   ),
   'chaturbate-com' => 
   array (
@@ -49591,6 +49699,15 @@
     'companyrbntype' => '',
     'key' => 'c1743d54c7d78435eecb9f4f7b6389a8',
   ),
+  'medical-academy-ludwik-rydygier-in-bydgoszcz' => 
+  array (
+    'companyname' => 'Medical Academy Ludwik Rydygier in Bydgoszcz',
+    'companyemail' => 'webmaster at amb dot bydgoszcz dot pl',
+    'companyurl' => 'http://www.amb.bydgoszcz.pl/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7282115ec8cdaea92e9c4f8c576252f4',
+  ),
   'bushehr-university-of-medical-sciences' => 
   array (
     'companyname' => 'Bushehr University of Medical Sciences',
@@ -49618,6 +49735,15 @@
     'companyrbntype' => '',
     'key' => '69477839d08319b0f6a0e27a7339e597',
   ),
+  'uzak-net' => 
+  array (
+    'companyname' => 'uzak.net',
+    'companyemail' => 'support at uzak dot net',
+    'companyurl' => 'http://uzak.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5fad64dedadba7e26b20fbe2ade18902',
+  ),
   'contentspread-net' => 
   array (
     'companyname' => 'contentspread.net',
@@ -49635,15 +49761,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '79868ef0792da538a0ab7664e4cec303',
-  ),
-  'polldaddy-com' => 
-  array (
-    'companyname' => 'polldaddy.com',
-    'companyemail' => 'webmaster at polldaddy dot com',
-    'companyurl' => 'http://polldaddy.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3b2d11bf97a87d7b0b6af82ed6a6a2d4',
   ),
   'ptd-net' => 
   array (
@@ -49735,6 +49852,15 @@
     'companyrbntype' => '',
     'key' => 'af73b9643402bd7d06014663cdb13f93',
   ),
+  'chargify-com' => 
+  array (
+    'companyname' => 'chargify.com',
+    'companyemail' => 'webmaster at chargify dot com',
+    'companyurl' => 'https://www.chargify.com/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '65f29dc34aadd1fd6a4040fcc9d5200c',
+  ),
   'vilnius-university' => 
   array (
     'companyname' => 'Vilnius University',
@@ -49743,6 +49869,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'bee3baaa83857f2cf5dfea7a5985bb25',
+  ),
+  'zimbio-com' => 
+  array (
+    'companyname' => 'zimbio.com',
+    'companyemail' => 'webmaster at zimbio dot com',
+    'companyurl' => 'http://zimbio.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '616d8f5dcfdc391a1a8e599c85fc9174',
   ),
   'hackerrank-com' => 
   array (
@@ -50050,6 +50185,15 @@
     'companyrbntype' => '',
     'key' => '594a317cc96b46174df839310c7d7022',
   ),
+  'bkstr-com' => 
+  array (
+    'companyname' => 'bkstr.com',
+    'companyemail' => 'webmaster at bkstr dot com',
+    'companyurl' => 'http://bkstr.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '17241a06906a87ed74ff3ce5b97ccfc4',
+  ),
   'bayaya-org' => 
   array (
     'companyname' => 'bayaya.org',
@@ -50212,15 +50356,6 @@
     'companyrbntype' => '',
     'key' => 'c886e50f63e4cdd82035deddb63331e5',
   ),
-  'arch-info' => 
-  array (
-    'companyname' => 'arch.info',
-    'companyemail' => 'webmaster at arch dot info',
-    'companyurl' => 'http://arch.info',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '3e6c3aed70f7f0bf7e33f59a2040cae9',
-  ),
   'alahgaff-university' => 
   array (
     'companyname' => 'Alahgaff University',
@@ -50247,15 +50382,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '70ba1eeb7e1a8c01cf650c37d6324b9e',
-  ),
-  'oconee-org' => 
-  array (
-    'companyname' => 'oconee.org',
-    'companyemail' => 'support at oconee dot org',
-    'companyurl' => 'http://oconee.org',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd4fbc7d1f3da83443627ed4695f192b9',
   ),
   'ingomar-info' => 
   array (
@@ -50500,6 +50626,15 @@
     'companyrbntype' => '',
     'key' => '17c9fe77d88599e232f1d2c490b04d49',
   ),
+  'universit-t-hannover' => 
+  array (
+    'companyname' => 'Universität Hannover',
+    'companyemail' => 'webmaster at uni-hannover dot de',
+    'companyurl' => 'http://www.uni-hannover.de/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '30d722129592433103379beb9c5a1cf8',
+  ),
   'witberg-com' => 
   array (
     'companyname' => 'witberg.com',
@@ -50644,15 +50779,6 @@
     'companyrbntype' => '',
     'key' => 'a4a9054ee2582945a0f3904da3684c47',
   ),
-  'nast-info' => 
-  array (
-    'companyname' => 'nast.info',
-    'companyemail' => 'webmaster at nast dot info',
-    'companyurl' => 'http://nast.info',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '67ae2438b3149fc0a67dcadfb6fbea19',
-  ),
   'vena-info' => 
   array (
     'companyname' => 'vena.info',
@@ -50697,15 +50823,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ab53e8c6d8e935281df22c991db60d25',
-  ),
-  'koblach-com' => 
-  array (
-    'companyname' => 'koblach.com',
-    'companyemail' => 'support at koblach dot com',
-    'companyurl' => 'http://koblach.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '186936d5cf1bbc7c405e8a688185de74',
   ),
   'podlesie-net' => 
   array (
@@ -50913,6 +51030,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '3de89351affd489d89da555c92458d30',
+  ),
+  'siwo-com' => 
+  array (
+    'companyname' => 'siwo.com',
+    'companyemail' => 'webmaster at siwo dot com',
+    'companyurl' => 'http://siwo.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c5bf73a6c59239d040c40c121a960db9',
   ),
   'roba-com' => 
   array (
@@ -51193,15 +51319,6 @@
     'companyrbntype' => '',
     'key' => '46bff7ed6da62a6d0c5ce988d6e46417',
   ),
-  'siwo-com' => 
-  array (
-    'companyname' => 'siwo.com',
-    'companyemail' => 'webmaster at siwo dot com',
-    'companyurl' => 'http://siwo.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'c5bf73a6c59239d040c40c121a960db9',
-  ),
   'mazury-com' => 
   array (
     'companyname' => 'mazury.com',
@@ -51463,15 +51580,6 @@
     'companyrbntype' => '',
     'key' => '9249e4cd4ba0995f9fc7c33c620f72a5',
   ),
-  'whatkatewore-com' => 
-  array (
-    'companyname' => 'whatkatewore.com',
-    'companyemail' => 'webmaster at whatkatewore dot com',
-    'companyurl' => 'http://whatkatewore.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a27535bd45c5a4a1a6a966a0c205fdf9',
-  ),
   'trafficserving-com' => 
   array (
     'companyname' => 'trafficserving.com',
@@ -51625,15 +51733,6 @@
     'companyrbntype' => '',
     'key' => 'f62d0eed58924e9fc2df7b79ed0bda2c',
   ),
-  'mollet-com' => 
-  array (
-    'companyname' => 'mollet.com',
-    'companyemail' => 'support at mollet dot com',
-    'companyurl' => 'http://mollet.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '04669e69eab5479620d2a9ce2ac26df9',
-  ),
   'kiker-net' => 
   array (
     'companyname' => 'kiker.net',
@@ -51696,15 +51795,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'eec79a85cb6c5524da30fb2523242b43',
-  ),
-  'williams-college' => 
-  array (
-    'companyname' => 'Williams College',
-    'companyemail' => 'webmaster at williams dot edu',
-    'companyurl' => 'https://williams.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'faebd03fa714985f171b28193238c9c9',
   ),
   'albemarle-com' => 
   array (
@@ -51778,6 +51868,15 @@
     'companyrbntype' => '',
     'key' => '9ba16d516d60ecb413e7ed81e019ca00',
   ),
+  'southern-college' => 
+  array (
+    'companyname' => 'Southern College',
+    'companyemail' => 'webmaster at southern dot edu',
+    'companyurl' => 'http://www.southern.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7863cf8f5db9107edc7eaa0100a859b0',
+  ),
   'passionfruitads-com' => 
   array (
     'companyname' => 'passionfruitads.com',
@@ -51804,15 +51903,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd0d2b4f9f0b58fb8208e31846217464d',
-  ),
-  'louisiana-state-university' => 
-  array (
-    'companyname' => 'Louisiana State University',
-    'companyemail' => 'webmaster at lsu dot edu',
-    'companyurl' => 'https://lsu.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'cd98c9da2d4410fcd3ea7117977f0e1d',
   ),
   'omeljs-info' => 
   array (
@@ -52093,6 +52183,15 @@
     'companyrbntype' => '',
     'key' => 'ac14ba3076cdeada738406c0751a4897',
   ),
+  'elalem-com' => 
+  array (
+    'companyname' => 'elalem.com',
+    'companyemail' => 'webmaster at elalem dot com',
+    'companyurl' => 'http://elalem.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4e8ebb65c6124846b2fae8eb0e0fc015',
+  ),
   'kalori-net' => 
   array (
     'companyname' => 'kalori.net',
@@ -52101,6 +52200,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'c2e052cda7befbbee025c82eb98720f8',
+  ),
+  'starm-com' => 
+  array (
+    'companyname' => 'starm.com',
+    'companyemail' => 'webmaster at starm dot com',
+    'companyurl' => 'http://starm.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '8531c49ddfdc374f1ef4db3dfa6d19ef',
   ),
   'musixmatch-com' => 
   array (
@@ -52119,15 +52227,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2ce5659fa61dcdc730a32f5f37b04a73',
-  ),
-  'wheaton-college-norton-ma' => 
-  array (
-    'companyname' => 'Wheaton College, Norton MA',
-    'companyemail' => 'webmaster at wheatonma dot edu',
-    'companyurl' => 'http://www.wheatonma.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9a27c7f32125de42db41d052f7a337f8',
   ),
   'fastserv-com' => 
   array (
@@ -52165,15 +52264,6 @@
     'companyrbntype' => '',
     'key' => 'b7183ed9b20624ed2dc0b1a812068a25',
   ),
-  'beo-com' => 
-  array (
-    'companyname' => 'beo.com',
-    'companyemail' => 'support at beo dot com',
-    'companyurl' => 'http://beo.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '22299223f37923056f3390198f6b5d43',
-  ),
   'fri-net' => 
   array (
     'companyname' => 'fri.net',
@@ -52201,15 +52291,6 @@
     'companyrbntype' => '',
     'key' => 'bd3fc3a1946b1e913d5c8871d9ece357',
   ),
-  'proofpoint-com' => 
-  array (
-    'companyname' => 'proofpoint.com',
-    'companyemail' => 'webmaster at proofpoint dot com',
-    'companyurl' => 'http://proofpoint.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '11954e320857855adcfcbd6c55c13b08',
-  ),
   'deltathreed-org' => 
   array (
     'companyname' => 'delta3d.org',
@@ -52218,15 +52299,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e13e2086bb1ff6c4a67526859d56492c',
-  ),
-  'wenzhou-medical-college' => 
-  array (
-    'companyname' => 'Wenzhou Medical College',
-    'companyemail' => 'webmaster at wzmu dot net',
-    'companyurl' => 'http://www.wzmu.net/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '56d89786bb087362e7e85666ec4a6f6c',
   ),
   'khon-kaen-university' => 
   array (
@@ -52245,6 +52317,24 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2eb6afbec487b95af2561433037fabb1',
+  ),
+  'wenzhou-medical-college' => 
+  array (
+    'companyname' => 'Wenzhou Medical College',
+    'companyemail' => 'webmaster at wzmu dot net',
+    'companyurl' => 'http://www.wzmu.net/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '56d89786bb087362e7e85666ec4a6f6c',
+  ),
+  'chico-net' => 
+  array (
+    'companyname' => 'chico.net',
+    'companyemail' => 'webmaster at chico dot net',
+    'companyurl' => 'http://chico.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0c65ad4a1b1030e3e6a382f49bc65b09',
   ),
   'university-of-california-berkeley' => 
   array (
@@ -52272,15 +52362,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '184e765e58ce30ea74ccd595bd386d6e',
-  ),
-  'chico-net' => 
-  array (
-    'companyname' => 'chico.net',
-    'companyemail' => 'webmaster at chico dot net',
-    'companyurl' => 'http://chico.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '0c65ad4a1b1030e3e6a382f49bc65b09',
   ),
   'bluehost-com' => 
   array (
@@ -52326,15 +52407,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '404e66f88812b37243de64899dcae054',
-  ),
-  'kabako-org' => 
-  array (
-    'companyname' => 'kabako.org',
-    'companyemail' => 'support at kabako dot org',
-    'companyurl' => 'http://kabako.org',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7aee88bd2474f4f81c9465278c288a90',
   ),
   'buenavista-org' => 
   array (
@@ -52399,6 +52471,15 @@
     'companyrbntype' => '',
     'key' => '78682d0763dff79c6bad83dac241d993',
   ),
+  'kabako-org' => 
+  array (
+    'companyname' => 'kabako.org',
+    'companyemail' => 'support at kabako dot org',
+    'companyurl' => 'http://kabako.org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7aee88bd2474f4f81c9465278c288a90',
+  ),
   'wenn-com' => 
   array (
     'companyname' => 'wenn.com',
@@ -52425,6 +52506,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd83e1c022bfc3bc81ed7158b91cf50ce',
+  ),
+  'university-of-western-australia' => 
+  array (
+    'companyname' => 'University of Western Australia',
+    'companyemail' => 'webmaster at uwa dot edu dot au',
+    'companyurl' => 'http://www.uwa.edu.au/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7f7c80fae8df21f18f08f5776da13151',
   ),
   'dlink-com-tw' => 
   array (
@@ -52624,15 +52714,6 @@
     'companyrbntype' => '',
     'key' => 'bff1c87c57670f71a1b2d2b5d9b07029',
   ),
-  'madrone-info' => 
-  array (
-    'companyname' => 'madrone.info',
-    'companyemail' => 'support at madrone dot info',
-    'companyurl' => 'http://madrone.info',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b2a0f299a7e2ebbadcbe4e8a0b3becb2',
-  ),
   'university-of-maryland-college-park' => 
   array (
     'companyname' => 'University of Maryland, College Park',
@@ -52759,15 +52840,6 @@
     'companyrbntype' => '',
     'key' => 'e8991f9329d49957949d6a7593baf5c4',
   ),
-  'ringcentral-com' => 
-  array (
-    'companyname' => 'ringcentral.com',
-    'companyemail' => 'webmaster at ringcentral dot com',
-    'companyurl' => 'http://ringcentral.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd49de48abee7611c9c5e3eff566143b4',
-  ),
   'northern-michigan-university' => 
   array (
     'companyname' => 'Northern Michigan University',
@@ -52803,6 +52875,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'eb687621da1f786ab234ee26dc1d76e5',
+  ),
+  'comana-net' => 
+  array (
+    'companyname' => 'comana.net',
+    'companyemail' => 'support at comana dot net',
+    'companyurl' => 'http://comana.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '68096eb9fede19fa3af188c427bac0c5',
   ),
   'apple-com' => 
   array (
