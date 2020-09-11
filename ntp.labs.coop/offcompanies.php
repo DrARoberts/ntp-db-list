@@ -20224,6 +20224,15 @@
     'companyrbntype' => '',
     'key' => 'd0e664148badc816f2dcaccd0c5a0e1a',
   ),
+  'dobson-alex-wireless-dobson-cellular-one' => 
+  array (
+    'companyname' => 'Dobson-Alex Wireless / Dobson-Cellular One',
+    'companyemail' => 'webmaster at cellularone dot com',
+    'companyurl' => 'http://cellularone.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '0a9cd6292175049f412d6d24564a2244',
+  ),
   'college-of-europe' => 
   array (
     'companyname' => 'College of Europe',
@@ -27972,15 +27981,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '8ea1a2d8b0b25a5ce7db228177a192aa',
-  ),
-  'qufacnib-cc' => 
-  array (
-    'companyname' => 'qufacnib.cc',
-    'companyemail' => 'webmaster at qufacnib dot cc',
-    'companyurl' => 'http://qufacnib.cc',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd29b9459467bd9088a97dd92efec9b45',
   ),
   'biglobe-ne-jp' => 
   array (

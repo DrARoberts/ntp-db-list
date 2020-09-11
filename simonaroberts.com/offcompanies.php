@@ -20224,6 +20224,15 @@
     'companyrbntype' => '',
     'key' => '6462d779db1633309d7be731d4ec378f',
   ),
+  'dobson-alex-wireless-dobson-cellular-one' => 
+  array (
+    'companyname' => 'Dobson-Alex Wireless / Dobson-Cellular One',
+    'companyemail' => 'webmaster at cellularone dot com',
+    'companyurl' => 'http://cellularone.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c6f2e84a0bc99280b3b2b9b30efb4ad7',
+  ),
   'college-of-europe' => 
   array (
     'companyname' => 'College of Europe',
@@ -27972,15 +27981,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '914444b4d0912e8665fd5a7ea30d4da8',
-  ),
-  'qufacnib-cc' => 
-  array (
-    'companyname' => 'qufacnib.cc',
-    'companyemail' => 'webmaster at qufacnib dot cc',
-    'companyurl' => 'http://qufacnib.cc',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'daa1213a4277a948a5bd937bfa92e5ed',
   ),
   'biglobe-ne-jp' => 
   array (
@@ -46071,15 +46071,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'beb9b2a1c34e1292e6ac3cb8b9fb05b2',
-  ),
-  'cdnplanet-com' => 
-  array (
-    'companyname' => 'cdnplanet.com',
-    'companyemail' => 'webmaster at cdnplanet dot com',
-    'companyurl' => 'http://cdnplanet.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'bc805050851be163f0fecbc387d98791',
   ),
   'factisresearch-com' => 
   array (
