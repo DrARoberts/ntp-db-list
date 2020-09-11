@@ -271,6 +271,15 @@
     'companyrbntype' => '',
     'key' => '9215f10fee6f8118f8d10bdecf45c39a',
   ),
+  'hofstra-university' => 
+  array (
+    'companyname' => 'Hofstra University',
+    'companyemail' => 'webmaster at hofstra dot edu',
+    'companyurl' => 'http://www.hofstra.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5c8ab2191bf1f982db6014ba0f1702a2',
+  ),
   'stockholm-school-of-economics-in-riga' => 
   array (
     'companyname' => 'Stockholm School of Economics in Riga',
@@ -5374,6 +5383,15 @@
     'companyrbntype' => '',
     'key' => '9b482f3b3aee0044d1d0e07b66e11d91',
   ),
+  'universidad-empresarial-mateo-kuljis' => 
+  array (
+    'companyname' => 'Universidad Empresarial Mateo Kuljis',
+    'companyemail' => 'webmaster at unikuljis dot edu dot bo',
+    'companyurl' => 'http://www.unikuljis.edu.bo/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '32b7d33e45ea4d265a04c7719de3b657',
+  ),
   'kerbala-university' => 
   array (
     'companyname' => 'Kerbala University',
@@ -10089,6 +10107,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '90beb71fe2c348168c52b5fcd6467195',
+  ),
+  'siam-university' => 
+  array (
+    'companyname' => 'Siam University',
+    'companyemail' => 'webmaster at siam dot edu',
+    'companyurl' => 'http://www.siam.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3e806612daede767705ad621198c993e',
   ),
   'marion-military-institute' => 
   array (
@@ -26047,6 +26074,15 @@
     'companyrbntype' => '',
     'key' => '16321ac33c8e8e99db217a7058d2df27',
   ),
+  'corriere-it' => 
+  array (
+    'companyname' => 'corriere.it',
+    'companyemail' => 'webmaster at corriere dot it',
+    'companyurl' => 'http://corriere.it',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'a6e75b66c1e0d972dda2c0586b2cc7bb',
+  ),
   'gamned-com' => 
   array (
     'companyname' => 'gamned.com',
@@ -32032,6 +32068,15 @@
     'companyrbntype' => '',
     'key' => '6da4fde4b0be7b59fd74291053bd7b65',
   ),
+  'sagepub-com' => 
+  array (
+    'companyname' => 'sagepub.com',
+    'companyemail' => 'webmaster at sagepub dot com',
+    'companyurl' => 'http://journals.sagepub.com/home/bds',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '071eef15636c44382dd721ba82a3e5bc',
+  ),
   'people-com-cn' => 
   array (
     'companyname' => 'people.com.cn',
@@ -32112,6 +32157,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '625c64adf81b558677aa838f60015269',
+  ),
+  'eagnews-org' => 
+  array (
+    'companyname' => 'eagnews.org',
+    'companyemail' => 'webmaster at eagnews dot org',
+    'companyurl' => 'http://eagnews.org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'cc99279810a5b8c6fea0bb369b27dd6c',
   ),
   'treycausey-com' => 
   array (
@@ -33624,15 +33678,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '2b8f8d7728e3009696672a56381e64c7',
-  ),
-  'atomz-com' => 
-  array (
-    'companyname' => 'atomz.com',
-    'companyemail' => 'webmaster at atomz dot com',
-    'companyurl' => 'http://atomz.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '74f56a928f2f52e32571318005f665ba',
   ),
   'costarastrology-com' => 
   array (
@@ -38224,6 +38269,15 @@
     'companyrbntype' => '',
     'key' => 'cc665ed6c5edc60aa1d36385f8f8de85',
   ),
+  'thinglink-me' => 
+  array (
+    'companyname' => 'thinglink.me',
+    'companyemail' => 'webmaster at thinglink dot me',
+    'companyurl' => 'http://thinglink.me',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '2be3f1cdd6262ebbfb256c924fe25ca9',
+  ),
   'stackshare-io' => 
   array (
     'companyname' => 'stackshare.io',
@@ -38520,15 +38574,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '79c318aea951e32b44a515ecb9fc442f',
-  ),
-  'capital-match-com' => 
-  array (
-    'companyname' => 'capital-match.com',
-    'companyemail' => 'webmaster at capital-match dot com',
-    'companyurl' => 'https://www.capital-match.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a446eef1e03f5ed24de28a1ab0f728fd',
   ),
   'kopimi-com' => 
   array (
@@ -39213,6 +39258,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '066656f7f379bbc2d5cc65cab6527ee4',
+  ),
+  'bild-de' => 
+  array (
+    'companyname' => 'bild.de',
+    'companyemail' => 'webmaster at bild dot de',
+    'companyurl' => 'http://bild.de',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'da54dd180222796dfd18f3773557f7b5',
   ),
   'dedicatedmedia-com' => 
   array (
@@ -42247,6 +42301,15 @@
     'companyrbntype' => '',
     'key' => 'b45b74e04d8f2c44205a7185b092f4a3',
   ),
+  'twodopeboyz-com' => 
+  array (
+    'companyname' => '2dopeboyz.com',
+    'companyemail' => 'webmaster at 2dopeboyz dot com',
+    'companyurl' => 'http://2dopeboyz.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '7f65f0eab2d1992d7a4f8a4938104158',
+  ),
   'orbitz-com' => 
   array (
     'companyname' => 'orbitz.com',
@@ -42561,6 +42624,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'bfdcd1593efe72160090b5fa049408cc',
+  ),
+  'legalmail-it' => 
+  array (
+    'companyname' => 'legalmail.it',
+    'companyemail' => 'webmaster at legalmail dot it',
+    'companyurl' => 'http://legalmail.it',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c734af03eb8a4e33d589b31fc80129bb',
   ),
   'climate-com' => 
   array (
@@ -43587,6 +43659,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '88094169df2b781422582634a6e473f8',
+  ),
+  'seed-co' => 
+  array (
+    'companyname' => 'seed.co',
+    'companyemail' => 'webmaster at seed dot co',
+    'companyurl' => 'https://seed.co/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '95a21a42f806b05d713d90a3360546db',
   ),
   'realtime-co' => 
   array (
@@ -46782,6 +46863,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd7859ea39bc923d1a30e16c1e898c7ad',
+  ),
+  'shoppingate-info' => 
+  array (
+    'companyname' => 'shoppingate.info',
+    'companyemail' => 'webmaster at shoppingate dot info',
+    'companyurl' => 'http://shoppingate.info',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'c9fa9bda0fe7bb4710d674a0f0a38f4f',
   ),
   'bethel-college-ks' => 
   array (
@@ -50635,6 +50725,15 @@
     'companyrbntype' => '',
     'key' => '18ee448bef8ba4d562992a02f9d188a5',
   ),
+  'kijiji-ca' => 
+  array (
+    'companyname' => 'kijiji.ca',
+    'companyemail' => 'webmaster at kijiji dot ca',
+    'companyurl' => 'http://kijiji.ca',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd4cf064de39bb776a257799505024969',
+  ),
   'nasa-gov' => 
   array (
     'companyname' => 'nasa.gov',
@@ -51661,6 +51760,15 @@
     'companyrbntype' => '',
     'key' => '5b1c7ea946715f8ecfa8f2ecc3f25a91',
   ),
+  'dinte-com' => 
+  array (
+    'companyname' => 'dinte.com',
+    'companyemail' => 'support at dinte dot com',
+    'companyurl' => 'http://dinte.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '394baf43f7881a5b62c0483b47d3853c',
+  ),
   'eide-org' => 
   array (
     'companyname' => 'eide.org',
@@ -51948,6 +52056,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '76d648bab7aa2ca8e5fd98d7cddc96b0',
+  ),
+  'university-of-pennsylvania' => 
+  array (
+    'companyname' => 'University of Pennsylvania',
+    'companyemail' => 'webmaster at upenn dot edu',
+    'companyurl' => 'https://upenn.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9341095cababe10db2652b6444595454',
   ),
   'carnegie-mellon-university' => 
   array (
