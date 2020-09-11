@@ -14005,15 +14005,6 @@
     'companyrbntype' => '',
     'key' => 'd99e08be5e3fb982a6c61f3390132468',
   ),
-  'capdeville-net' => 
-  array (
-    'companyname' => 'capdeville.net',
-    'companyemail' => 'webmaster at capdeville dot net',
-    'companyurl' => 'http://capdeville.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd7e75678f4bc0ea2ab167719182b5f6f',
-  ),
   'univesidade-agostinho-neto' => 
   array (
     'companyname' => 'Univesidade Agostinho Neto',
@@ -14067,6 +14058,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f485d0ac2496c1610654fd668d92b5bf',
+  ),
+  'capdeville-net' => 
+  array (
+    'companyname' => 'capdeville.net',
+    'companyemail' => 'webmaster at capdeville dot net',
+    'companyurl' => 'http://capdeville.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd7e75678f4bc0ea2ab167719182b5f6f',
   ),
   'xinjiang-normal-university' => 
   array (
@@ -38935,15 +38935,6 @@
     'companyrbntype' => '',
     'key' => '9d6fc39902e1617f62f84a6cdcc9d96d',
   ),
-  'hotplug-ru' => 
-  array (
-    'companyname' => 'hotplug.ru',
-    'companyemail' => 'webmaster at hotplug dot ru',
-    'companyurl' => 'http://hotplug.ru',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '232a403aec92cde5c1cbfaa370856dd2',
-  ),
   'mobclix-com' => 
   array (
     'companyname' => 'mobclix.com',
@@ -41481,15 +41472,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '8e0d4e4999c5eee9a94ef3da56b98799',
-  ),
-  'mainadv-com' => 
-  array (
-    'companyname' => 'mainadv.com',
-    'companyemail' => 'webmaster at mainadv dot com',
-    'companyurl' => 'http://mainadv.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '8ac746a5c4d80eef13c111eca4ae6a03',
   ),
   'crioojfv-net' => 
   array (
@@ -52525,15 +52507,6 @@
     'companyrbntype' => '',
     'key' => '76d648bab7aa2ca8e5fd98d7cddc96b0',
   ),
-  'university-of-pennsylvania' => 
-  array (
-    'companyname' => 'University of Pennsylvania',
-    'companyemail' => 'webmaster at upenn dot edu',
-    'companyurl' => 'https://upenn.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9341095cababe10db2652b6444595454',
-  ),
   'checkpointsys-com' => 
   array (
     'companyname' => 'checkpointsys.com',
@@ -53082,15 +53055,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '0107cda8266a06694500a791837e9a1f',
-  ),
-  'washington-state-university' => 
-  array (
-    'companyname' => 'Washington State University',
-    'companyemail' => 'webmaster at wsu dot edu',
-    'companyurl' => 'https://wsu.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '12781cccf526b6ffa0c5f6cfa9219707',
   ),
   'fri-net' => 
   array (
