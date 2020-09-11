@@ -17245,15 +17245,6 @@
     'companyrbntype' => '',
     'key' => '709742f818d368e51269b11c7d8b8087',
   ),
-  'institut-sup-rieur-de-management-et-de-technologie-matci' => 
-  array (
-    'companyname' => 'Institut Supérieur de Management et de Technologie (MATCI)',
-    'companyemail' => 'webmaster at matci dot ac dot ma',
-    'companyurl' => 'http://www.matci.ac.ma/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '440cbb260f9b6c82e628d5c4b6f3cd00',
-  ),
   'valahia-university-of-targoviste' => 
   array (
     'companyname' => 'Valahia University of Targoviste',
@@ -50886,15 +50877,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '06c3e51bf1af19dc674bb57670149722',
-  ),
-  'disqus-com' => 
-  array (
-    'companyname' => 'disqus.com',
-    'companyemail' => 'webmaster at disqus dot com',
-    'companyurl' => 'http://disqus.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5e72aa4a102b372fa2d2ad8954f8c140',
   ),
   'thoigian-com-vn' => 
   array (
