@@ -15769,15 +15769,6 @@
     'companyrbntype' => '',
     'key' => '833d9a050e798daee22df24a005f4814',
   ),
-  'kalamazoo-college' => 
-  array (
-    'companyname' => 'Kalamazoo College',
-    'companyemail' => 'webmaster at kzoo dot edu',
-    'companyurl' => 'http://www.kzoo.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ad67ebdecf0feba320044df859ce99a1',
-  ),
   'sultan-mizan-zainal-abidin-polytechnic' => 
   array (
     'companyname' => 'Sultan Mizan Zainal Abidin Polytechnic',
@@ -17316,15 +17307,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5ccb9831b02892dc05445de803aa1acb',
-  ),
-  'universidade-federal-de-rond-nia' => 
-  array (
-    'companyname' => 'Universidade Federal de Rondônia',
-    'companyemail' => 'webmaster at unir dot br',
-    'companyurl' => 'http://www.unir.br/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '52b4ac1167fc9d60746a7a5fc3cbd6cd',
   ),
   'komazawa-university' => 
   array (
