@@ -7480,15 +7480,6 @@
     'companyrbntype' => '',
     'key' => '0522d5b4dc4e696cfced9c342c83b2fa',
   ),
-  'los-rios-community-college-district' => 
-  array (
-    'companyname' => 'Los Rios Community College District',
-    'companyemail' => 'webmaster at losrios dot edu',
-    'companyurl' => 'http://losrios.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1a2ff92d70ba6d1c84276eeadb993842',
-  ),
   'p-dagogische-hochschule-ludwigsburg' => 
   array (
     'companyname' => 'Pädagogische Hochschule Ludwigsburg',
@@ -26344,15 +26335,6 @@
     'companyrbntype' => '',
     'key' => 'd220f517ae8e0c042a1cc91875d758df',
   ),
-  'tumra-com' => 
-  array (
-    'companyname' => 'tumra.com',
-    'companyemail' => 'webmaster at tumra dot com',
-    'companyurl' => 'http://tumra.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'c2918bed9452ab8177931a71bf9ba514',
-  ),
   'oneandone-com' => 
   array (
     'companyname' => '1and1.com',
@@ -35640,15 +35622,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'cccd431cebc8c03516e2ca4963d59eba',
-  ),
-  'islamic-azad-university-tehran-medical' => 
-  array (
-    'companyname' => 'Islamic Azad University, Tehran Medical',
-    'companyemail' => 'webmaster at iautmu dot ac dot ir',
-    'companyurl' => 'http://www.iautmu.ac.ir/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '35aea981b2d13bcbe7fbc0eacef40ec9',
   ),
   'connors-state-college' => 
   array (
