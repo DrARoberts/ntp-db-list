@@ -9946,15 +9946,6 @@
     'companyrbntype' => '',
     'key' => 'b607a8712e49d60b4a839d4db66f76a4',
   ),
-  'blackfeet-community-college' => 
-  array (
-    'companyname' => 'Blackfeet Community College',
-    'companyemail' => 'webmaster at bfcc dot edu',
-    'companyurl' => 'http://bfcc.edu',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7de1296637c77ce10248298786fe423c',
-  ),
   'siauliai-university' => 
   array (
     'companyname' => 'Siauliai University',
