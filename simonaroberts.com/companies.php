@@ -1,15 +1,6 @@
 <?php
 
  return array (
-  'house-united-states' => 
-  array (
-    'companyname' => 'House, United States',
-    'companyemail' => 'webmaster at house dot info',
-    'companyurl' => 'http://house.info',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '52a1ad721a9e04e988f70f564092e66c',
-  ),
   'chronolabs-cooperative' => 
   array (
     'companyname' => 'Chronolabs Cooperative',
@@ -18,6 +9,15 @@
     'companyrbn' => '41460248629',
     'companyrbntype' => 'ABN',
     'key' => '8e4cae19a51d54516a7d8e583e3a7980',
+  ),
+  'house-united-states' => 
+  array (
+    'companyname' => 'House, United States',
+    'companyemail' => 'webmaster at house dot info',
+    'companyurl' => 'http://house.info',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '52a1ad721a9e04e988f70f564092e66c',
   ),
   'dismal-key-united-states' => 
   array (
@@ -145,14 +145,14 @@
     'companyrbntype' => '',
     'key' => '81f0f53a688f054f243c37e557b49311',
   ),
-  'kimu-united-republic-of-tanzania' => 
+  'virginia-city-united-states' => 
   array (
-    'companyname' => 'Kimu, United Republic of Tanzania',
-    'companyemail' => 'webmaster at kimu dot com',
-    'companyurl' => 'http://kimu.com',
+    'companyname' => 'Virginia city, United States',
+    'companyemail' => 'webmaster at virginiacity dot com',
+    'companyurl' => 'http://virginiacity.com',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '5d33e437f6045074fc8d9603df05816b',
+    'key' => '9c5e2bcf012e2c6d70417b953dff5b6c',
   ),
   'chimi-equatorial-guinea' => 
   array (
@@ -162,15 +162,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '7203c0a1d8561a7100cf37434d3a3b83',
-  ),
-  'imba-eritrea' => 
-  array (
-    'companyname' => 'Imba, Eritrea',
-    'companyemail' => 'webmaster at imba dot info',
-    'companyurl' => 'http://imba.info',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '783cbe937884a47788695c2e20364a55',
   ),
   'crozier-united-states' => 
   array (
@@ -280,6 +271,15 @@
     'companyrbntype' => '',
     'key' => 'd62ce0d614a26c231d9dab8e8a123423',
   ),
+  'imba-eritrea' => 
+  array (
+    'companyname' => 'Imba, Eritrea',
+    'companyemail' => 'webmaster at imba dot info',
+    'companyurl' => 'http://imba.info',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '783cbe937884a47788695c2e20364a55',
+  ),
   'pallai-sri-lanka' => 
   array (
     'companyname' => 'Pallai, Sri Lanka',
@@ -370,15 +370,6 @@
     'companyrbntype' => '',
     'key' => '48e8d7810c8a0fb3319d08874ae40550',
   ),
-  'big-tree-united-states' => 
-  array (
-    'companyname' => 'Big tree, United States',
-    'companyemail' => 'webmaster at bigtree dot com',
-    'companyurl' => 'http://bigtree.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '96ea6b03f72285de0da85dbb67ba2140',
-  ),
   'filfla-malta' => 
   array (
     'companyname' => 'Filfla, Malta',
@@ -388,14 +379,14 @@
     'companyrbntype' => '',
     'key' => '618e6f04b9b3a103b926c490259b408b',
   ),
-  'virginia-city-united-states' => 
+  'kimu-united-republic-of-tanzania' => 
   array (
-    'companyname' => 'Virginia city, United States',
-    'companyemail' => 'webmaster at virginiacity dot com',
-    'companyurl' => 'http://virginiacity.com',
+    'companyname' => 'Kimu, United Republic of Tanzania',
+    'companyemail' => 'webmaster at kimu dot com',
+    'companyurl' => 'http://kimu.com',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '9c5e2bcf012e2c6d70417b953dff5b6c',
+    'key' => '5d33e437f6045074fc8d9603df05816b',
   ),
   'oster-united-states' => 
   array (
@@ -405,6 +396,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '740274cb35885ca2cc0f3492a3c66c70',
+  ),
+  'big-tree-united-states' => 
+  array (
+    'companyname' => 'Big tree, United States',
+    'companyemail' => 'webmaster at bigtree dot com',
+    'companyurl' => 'http://bigtree.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '96ea6b03f72285de0da85dbb67ba2140',
   ),
   'ibamba-gabon' => 
   array (
@@ -523,15 +523,6 @@
     'companyrbntype' => '',
     'key' => '377637ac798b8fd56a6ac694c2af8f5f',
   ),
-  'aa-net' => 
-  array (
-    'companyname' => 'aa.net',
-    'companyemail' => 'webmaster at aa dot net',
-    'companyurl' => 'http://aa.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '95064966323ef013d7179413314efbfd',
-  ),
   'ongo-gabon' => 
   array (
     'companyname' => 'Ongo, Gabon',
@@ -540,6 +531,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '18104e4d5e983b819ac7ae95c9c28568',
+  ),
+  'fox-downs-united-states' => 
+  array (
+    'companyname' => 'Fox downs, United States',
+    'companyemail' => 'webmaster at foxdowns dot com',
+    'companyurl' => 'http://foxdowns.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9deab659cca36361000adb62b2666bfd',
   ),
   'pula-samoa' => 
   array (
@@ -667,15 +667,6 @@
     'companyrbntype' => '',
     'key' => '0256a41c513d022be7958ddcb18b296e',
   ),
-  'rosemont-united-states' => 
-  array (
-    'companyname' => 'Rosemont, United States',
-    'companyemail' => 'webmaster at rosemont dot us',
-    'companyurl' => 'http://rosemont.us',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '37f8042229abc3ca840de6caf39607d0',
-  ),
   'luigi-uganda' => 
   array (
     'companyname' => 'Luigi, Uganda',
@@ -715,8 +706,8 @@
   'rebay-somalia' => 
   array (
     'companyname' => 'Rebay, Somalia',
-    'companyemail' => 'webmaster at rebay dot net',
-    'companyurl' => 'http://rebay.net',
+    'companyemail' => 'webmaster at rebay dot org',
+    'companyurl' => 'http://rebay.org',
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'af9e4209f1601dfa1374eac024d33978',
@@ -756,6 +747,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '982a92ef0ab2b1339f6db9f91537e716',
+  ),
+  'rosemont-united-states' => 
+  array (
+    'companyname' => 'Rosemont, United States',
+    'companyemail' => 'webmaster at rosemont dot us',
+    'companyurl' => 'http://rosemont.us',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '37f8042229abc3ca840de6caf39607d0',
   ),
   'home-republic-of-the-congo' => 
   array (
@@ -1485,15 +1485,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f67fe17be2e36a848117184442883e60',
-  ),
-  'fox-downs-united-states' => 
-  array (
-    'companyname' => 'Fox downs, United States',
-    'companyemail' => 'webmaster at foxdowns dot com',
-    'companyurl' => 'http://foxdowns.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '9deab659cca36361000adb62b2666bfd',
   ),
   'wafa-papua-new-guinea' => 
   array (
