@@ -2701,15 +2701,6 @@
     'companyrbntype' => '',
     'key' => '32bcf535881f55e674295896573e2123',
   ),
-  'ecole-sup-rieure-de-chimie-physique-electronique-de-lyon' => 
-  array (
-    'companyname' => 'Ecole Supérieure de Chimie Physique Electronique de Lyon',
-    'companyemail' => 'webmaster at cpe dot fr',
-    'companyurl' => 'http://www.cpe.fr/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '7725bcf88ea16573b8e98bed2c86ddda',
-  ),
   'universidade-cat-lica-de-santos' => 
   array (
     'companyname' => 'Universidade Católica de Santos',
