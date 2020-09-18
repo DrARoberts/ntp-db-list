@@ -1923,7 +1923,7 @@
     'online' => '2020-09-10, Thu, 05:47:38',
     'uptime' => '3 weeks 4 days 14 hours 29 mins',
     'updated' => '2020-09-10, Thu, 05:47:38',
-    'mored' => '1600427530',
+    'mored' => '1600428249',
     'key' => '8a307b609eabda8f16aa00e3a9c87f4c',
     'timezone' => 'UTC',
   ),
