@@ -2166,7 +2166,7 @@
     'online' => '2020-08-27, Thu, 08:53:50',
     'uptime' => '5 hours 52 mins',
     'updated' => '2020-08-27, Thu, 08:53:50',
-    'mored' => '1600466414',
+    'mored' => '1600467130',
     'key' => '9216f7b66f7b7901799db7a0b073dc76',
     'timezone' => 'UTC',
   ),
