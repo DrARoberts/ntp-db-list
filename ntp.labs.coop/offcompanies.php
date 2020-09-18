@@ -36586,15 +36586,6 @@
     'companyrbntype' => '',
     'key' => 'a23412cd9127581a86db974de476b634',
   ),
-  'adledge-com' => 
-  array (
-    'companyname' => 'adledge.com',
-    'companyemail' => 'webmaster at adledge dot com',
-    'companyurl' => 'http://adledge.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'f69b1e60d10f6b0fac5138ab77c9b46d',
-  ),
   'yelp-pl' => 
   array (
     'companyname' => 'yelp.pl',
