@@ -352,15 +352,6 @@
     'companyrbntype' => '',
     'key' => '6b4a5a6e2bbbc0614b536c661b3c0d9b',
   ),
-  'chikubi-zambia' => 
-  array (
-    'companyname' => 'Chikubi, Zambia',
-    'companyemail' => 'webmaster at chikubi dot com',
-    'companyurl' => 'http://chikubi.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '72a49d5261b579a88edb41da2eccde49',
-  ),
   'chq-lebanon' => 
   array (
     'companyname' => 'Chq, Lebanon',
@@ -450,6 +441,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'da417bb40397ddbf302fbd784c97e2ca',
+  ),
+  'chikubi-zambia' => 
+  array (
+    'companyname' => 'Chikubi, Zambia',
+    'companyemail' => 'webmaster at chikubi dot com',
+    'companyurl' => 'http://chikubi.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '72a49d5261b579a88edb41da2eccde49',
   ),
   'gata-spain' => 
   array (

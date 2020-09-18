@@ -10063,15 +10063,6 @@
     'companyrbntype' => '',
     'key' => 'a237fbce0a581de5494b10c51f55f90b',
   ),
-  'univesidade-agostinho-neto' => 
-  array (
-    'companyname' => 'Univesidade Agostinho Neto',
-    'companyemail' => 'webmaster at uan dot ao',
-    'companyurl' => 'http://www.uan.ao/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'bac7d47851b6101f30e2cfc646b8d532',
-  ),
   'universidad-cat-lica-de-valencia' => 
   array (
     'companyname' => 'Universidad Católica de Valencia',
@@ -19234,15 +19225,6 @@
     'companyrbntype' => '',
     'key' => '54711ef7fda9cf9114e778ec87b341e3',
   ),
-  'universitas-islam-syekh-yusuf' => 
-  array (
-    'companyname' => 'Universitas Islam Syekh-Yusuf',
-    'companyemail' => 'webmaster at unistangerang dot ac dot id',
-    'companyurl' => 'http://www.unistangerang.ac.id/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '851a0311f44c71b504a177fc0b8ed1d5',
-  ),
   'tipeez-com' => 
   array (
     'companyname' => 'tipeez.com',
@@ -23266,15 +23248,6 @@
     'companyrbntype' => '',
     'key' => 'd4f13b9f587666c335ac330f317ec064',
   ),
-  'universidad-mariano-ega-a' => 
-  array (
-    'companyname' => 'Universidad Mariano Egaña',
-    'companyemail' => 'webmaster at ume dot cl',
-    'companyurl' => 'http://www.ume.cl/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '6364035f1abef5204844481c34d08326',
-  ),
   'thebighits-com' => 
   array (
     'companyname' => 'thebighits.com',
@@ -23526,6 +23499,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '43ae57a9121330a909a95082cc1bd23f',
+  ),
+  'universitas-islam-syekh-yusuf' => 
+  array (
+    'companyname' => 'Universitas Islam Syekh-Yusuf',
+    'companyemail' => 'webmaster at unistangerang dot ac dot id',
+    'companyurl' => 'http://www.unistangerang.ac.id/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '851a0311f44c71b504a177fc0b8ed1d5',
   ),
   'sli-spark-com' => 
   array (
@@ -25146,15 +25128,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '1e3fc985b7fc92bf16b0cbf919a1a650',
-  ),
-  'tidy-com' => 
-  array (
-    'companyname' => 'tidy.com',
-    'companyemail' => 'webmaster at tidy dot com',
-    'companyurl' => 'http://tidy.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '956eb497a0424268889b4144f2cf5f44',
   ),
   'kxieadw-org' => 
   array (
@@ -28405,15 +28378,6 @@
     'companyrbntype' => '',
     'key' => 'de2a73f2812549822729109988bb7b22',
   ),
-  'mercadolivre-com' => 
-  array (
-    'companyname' => 'mercadolivre.com',
-    'companyemail' => 'webmaster at mercadolivre dot com',
-    'companyurl' => 'http://mercadolivre.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'fc1ba9ab38c0efdcb1598f03f6ed433d',
-  ),
   'anametrix-com' => 
   array (
     'companyname' => 'anametrix.com',
@@ -30753,6 +30717,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '5be0b563017d4b8175f5c008cc3b688c',
+  ),
+  'universidad-mariano-ega-a' => 
+  array (
+    'companyname' => 'Universidad Mariano Egaña',
+    'companyemail' => 'webmaster at ume dot cl',
+    'companyurl' => 'http://www.ume.cl/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '6364035f1abef5204844481c34d08326',
   ),
   'huffpo-net' => 
   array (
