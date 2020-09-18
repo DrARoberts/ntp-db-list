@@ -703,15 +703,6 @@
     'companyrbntype' => '',
     'key' => 'dc3bf66bcb5c71cc5e3eec8aa87771d3',
   ),
-  'fushun-petroleum-university' => 
-  array (
-    'companyname' => 'Fushun Petroleum University',
-    'companyemail' => 'webmaster at fspu dot edu dot cn',
-    'companyurl' => 'http://www.fspu.edu.cn/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '1eb2d410a61be1585059b61f99fcbd71',
-  ),
   'concordia-college-moorhead' => 
   array (
     'companyname' => 'Concordia College - Moorhead',
@@ -1557,6 +1548,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ece64ee3d3bd68e15a18080047b573b1',
+  ),
+  'american-university-of-armenia' => 
+  array (
+    'companyname' => 'American University of Armenia',
+    'companyemail' => 'webmaster at aua dot am',
+    'companyurl' => 'http://www.aua.am/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '1be25ca09b377f76165a2855f3a8ae34',
   ),
   'yuan-ze-university' => 
   array (
@@ -6256,6 +6256,15 @@
     'companyrbntype' => '',
     'key' => '5ce49fe759a8cf71be91d4480f3c17c3',
   ),
+  'emporia-state-university' => 
+  array (
+    'companyname' => 'Emporia State University',
+    'companyemail' => 'webmaster at emporia dot edu',
+    'companyurl' => 'http://www.emporia.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'e68e31d0fd98e9aed53fe9c55e00541f',
+  ),
   'changshin-university' => 
   array (
     'companyname' => 'Changshin University',
@@ -7668,6 +7677,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '065f7bbfa36b6fd6a0cff76a19c39aaa',
+  ),
+  'al-manar-university' => 
+  array (
+    'companyname' => 'Al-Manar University',
+    'companyemail' => 'webmaster at mut dot edu dot lb',
+    'companyurl' => 'http://www.mut.edu.lb/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4c686a027d69933e14cee596b4783709',
   ),
   'maritime-university-constanta' => 
   array (
@@ -16867,6 +16885,15 @@
     'companyrbntype' => '',
     'key' => '793692975d92798cfe433d4e86ce9073',
   ),
+  'accra-polytechnic' => 
+  array (
+    'companyname' => 'Accra Polytechnic',
+    'companyemail' => 'webmaster at accrapolytechnic dot edu dot gh',
+    'companyurl' => 'http://www.accrapolytechnic.edu.gh/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5b117f4139b4ef15b60da94f2e45b7e1',
+  ),
   'p-dagogische-hochschule-heidelberg' => 
   array (
     'companyname' => 'Pädagogische Hochschule Heidelberg',
@@ -21907,6 +21934,15 @@
     'companyrbntype' => '',
     'key' => '2ac4a8cc916bf14f1ffdd09a659edb50',
   ),
+  'montana-state-university-bozeman' => 
+  array (
+    'companyname' => 'Montana State University - Bozeman',
+    'companyemail' => 'webmaster at montana dot edu',
+    'companyurl' => 'http://www.montana.edu/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '500621c1e3c071ecf7673e5818917c51',
+  ),
   'albjkdomro-info' => 
   array (
     'companyname' => 'albjkdomro.info',
@@ -24184,6 +24220,15 @@
     'companyrbntype' => '',
     'key' => '7bb363b6bf5b0d1456107a2626639e12',
   ),
+  'bcove-me' => 
+  array (
+    'companyname' => 'bcove.me',
+    'companyemail' => 'webmaster at bcove dot me',
+    'companyurl' => 'http://bcove.me',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '38ed25e70d83069e36b172ddc5ce8153',
+  ),
   'ebay-ca' => 
   array (
     'companyname' => 'ebay.ca',
@@ -24642,6 +24687,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'b140e8473ecf5d81a6b313c3867d09e2',
+  ),
+  'jihadwatch-org' => 
+  array (
+    'companyname' => 'jihadwatch.org',
+    'companyemail' => 'webmaster at jihadwatch dot org',
+    'companyurl' => 'http://jihadwatch.org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4b697e011842b354acd648dfdb78bb56',
   ),
   'rabbitscams-com' => 
   array (
@@ -28684,6 +28738,15 @@
     'companyrbntype' => '',
     'key' => '5e7df03e6cea320aa56051d58cd72ab4',
   ),
+  'clickjogos-com-br' => 
+  array (
+    'companyname' => 'clickjogos.com.br',
+    'companyemail' => 'webmaster at clickjogos dot com dot br',
+    'companyurl' => 'http://clickjogos.com.br',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '4b532e444d5fb65e937f8a2759bab833',
+  ),
   'torrentdownloads-net' => 
   array (
     'companyname' => 'torrentdownloads.net',
@@ -29250,15 +29313,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'a00f8b7bae11115966ca2375e19dde6e',
-  ),
-  'addictinggames-com' => 
-  array (
-    'companyname' => 'addictinggames.com',
-    'companyemail' => 'webmaster at addictinggames dot com',
-    'companyurl' => 'http://addictinggames.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'eeba22486e5914048ef0dd00f4d32f76',
   ),
   'startpage-com' => 
   array (
@@ -31527,15 +31581,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'e0e9e8cc127938d69845826b631ae006',
-  ),
-  'montana-state-university-bozeman' => 
-  array (
-    'companyname' => 'Montana State University - Bozeman',
-    'companyemail' => 'webmaster at montana dot edu',
-    'companyurl' => 'http://www.montana.edu/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '500621c1e3c071ecf7673e5818917c51',
   ),
   'optonline-net' => 
   array (
@@ -38061,6 +38106,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '8306c34e7d413df8a938ad1aad434f9c',
+  ),
+  'hairyfilm-com' => 
+  array (
+    'companyname' => 'hairyfilm.com',
+    'companyemail' => 'webmaster at hairyfilm dot com',
+    'companyurl' => 'http://hairyfilm.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'fecc4a18f3d66e4fc674a21dcd6e6203',
   ),
   'universit-de-versailles-saint-quentin-en-yvelines' => 
   array (

@@ -334,6 +334,15 @@
     'companyrbntype' => '',
     'key' => '02e15dbe17b46f9392d57b954c25398c',
   ),
+  'gray-house-antigua-and-barbuda' => 
+  array (
+    'companyname' => 'Gray House, Antigua and Barbuda',
+    'companyemail' => 'webmaster at grayhouse dot com',
+    'companyurl' => 'http://grayhouse.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '15be2549f28d8581681db171dc87e6db',
+  ),
   'clegg-united-states' => 
   array (
     'companyname' => 'Clegg, United States',
@@ -451,14 +460,14 @@
     'companyrbntype' => '',
     'key' => '055bf8cfcfc127c0264872767830a932',
   ),
-  'gray-house-antigua-and-barbuda' => 
+  'boloka-djibouti' => 
   array (
-    'companyname' => 'Gray House, Antigua and Barbuda',
-    'companyemail' => 'webmaster at grayhouse dot com',
-    'companyurl' => 'http://grayhouse.com',
+    'companyname' => 'Boloka, Djibouti',
+    'companyemail' => 'webmaster at boloka dot org',
+    'companyurl' => 'http://boloka.org',
     'companyrbn' => '',
     'companyrbntype' => '',
-    'key' => '15be2549f28d8581681db171dc87e6db',
+    'key' => 'b6a3cfc5c022080fb3e45c1efda6ee7e',
   ),
   'raimund-united-states' => 
   array (
@@ -495,15 +504,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ab043e2f7bd69fa36ca2d641222a5ef7',
-  ),
-  'boloka-djibouti' => 
-  array (
-    'companyname' => 'Boloka, Djibouti',
-    'companyemail' => 'webmaster at boloka dot org',
-    'companyurl' => 'http://boloka.org',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'b6a3cfc5c022080fb3e45c1efda6ee7e',
   ),
   'mama-mk-ua' => 
   array (
