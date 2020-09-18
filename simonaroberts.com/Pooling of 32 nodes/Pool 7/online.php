@@ -1428,7 +1428,7 @@
     'online' => '2020-08-31, Mon, 19:20:44',
     'uptime' => '1 day 30 mins',
     'updated' => '2020-08-31, Mon, 19:20:44',
-    'mored' => '1600392987',
+    'mored' => '1600393706',
     'key' => '80232c884fa39dc0a3cb7db2cb12cdc8',
     'timezone' => 'UTC',
   ),

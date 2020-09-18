@@ -793,15 +793,6 @@
     'companyrbntype' => '',
     'key' => '0087178004d397ef2ba31cff02fd822e',
   ),
-  'mu-tah-university' => 
-  array (
-    'companyname' => 'Mu\' tah University',
-    'companyemail' => 'webmaster at mutah dot edu dot jo',
-    'companyurl' => 'http://www.mutah.edu.jo/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ff1c16e6a7ded3fb98b8f1b4c028bc44',
-  ),
   'indiana-university-purdue-university-at-columbus' => 
   array (
     'companyname' => 'Indiana University/Purdue University at Columbus',
@@ -12159,15 +12150,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '95c929159d794ba21f4d6e13b17d3505',
-  ),
-  'universidade-gregorio-semedo' => 
-  array (
-    'companyname' => 'Universidade Gregorio Semedo',
-    'companyemail' => 'webmaster at ugs dot ed dot ao',
-    'companyurl' => 'http://www.ugs.ed.ao/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '70f3b989fa11304345b345d68e8d670f',
   ),
   'monash-university-malaysia-campus' => 
   array (
@@ -29665,6 +29647,15 @@
     'companyrbntype' => '',
     'key' => '7049ae513a2d18c7a2f667b45e57a4f6',
   ),
+  'bingj-com' => 
+  array (
+    'companyname' => 'bingj.com',
+    'companyemail' => 'webmaster at bingj dot com',
+    'companyurl' => 'http://bingj.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd25f6efb189a8a8a303fe2ab64f73bc0',
+  ),
   'mortgagesmade-com' => 
   array (
     'companyname' => 'mortgagesmade.com',
@@ -35820,15 +35811,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '05ba768fecc66c6201c8e4377bbb3a1c',
-  ),
-  'stiahnut-sk' => 
-  array (
-    'companyname' => 'stiahnut.sk',
-    'companyemail' => 'webmaster at stiahnut dot sk',
-    'companyurl' => 'http://stiahnut.sk',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'a7cf9faad588e332b8d73f971394696f',
   ),
   'gridium-com' => 
   array (
