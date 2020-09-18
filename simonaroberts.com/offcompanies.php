@@ -16489,15 +16489,6 @@
     'companyrbntype' => '',
     'key' => '57e64b78f9e2c6d231bbd2ef3f60058a',
   ),
-  'bila-cerkva-state-agrarian-university' => 
-  array (
-    'companyname' => 'Bila Cerkva State Agrarian University',
-    'companyemail' => 'webmaster at btsau dot kiev dot ua',
-    'companyurl' => 'http://www.btsau.kiev.ua/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '0ebf5d8d899cb864cdfd50881fe0eb73',
-  ),
   'al-akhawayn-university' => 
   array (
     'companyname' => 'Al Akhawayn University',
@@ -30123,15 +30114,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '55de863991253587074944f92dafa284',
-  ),
-  'renofi-com' => 
-  array (
-    'companyname' => 'renofi.com',
-    'companyemail' => 'webmaster at renofi dot com',
-    'companyurl' => 'https://renofi.com/',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '36cd8e6c089218439cb9d3e0bb3858ac',
   ),
   'naver-jp' => 
   array (
