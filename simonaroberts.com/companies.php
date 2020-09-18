@@ -145,15 +145,6 @@
     'companyrbntype' => '',
     'key' => '81f0f53a688f054f243c37e557b49311',
   ),
-  'crozier-united-states' => 
-  array (
-    'companyname' => 'Crozier, United States',
-    'companyemail' => 'webmaster at crozier dot org',
-    'companyurl' => 'http://crozier.org',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '5d73a0714028447d88d4ad456d4aa5bf',
-  ),
   'kimu-united-republic-of-tanzania' => 
   array (
     'companyname' => 'Kimu, United Republic of Tanzania',
@@ -180,6 +171,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '783cbe937884a47788695c2e20364a55',
+  ),
+  'crozier-united-states' => 
+  array (
+    'companyname' => 'Crozier, United States',
+    'companyemail' => 'webmaster at crozier dot org',
+    'companyurl' => 'http://crozier.org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '5d73a0714028447d88d4ad456d4aa5bf',
   ),
   'tokitok-kenya' => 
   array (
@@ -334,15 +334,6 @@
     'companyrbntype' => '',
     'key' => '02e15dbe17b46f9392d57b954c25398c',
   ),
-  'pete-liberia' => 
-  array (
-    'companyname' => 'Pete, Liberia',
-    'companyemail' => 'webmaster at pete dot com',
-    'companyurl' => 'http://pete.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'dc25fc5b6e725ea7ae08fe5d60184c14',
-  ),
   'clegg-united-states' => 
   array (
     'companyname' => 'Clegg, United States',
@@ -478,6 +469,15 @@
     'companyrbntype' => '',
     'key' => '9e4be019ff217bcf90541673c4683000',
   ),
+  'evone-gabon' => 
+  array (
+    'companyname' => 'Evone, Gabon',
+    'companyemail' => 'webmaster at evone dot com',
+    'companyurl' => 'http://evone.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'be9f136f26ca16ad257fb9af5af2d75e',
+  ),
   'zw-austria' => 
   array (
     'companyname' => 'Zw, Austria',
@@ -549,6 +549,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'f159f47601e160dc2d2eaa52b7ffbd11',
+  ),
+  'pete-liberia' => 
+  array (
+    'companyname' => 'Pete, Liberia',
+    'companyemail' => 'webmaster at pete dot com',
+    'companyurl' => 'http://pete.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'dc25fc5b6e725ea7ae08fe5d60184c14',
   ),
   'aben-united-states' => 
   array (
@@ -676,6 +685,15 @@
     'companyrbntype' => '',
     'key' => '323aeb6df890b9209ac9cac6c26d5c7d',
   ),
+  'midway-united-states' => 
+  array (
+    'companyname' => 'Midway, United States',
+    'companyemail' => 'webmaster at midway dot org',
+    'companyurl' => 'http://midway.org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '702731f30bebdad2f93e305bdde69564',
+  ),
   'popponesset-united-states' => 
   array (
     'companyname' => 'Popponesset, United States',
@@ -693,6 +711,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'd00c05ddb145fa136efe5165e1507d7e',
+  ),
+  'rebay-somalia' => 
+  array (
+    'companyname' => 'Rebay, Somalia',
+    'companyemail' => 'webmaster at rebay dot net',
+    'companyurl' => 'http://rebay.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'af9e4209f1601dfa1374eac024d33978',
   ),
   'wacker-united-states' => 
   array (
@@ -802,15 +829,6 @@
     'companyrbntype' => '',
     'key' => '1e52323ae4ace47a95f9847c41a3cf5c',
   ),
-  'midway-united-states' => 
-  array (
-    'companyname' => 'Midway, United States',
-    'companyemail' => 'webmaster at midway dot org',
-    'companyurl' => 'http://midway.org',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => '702731f30bebdad2f93e305bdde69564',
-  ),
   'acala-united-states' => 
   array (
     'companyname' => 'Acala, United States',
@@ -819,15 +837,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'a8d5d6e429126f566a68aa945dab23b2',
-  ),
-  'rebay-somalia' => 
-  array (
-    'companyname' => 'Rebay, Somalia',
-    'companyemail' => 'webmaster at rebay dot net',
-    'companyurl' => 'http://rebay.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'af9e4209f1601dfa1374eac024d33978',
   ),
   'vista-mount-australia' => 
   array (
