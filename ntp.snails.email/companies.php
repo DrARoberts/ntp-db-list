@@ -973,15 +973,6 @@
     'companyrbntype' => '',
     'key' => '1fa1a4d0b06bf275b8374bc72d5bc7d0',
   ),
-  'beechfield-united-states' => 
-  array (
-    'companyname' => 'Beechfield, United States',
-    'companyemail' => 'webmaster at beechfield dot net',
-    'companyurl' => 'http://beechfield.net',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'd4c4807271e720eaa1d3d87f0912e5cb',
-  ),
   'kalito-uganda' => 
   array (
     'companyname' => 'Kalito, Uganda',
@@ -1251,6 +1242,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => 'ab3f49c91e3af28dfc85c970aadbfc51',
+  ),
+  'beechfield-united-states' => 
+  array (
+    'companyname' => 'Beechfield, United States',
+    'companyemail' => 'webmaster at beechfield dot net',
+    'companyurl' => 'http://beechfield.net',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => 'd4c4807271e720eaa1d3d87f0912e5cb',
   ),
   'kaikan-guyana' => 
   array (

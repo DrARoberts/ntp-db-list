@@ -1837,6 +1837,15 @@
     'companyrbntype' => '',
     'key' => '36cccb133f157bed459d4c503bfa3c74',
   ),
+  'volgograd-state-university-of-architecture-and-civil-engineering-volggasu' => 
+  array (
+    'companyname' => 'Volgograd State University of Architecture and Civil Engineering (VolgGASU)',
+    'companyemail' => 'webmaster at vgasa dot ru',
+    'companyurl' => 'http://www.vgasa.ru/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '9c09e12fdef7df7838fdcd138043c3cd',
+  ),
   'music-academy-stanislaw-moniuszko-in-gdansk' => 
   array (
     'companyname' => 'Music Academy "Stanislaw Moniuszko" in Gdansk',
