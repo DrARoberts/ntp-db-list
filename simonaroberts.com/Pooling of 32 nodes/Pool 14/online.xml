@@ -1,1 +1,1 @@
- Fatal: Unable to connect to database ~ (databasefactory.php:76)
+Fatal: DOMException: Invalid Character Error ~ (functions.php:929)<div style='color:#f0f0f0;background-color:#f0f0f0;'>_API_FATAL_BACKTRACE:<br></div>
