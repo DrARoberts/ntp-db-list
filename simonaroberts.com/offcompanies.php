@@ -1837,6 +1837,15 @@
     'companyrbntype' => '',
     'key' => '2f136e3835504030b779a8f258c055a2',
   ),
+  'volgograd-state-university-of-architecture-and-civil-engineering-volggasu' => 
+  array (
+    'companyname' => 'Volgograd State University of Architecture and Civil Engineering (VolgGASU)',
+    'companyemail' => 'webmaster at vgasa dot ru',
+    'companyurl' => 'http://www.vgasa.ru/',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '3cf15078f11a6f7a8b3c31ebada1b67f',
+  ),
   'music-academy-stanislaw-moniuszko-in-gdansk' => 
   array (
     'companyname' => 'Music Academy "Stanislaw Moniuszko" in Gdansk',
@@ -8928,6 +8937,15 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '6e9c00f38cf226feb9046862eb8c5065',
+  ),
+  'arkansas-state-university-mountain-home' => 
+  array (
+    'companyname' => 'Arkansas State University-​Mountain Home',
+    'companyemail' => 'webmaster at asumh dot edu',
+    'companyurl' => 'http://www.asumh.edu',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '74a1f78a6208bb3c15eccb53f05ee8d9',
   ),
   'universidad-mayor-de-san-andr-s' => 
   array (
@@ -31410,15 +31428,6 @@
     'companyrbn' => '',
     'companyrbntype' => '',
     'key' => '93801af602918e3c5bd3bbd11cbcb57f',
-  ),
-  'go-com' => 
-  array (
-    'companyname' => 'go.com',
-    'companyemail' => 'webmaster at go dot com',
-    'companyurl' => 'http://go.com',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'key' => 'ede0d541d0ee050f7c3817d78345f432',
   ),
   'nintendo-net' => 
   array (
