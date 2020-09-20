@@ -1,1 +1,0 @@
- Fatal: Unable to connect to database ~ (databasefactory.php:76)
