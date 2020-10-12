@@ -1,33 +1,6 @@
 <?php
 
  return array (
-  '064492a941567595d33619c3ee7a416c' => 
-  array (
-    'typal' => 'pool',
-    'hostname' => 'ntp4.culit.ph',
-    'port' => '123',
-    'name' => 'Dr. Simon Antony Roberts',
-    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
-    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
-    'companyname' => 'Culit, Philippines',
-    'companyurl' => 'http://culit.ph',
-    'companyemail' => 'webmaster at culit dot ph',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'companytype' => '',
-    'created' => '2020-10-09 05:57:37',
-    'pinging' => '24.70125000000000000000000000',
-    'pinged' => '2020-10-09, Fri, 20:23:58',
-    'prevping' => '2020-10-09, Fri, 18:31:33',
-    'reportnext' => '2020-10-23, Fri, 05:37:17',
-    'reportlast' => '2020-10-09, Fri, 05:57:37',
-    'online' => '2020-10-09, Fri, 18:37:48',
-    'uptime' => '2 hours 29 mins',
-    'updated' => '2020-10-09, Fri, 18:37:49',
-    'mored' => '0',
-    'key' => '064492a941567595d33619c3ee7a416c',
-    'timezone' => 'UTC',
-  ),
   '0d859432340b790dc85c125601aadfc4' => 
   array (
     'typal' => 'pool',
