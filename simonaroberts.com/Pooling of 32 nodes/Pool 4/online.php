@@ -4421,6 +4421,33 @@
     'key' => 'abfc3ecb4b886338093adc6c5f0503ae',
     'timezone' => 'UTC',
   ),
+  'ffbc48f8ce38cae40518e8c4ee89f19d' => 
+  array (
+    'typal' => 'pool',
+    'hostname' => '26.ntp.bares.info',
+    'port' => '123',
+    'name' => 'Dr. Simon Antony Roberts',
+    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
+    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
+    'companyname' => 'Bares, Equatorial Guinea',
+    'companyurl' => 'http://bares.info',
+    'companyemail' => 'webmaster at bares dot info',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'companytype' => '',
+    'created' => '2020-10-10 20:53:21',
+    'pinging' => '109.71975000000000000000000000',
+    'pinged' => '2020-10-11, Sun, 03:25:31',
+    'prevping' => '2020-10-11, Sun, 01:41:35',
+    'reportnext' => '2020-11-02, Mon, 11:43:56',
+    'reportlast' => '2020-10-10, Sat, 20:53:21',
+    'online' => '2020-10-11, Sun, 01:42:55',
+    'uptime' => '1 hour 24 mins',
+    'updated' => '2020-10-11, Sun, 01:42:55',
+    'mored' => '0',
+    'key' => 'ffbc48f8ce38cae40518e8c4ee89f19d',
+    'timezone' => 'UTC',
+  ),
 );
 
 ?>
