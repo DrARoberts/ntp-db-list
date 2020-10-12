@@ -1882,7 +1882,7 @@
     'online' => '2020-10-09, Fri, 05:32:40',
     'uptime' => '4 hours 33 mins',
     'updated' => '2020-10-09, Fri, 05:32:40',
-    'mored' => '1602463633',
+    'mored' => '1602467236',
     'key' => '1be1a381b56425d944739d4084dfd75a',
     'timezone' => 'UTC',
   ),
