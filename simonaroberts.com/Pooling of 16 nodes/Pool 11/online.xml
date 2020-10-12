@@ -1,1 +1,7 @@
-Fatal: DOMException: Invalid Character Error ~ (functions.php:929)<div style='color:#f0f0f0;background-color:#f0f0f0;'>_API_FATAL_BACKTRACE:<br></div>
+ mysqli Object
+(
+    [client_version] => 70403
+    [connect_errno] => 1040
+    [connect_error] => Too many connections
+)
+Fatal: Unable to connect to database ~ (databasefactory.php:76)
