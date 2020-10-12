@@ -1,6 +1,33 @@
 <?php
 
  return array (
+  '68e7858028f7db348a1ad11a6ec89eb9' => 
+  array (
+    'typal' => 'pool',
+    'hostname' => 'ntp25.aclan.ph',
+    'port' => '123',
+    'name' => 'Dr. Simon Antony Roberts',
+    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
+    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
+    'companyname' => 'Aclan, Philippines',
+    'companyurl' => 'http://aclan.ph',
+    'companyemail' => 'webmaster at aclan dot ph',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'companytype' => '',
+    'created' => '2020-10-09 04:08:56',
+    'pinging' => '24.66350000000000000000000000',
+    'pinged' => '2020-10-09, Fri, 11:40:28',
+    'prevping' => '2020-10-09, Fri, 10:26:41',
+    'reportnext' => '2020-10-15, Thu, 17:17:41',
+    'reportlast' => '2020-10-09, Fri, 04:08:56',
+    'online' => '2020-10-09, Fri, 10:28:51',
+    'uptime' => '4 hours 18 mins',
+    'updated' => '2020-10-09, Fri, 10:28:51',
+    'mored' => '0',
+    'key' => '68e7858028f7db348a1ad11a6ec89eb9',
+    'timezone' => 'UTC',
+  ),
   '865d29adfcfd16cee46cee70115bd20f' => 
   array (
     'typal' => 'pool',
