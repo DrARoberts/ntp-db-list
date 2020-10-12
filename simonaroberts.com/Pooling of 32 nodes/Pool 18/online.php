@@ -934,7 +934,7 @@
     'online' => '2020-10-11, Sun, 06:38:46',
     'uptime' => '1 hour 54 mins',
     'updated' => '2020-10-11, Sun, 06:38:46',
-    'mored' => '1602467226',
+    'mored' => '1602467234',
     'key' => '0abab96df1d0c663ad14279231049d13',
     'timezone' => 'UTC',
   ),
