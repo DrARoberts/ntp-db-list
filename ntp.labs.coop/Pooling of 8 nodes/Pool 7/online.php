@@ -17854,6 +17854,33 @@
     'key' => '44cf5d25b6c7ed462efd2e145c89f2b8',
     'timezone' => 'UTC',
   ),
+  '92121b49701561a9862b3a5675f161b5' => 
+  array (
+    'typal' => 'pool',
+    'hostname' => 'ntp21.banigan.ph',
+    'port' => '123',
+    'name' => 'Dr. Simon Antony Roberts',
+    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
+    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
+    'companyname' => 'Banigan, Philippines',
+    'companyurl' => 'http://banigan.ph',
+    'companyemail' => 'webmaster at banigan dot ph',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'companytype' => '',
+    'created' => '2020-10-08 10:07:23',
+    'pinging' => '24.64850000000000000000000000',
+    'pinged' => '2020-10-09, Fri, 02:52:46',
+    'prevping' => '2020-10-09, Fri, 01:02:01',
+    'reportnext' => '2020-10-27, Tue, 15:48:05',
+    'reportlast' => '2020-10-08, Thu, 10:07:23',
+    'online' => '2020-10-09, Fri, 01:03:53',
+    'uptime' => '1 hour 50 mins',
+    'updated' => '2020-10-09, Fri, 01:03:53',
+    'mored' => '0',
+    'key' => '92121b49701561a9862b3a5675f161b5',
+    'timezone' => 'UTC',
+  ),
 );
 
 ?>
