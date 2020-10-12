@@ -8922,6 +8922,33 @@
     'key' => '3c90862379d6b3d47f78e23faa25f87a',
     'timezone' => 'UTC',
   ),
+  '728aecb616a99ac04cdf6d55f733afda' => 
+  array (
+    'typal' => 'pool',
+    'hostname' => '4.ntp.hanchi.org',
+    'port' => '123',
+    'name' => 'Dr. Simon Antony Roberts',
+    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
+    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
+    'companyname' => 'Han-ch\'i, Taiwan',
+    'companyurl' => 'http://hanchi.org',
+    'companyemail' => 'webmaster at hanchi dot org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'companytype' => '',
+    'created' => '2020-10-11 01:50:31',
+    'pinging' => '71.98975000000000000000000000',
+    'pinged' => '2020-10-11, Sun, 07:30:10',
+    'prevping' => '2020-10-11, Sun, 06:05:30',
+    'reportnext' => '2020-10-14, Wed, 06:15:16',
+    'reportlast' => '2020-10-11, Sun, 01:50:31',
+    'online' => '2020-10-11, Sun, 06:09:08',
+    'uptime' => '2 hours 37 mins',
+    'updated' => '2020-10-11, Sun, 06:09:08',
+    'mored' => '0',
+    'key' => '728aecb616a99ac04cdf6d55f733afda',
+    'timezone' => 'UTC',
+  ),
 );
 
 ?>
