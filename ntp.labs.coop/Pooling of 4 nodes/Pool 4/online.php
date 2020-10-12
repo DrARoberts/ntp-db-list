@@ -1,33 +1,6 @@
 <?php
 
  return array (
-  '551614412b00bbc18b139e839b0b26e7' => 
-  array (
-    'typal' => 'pool',
-    'hostname' => '7.ntp.bauang.ph',
-    'port' => '123',
-    'name' => 'Dr. Simon Antony Roberts',
-    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
-    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
-    'companyname' => 'Bau-ang, Philippines',
-    'companyurl' => 'http://bauang.ph',
-    'companyemail' => 'webmaster at bauang dot ph',
-    'companyrbn' => '',
-    'companyrbntype' => '',
-    'companytype' => '',
-    'created' => '2020-10-08 08:55:29',
-    'pinging' => '24.70000000000000000000000000',
-    'pinged' => '2020-10-08, Thu, 17:24:00',
-    'prevping' => '2020-10-08, Thu, 15:53:23',
-    'reportnext' => '2020-11-09, Mon, 19:05:26',
-    'reportlast' => '2020-10-08, Thu, 08:55:29',
-    'online' => '2020-10-08, Thu, 15:55:04',
-    'uptime' => '1 hour 35 mins',
-    'updated' => '2020-10-08, Thu, 15:55:04',
-    'mored' => '0',
-    'key' => '551614412b00bbc18b139e839b0b26e7',
-    'timezone' => 'UTC',
-  ),
   'bd7b9bc6c0697dac180a5881c5b94d48' => 
   array (
     'typal' => 'pool',
