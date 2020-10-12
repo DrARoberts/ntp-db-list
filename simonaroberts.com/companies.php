@@ -4348,6 +4348,15 @@
     'companyrbntype' => '',
     'key' => '6e08d961afd3fbc1af7ad0bbec8f51aa',
   ),
+  'las-animas-venezuela' => 
+  array (
+    'companyname' => 'Las Animas, Venezuela',
+    'companyemail' => 'webmaster at lasanimas dot com',
+    'companyurl' => 'http://lasanimas.com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'key' => '776160e348d8c64ed0b55b44d3d47d91',
+  ),
 );
 
 ?>

@@ -2340,7 +2340,7 @@
     'offline' => '2020-10-09, Fri, 21:46:40',
     'uptime' => '12 hours 10 mins',
     'updated' => '2020-10-10, Sat, 03:35:11',
-    'mored' => '1602460895',
+    'mored' => '1602466340',
     'key' => 'd0c00374e7ed0a0b318af81f9b39ef9a',
     'timezone' => 'UTC',
   ),

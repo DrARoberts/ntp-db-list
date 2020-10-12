@@ -3099,7 +3099,7 @@
     'online' => '2020-10-11, Sun, 00:17:24',
     'uptime' => '5 hours 21 mins',
     'updated' => '2020-10-11, Sun, 00:17:24',
-    'mored' => '1602460813',
+    'mored' => '1602466510',
     'key' => 'cc4f1679b4d12a278a101a0e723ab0f8',
     'timezone' => 'UTC',
   ),
