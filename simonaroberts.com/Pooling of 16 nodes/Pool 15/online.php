@@ -1,6 +1,33 @@
 <?php
 
  return array (
+  '941abb31043e3829332d19c361e047ae' => 
+  array (
+    'typal' => 'pool',
+    'hostname' => 'ntp10.matabao.ph',
+    'port' => '123',
+    'name' => 'Dr. Simon Antony Roberts',
+    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
+    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
+    'companyname' => 'Matabao, Philippines',
+    'companyurl' => 'http://matabao.ph',
+    'companyemail' => 'webmaster at matabao dot ph',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'companytype' => '',
+    'created' => '2020-10-07 18:44:51',
+    'pinging' => '24.64900000000000000000000000',
+    'pinged' => '2020-10-08, Thu, 05:01:17',
+    'prevping' => '2020-10-08, Thu, 03:46:21',
+    'reportnext' => '2020-10-27, Tue, 07:43:05',
+    'reportlast' => '2020-10-07, Wed, 18:44:51',
+    'online' => '2020-10-08, Thu, 03:49:47',
+    'uptime' => '5 hours 12 mins',
+    'updated' => '2020-10-08, Thu, 03:49:47',
+    'mored' => '0',
+    'key' => '941abb31043e3829332d19c361e047ae',
+    'timezone' => 'UTC',
+  ),
   '42a2e49152e9dee3453be1beaf51a472' => 
   array (
     'typal' => 'pool',

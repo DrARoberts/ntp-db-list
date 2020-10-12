@@ -16395,6 +16395,29 @@
     'key' => 'a755cb0ba265cbb6155c4f223bc265ac',
     'timezone' => 'UTC',
   ),
+  'e1e63334047dfdebf6567f9b059f65ba' => 
+  array (
+    'typal' => 'pool',
+    'hostname' => 'ntp.kreuzberg.com',
+    'port' => '123',
+    'name' => 'Dr. Simon Antony Roberts',
+    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
+    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
+    'companyname' => 'Kreuzberg, Austria',
+    'companyurl' => 'http://kreuzberg.com',
+    'companyemail' => 'webmaster at kreuzberg dot com',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'companytype' => '',
+    'created' => '2020-10-12 01:36:30',
+    'pinging' => '0.00000000000000000000000000',
+    'reportnext' => '2020-11-11, Wed, 09:57:43',
+    'reportlast' => '2020-10-12, Mon, 01:36:30',
+    'updated' => '2020-10-12, Mon, 01:37:02',
+    'mored' => '0',
+    'key' => 'e1e63334047dfdebf6567f9b059f65ba',
+    'timezone' => 'UTC',
+  ),
 );
 
 ?>

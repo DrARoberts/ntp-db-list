@@ -1,6 +1,33 @@
 <?php
 
  return array (
+  '07ff93a98a722e287eb75247f4b83237' => 
+  array (
+    'typal' => 'pool',
+    'hostname' => '11.ntp.bridgeport.info',
+    'port' => '123',
+    'name' => 'Dr. Simon Antony Roberts',
+    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
+    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
+    'companyname' => 'Bridgeport, United States',
+    'companyurl' => 'http://bridgeport.info',
+    'companyemail' => 'webmaster at bridgeport dot info',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'companytype' => '',
+    'created' => '2020-10-07 00:16:41',
+    'pinging' => '34.09225000000000000000000000',
+    'pinged' => '2020-10-11, Sun, 21:48:35',
+    'prevping' => '2020-10-07, Wed, 04:03:24',
+    'reportnext' => '2020-10-23, Fri, 23:10:18',
+    'reportlast' => '2020-10-07, Wed, 00:16:41',
+    'online' => '2020-10-11, Sun, 20:30:46',
+    'uptime' => '1 hour 55 mins',
+    'updated' => '2020-10-11, Sun, 20:30:46',
+    'mored' => '0',
+    'key' => '07ff93a98a722e287eb75247f4b83237',
+    'timezone' => 'UTC',
+  ),
   'da87904fe67e401aace02bc9255bf5ca' => 
   array (
     'typal' => 'pool',

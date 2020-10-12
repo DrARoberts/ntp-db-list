@@ -1,6 +1,33 @@
 <?php
 
  return array (
+  'a229e4edd3fcdf79df77a06cda48a030' => 
+  array (
+    'typal' => 'pool',
+    'hostname' => 'ntp32.shinga.org',
+    'port' => '123',
+    'name' => 'Dr. Simon Antony Roberts',
+    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
+    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
+    'companyname' => 'Shinga, Republic of the Congo',
+    'companyurl' => 'http://shinga.org',
+    'companyemail' => 'webmaster at shinga dot org',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'companytype' => '',
+    'created' => '2020-10-06 21:54:35',
+    'pinging' => '71.59437500000000000000000000',
+    'pinged' => '2020-10-11, Sun, 09:55:23',
+    'prevping' => '2020-10-11, Sun, 08:45:23',
+    'reportnext' => '2020-10-25, Sun, 19:28:49',
+    'reportlast' => '2020-10-10, Sat, 18:57:04',
+    'online' => '2020-10-11, Sun, 08:49:58',
+    'uptime' => '4 days 9 hours 26 mins',
+    'updated' => '2020-10-11, Sun, 08:49:58',
+    'mored' => '0',
+    'key' => 'a229e4edd3fcdf79df77a06cda48a030',
+    'timezone' => 'UTC',
+  ),
   'd8c439ba1b1f0b7028883b5ee15e47bf' => 
   array (
     'typal' => 'pool',

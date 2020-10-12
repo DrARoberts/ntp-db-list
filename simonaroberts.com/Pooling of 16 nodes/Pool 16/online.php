@@ -8940,6 +8940,33 @@
     'key' => 'cd88458d9ca6b145ed7aa25ba5f818a9',
     'timezone' => 'UTC',
   ),
+  'ecef14913e0932a21c9377bee8251665' => 
+  array (
+    'typal' => 'pool',
+    'hostname' => 'ntp20.boni.info',
+    'port' => '123',
+    'name' => 'Dr. Simon Antony Roberts',
+    'nameurl' => 'https://sourceforge.net/p/chronolabs-cooperative/wiki/NTP%20Servers%20Pooling/',
+    'nameemail' => 'chronolabscoop at users dot sourceforge dot net',
+    'companyname' => 'Boni, Ctedivoire',
+    'companyurl' => 'http://boni.info',
+    'companyemail' => 'webmaster at boni dot info',
+    'companyrbn' => '',
+    'companyrbntype' => '',
+    'companytype' => '',
+    'created' => '2020-10-10 18:01:33',
+    'pinging' => '0.02795312500000000000000000',
+    'pinged' => '2020-10-11, Sun, 05:20:21',
+    'prevping' => '2020-10-11, Sun, 03:30:28',
+    'reportnext' => '2020-10-24, Sat, 09:24:06',
+    'reportlast' => '2020-10-10, Sat, 18:01:33',
+    'online' => '2020-10-11, Sun, 03:34:33',
+    'uptime' => '9 hours 26 mins',
+    'updated' => '2020-10-11, Sun, 03:34:33',
+    'mored' => '0',
+    'key' => 'ecef14913e0932a21c9377bee8251665',
+    'timezone' => 'UTC',
+  ),
 );
 
 ?>
